@@ -1,0 +1,21 @@
+{
+  "lastUpdated": "16",
+  "كلية الحاسبات": {
+    "برمجة 1": [
+      {
+        "id": "CPCS202-001",
+        "link": "https://chat.whatsapp.com/example-link-1"
+      },
+      {
+        "id": "CPCS202-002",
+        "link": "https://chat.whatsapp.com/example-link-2"
+      }
+    ],
+    "برمجة 2": [
+      {
+        "id": "CPCS203-001",
+        "link": "https://chat.whatsapp.com/example-link-3"
+      }
+    ]
+  }
+}
