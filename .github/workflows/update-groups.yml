@@ -24,6 +24,8 @@ jobs:
           python3 - <<EOF
           import re
           import sys
+          import os
+
 
           comment = """${{ github.event.comment.body }}"""
           pattern = r"department:\s*(.+)\ncategory:\s*(.+)\nid:\s*(.+)\nlink:\s*(.+)"
