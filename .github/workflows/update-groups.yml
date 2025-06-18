@@ -7,6 +7,9 @@ on:
 jobs:
   update-json:
     runs-on: ubuntu-latest
+    # Add permissions here
+    permissions:
+      contents: write # This grants write access to the repository contents
 
     if: github.event.issue.number == 1 && contains(github.event.comment.body, 'department:')
 
@@ -27,8 +30,6 @@ jobs:
           import os
           import json
 
-
-
           comment = """${{ github.event.comment.body }}"""
           pattern = r"department:\s*(.+)\ncategory:\s*(.+)\nid:\s*(.+)\nlink:\s*(.+)"
           match = re.search(pattern, comment)
@@ -36,7 +37,7 @@ jobs:
           if not match:
               print("❌ Comment format invalid")
               sys.exit(1)
-        
+          
           dept, category, group_id, link = match.groups()
           print("Parsed:", dept, category, group_id, link)
 
@@ -64,6 +65,7 @@ jobs:
 
           with open(path, "w", encoding="utf-8") as f:
               json.dump(data, f, ensure_ascii=False, indent=2)
+          EOF
 
       - name: Commit changes
         run: |
@@ -71,5 +73,5 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git add groups-data.json
           git commit -m "🤖 Add group from comment"
-          git push https://x-access-token:${{ secrets.MAIN_PAT }}@github.com/elyas-hassan/fiels.git HEAD:main
-
+          # No need for MAIN_PAT here if permissions.contents is set to write
+          git push
