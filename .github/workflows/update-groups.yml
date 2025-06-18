@@ -71,6 +71,4 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git add groups-data.json
           git commit -m "🤖 Add group from comment"
-          git push
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git push https://x-access-token:${{ secrets.ALT_PAT }}@github.com/elyas-hassan/fiels.git HEAD:main
