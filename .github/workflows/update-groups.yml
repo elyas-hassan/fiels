@@ -21,19 +21,18 @@ jobs:
 
       - name: Parse comment and update JSON
         run: |
-          import json
+          python3 - <<EOF
           import re
-          import os
+          import sys
 
           comment = """${{ github.event.comment.body }}"""
-          
           pattern = r"department:\s*(.+)\ncategory:\s*(.+)\nid:\s*(.+)\nlink:\s*(.+)"
           match = re.search(pattern, comment)
 
           if not match:
               print("❌ Comment format invalid")
-              exit(1)
-
+              sys.exit(1)
+        
           dept, category, group_id, link = match.groups()
           print("Parsed:", dept, category, group_id, link)
 
