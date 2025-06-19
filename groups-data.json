@@ -1,102 +1,41 @@
-name: Update groups-data.json from comment
-
-on:
-  issue_comment:
-    types: [created]
-
-jobs:
-  update-json:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
-    if: github.event.issue.number == 1 && contains(github.event.comment.body, 'department:')
-
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-
-      - name: Parse comment and update JSON
-        run: |
-          python3 - <<EOF
-          import re
-          import sys
-          import os
-          import json
-          import urllib.parse
-
-          comment = """${{ github.event.comment.body }}"""
-          pattern = r"department:\s*(.+?)\s*category:\s*(.+?)\s*id:\s*(.+?)\s*link:\s*(.+)"
-          match = re.search(pattern, comment, re.IGNORECASE | re.DOTALL)
-
-          if not match:
-              print("❌ Comment format invalid")
-              sys.exit(1)
-
-          dept, category, group_id, link = match.groups()
-          print(f"📦 Department: {dept}\n📚 Category: {category}\n🆔 ID: {group_id}\n🔗 Link: {link}")
-
-          parsed_link = urllib.parse.urlparse(link)
-          if not parsed_link.scheme or not parsed_link.netloc:
-              print("❌ Invalid URL")
-              sys.exit(1)
-
-          path = "groups-data.json"
-
-          if not os.path.exists(path):
-              with open(path, "w") as f:
-                  json.dump({}, f)
-
-          with open(path, "r", encoding="utf-8") as f:
-              try:
-                  data = json.load(f)
-                  if not isinstance(data, dict):
-                      print("❌ JSON root is not a dictionary")
-                      sys.exit(1)
-              except Exception as e:
-                  print(f"❌ Failed to parse JSON: {e}")
-                  sys.exit(1)
-
-          # Ensure structure
-          if dept not in data:
-              data[dept] = {}
-          if category not in data[dept]:
-              data[dept][category] = []
-
-          # Check for duplicate link globally (no matter dept/category)
-          for d in data.values():
-              if not isinstance(d, dict): continue
-              for cat in d.values():
-                  if not isinstance(cat, list): continue
-                  for group in cat:
-                      if group.get("link") == link:
-                          print("❌ Duplicate link found globally")
-                          sys.exit(1)
-
-          # Check for duplicate ID in the same category only
-          for group in data[dept][category]:
-              if group.get("id") == group_id:
-                  print("⚠️ Group ID already exists in this category, skipping")
-                  sys.exit(0)
-
-          # Append the new group
-          group_obj = { "id": group_id, "link": link }
-          data[dept][category].append(group_obj)
-          print("✅ Group added")
-
-          with open(path, "w", encoding="utf-8") as f:
-              json.dump(data, f, ensure_ascii=False, indent=2)
-          EOF
-
-      - name: Commit changes
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add groups-data.json
-          git diff --quiet || git commit -m "🤖 Add group from comment"
-          git push
+{
+  
+  "lastUpdated": "16",
+  "كلية الحاسبات": {
+    "برمجة 1": [
+      {
+        "id": "CPCS202-001",
+        "link": "https://chat.whatsapp.com/example-link-1"
+      },
+      {
+        "id": "CPCS202-002",
+        "link": "https://chat.whatsapp.com/example-link-2"
+      }Add commentMore actions
+    ],
+    "برمجة 2": [
+      {
+        "id": "CPCS203-001",
+        "link": "https://chat.whatsapp.com/example-link-3"
+      },
+      {
+        "id": "101",
+        "link": "https://chat.whatsapp.com/IcZZXNA81lfDmSwvrgvvyQ"
+      },
+      {
+        "id": "3102",
+        "link": "https://chat.whatsapp.com/IcZZXNA81lfDmSwv2218dwq"
+      }
+    ],
+    "تراكيب متقطعة": [
+      {
+        "id": "noway",
+        "link": "https://chat.whatsapp.com/IcZZXNA81lfDmSwvrgvvyQ"
+      },
+      {
+        "id": "103",
+        "link": "https://chat.whatsapp.com/IcZZXNA81lfDmSwvrgvvyQ"
+      }
+    ]
+  },
+  "updated_by_script": true
+}
