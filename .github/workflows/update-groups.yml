@@ -65,8 +65,10 @@ jobs:
           # Ensure structure
           if dept not in data:
               data[dept] = {}
+              print(f"➕ Created new department: {dept}")
           if category not in data[dept]:
               data[dept][category] = []
+              print(f"➕ Created new category under '{dept}': {category}")
 
           # Check for duplicate link globally (no matter dept/category)
           for d in data.values():
