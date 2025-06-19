@@ -99,6 +99,7 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add groups-data.json
-          git diff --quiet || git commit -m "🤖 Add group from comment"
+          git add -A
+          git status
+          git commit -am "🤖 Add group from comment" || echo "No changes to commit"
           git push
