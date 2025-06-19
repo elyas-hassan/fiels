@@ -7,9 +7,8 @@ on:
 jobs:
   update-json:
     runs-on: ubuntu-latest
-    # Add permissions here
     permissions:
-      contents: write # This grants write access to the repository contents
+      contents: write
 
     if: github.event.issue.number == 1 && contains(github.event.comment.body, 'department:')
 
@@ -29,17 +28,23 @@ jobs:
           import sys
           import os
           import json
+          import urllib.parse
 
           comment = """${{ github.event.comment.body }}"""
-          pattern = r"department:\s*(.+)\ncategory:\s*(.+)\nid:\s*(.+)\nlink:\s*(.+)"
-          match = re.search(pattern, comment)
+          pattern = r"department:\s*(.+?)\s*category:\s*(.+?)\s*id:\s*(.+?)\s*link:\s*(.+)"
+          match = re.search(pattern, comment, re.IGNORECASE | re.DOTALL)
 
           if not match:
               print("❌ Comment format invalid")
               sys.exit(1)
-          
+
           dept, category, group_id, link = match.groups()
-          print("Parsed:", dept, category, group_id, link)
+          print(f"📦 Department: {dept}\n📚 Category: {category}\n🆔 ID: {group_id}\n🔗 Link: {link}")
+
+          parsed_link = urllib.parse.urlparse(link)
+          if not parsed_link.scheme or not parsed_link.netloc:
+              print("❌ Invalid URL")
+              sys.exit(1)
 
           path = "groups-data.json"
 
@@ -72,6 +77,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add groups-data.json
-          git commit -m "🤖 Add group from comment"
-          # No need for MAIN_PAT here if permissions.contents is set to write
+          git diff --quiet || git commit -m "🤖 Add group from comment"
           git push
