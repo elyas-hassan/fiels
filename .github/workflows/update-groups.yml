@@ -55,18 +55,30 @@ jobs:
           with open(path, "r", encoding="utf-8") as f:
               data = json.load(f)
 
+          # Ensure structure
           if dept not in data:
               data[dept] = {}
           if category not in data[dept]:
               data[dept][category] = []
 
-          group_obj = { "id": group_id, "link": link }
+          # Check for duplicate link globally (no matter dept/category)
+          for d in data.values():
+              for cat in d.values():
+                  for group in cat:
+                      if group.get("link") == link:
+                          print("❌ Duplicate link found globally")
+                          sys.exit(1)
 
-          if group_obj not in data[dept][category]:
-              data[dept][category].append(group_obj)
-              print("✅ Group added")
-          else:
-              print("⚠️ Group already exists")
+          # Check for duplicate ID in the same category only
+          for group in data[dept][category]:
+              if group.get("id") == group_id:
+                  print("⚠️ Group ID already exists in this category, skipping")
+                  sys.exit(0)
+
+          # Append the new group
+          group_obj = { "id": group_id, "link": link }
+          data[dept][category].append(group_obj)
+          print("✅ Group added")
 
           with open(path, "w", encoding="utf-8") as f:
               json.dump(data, f, ensure_ascii=False, indent=2)
