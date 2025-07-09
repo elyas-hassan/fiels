@@ -1,0 +1,52 @@
+{
+  "quizzes": [
+    {
+      "id": "CPCS-211-LogicGates",
+      "category": "CPCS-211",
+      "title": "CPCS-211: Basic Logic Gates",
+      "timeLimit": 300,
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Which gate is known as the universal gate?",
+          "options": [
+            "AND",
+            "OR",
+            "NAND",
+            "XOR"
+          ],
+          "answer": "NAND"
+        },
+        {
+          "type": "true-false",
+          "question": "An OR gate outputs TRUE only if all inputs are TRUE.",
+          "answer": "false"
+        },
+        {
+          "type": "multiple-choice",
+          "question": "How many inputs can a standard NOT gate have?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "As many as needed"
+          ],
+          "answer": "1"
+        }
+      ]
+    },
+    {
+      "id": "CPCS-202-JavaBasics",
+      "category": "CPCS-202",
+      "title": "CPCS-202: Java Basics",
+      "timeLimit": 600,
+      "questions": [
+        {
+            "type": "true-false",
+            "question": "In Java, 'int' is a reference type.",
+            "answer": "false"
+        }
+      ]
+    }
+  ]
+}
