@@ -6,7 +6,6 @@
       "title": "CPCS-211: Basic Logic Gates",
       "timeLimit": 300,
       "questions": [
-        [
   {
     "type": "multiple-choice",
     "question": "وفقًا للمحاضرة، ما هو تعريف الكيمياء؟ [cite: 6]",
@@ -256,8 +255,7 @@
     "answer": "مولات المذاب لكل لتر من المحلول"
   }
 ]
-
-    
+    },
     {
       "id": "CPCS-202-JavaBasics",
       "category": "CPCS-202",
