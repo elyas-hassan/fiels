@@ -871,9 +871,9 @@
             ]
         },
         {
-            "id": "1",
-            "category": "CHEM-205",
-            "title": "CHEM-205: جزيئه الكيمياء",
+            "id": "3",
+            "category": "ISLS-201",
+            "title": "ISLS-201: ثقافه 2",
             "timeLimit": 2970,
             "questions": [
                 {
