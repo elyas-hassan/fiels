@@ -10,7 +10,7 @@ jobs:
     permissions:
       contents: write
 
-    if: github.event.issue.number == 1 && contains(github.event.comment.body, 'Department-')
+    if: github.event.issue.number == 1 && contains(github.event.comment.body, 'department:')
 
     steps:
       - name: Checkout repo
@@ -31,7 +31,7 @@ jobs:
           import urllib.parse
 
           comment = """${{ github.event.comment.body }}"""
-          pattern = r"Department-\s*(.+?)\s*Course-\s*(.+?)\s*Group-ID-\s*(.+?)\s*Link-\s*(.+)"
+          pattern = r"department:\s*(.+?)\s*category:\s*(.+?)\s*id:\s*(.+?)\s*link:\s*(.+)"
           match = re.search(pattern, comment, re.IGNORECASE | re.DOTALL)
 
           if not match:
@@ -39,7 +39,7 @@ jobs:
               sys.exit(1)
 
           dept, category, group_id, link = match.groups()
-          print(f"📦 Department: {dept}\n📚 Course: {category}\n🆔 Group ID: {group_id}\n🔗 Link: {link}")
+          print(f"📦 Department: {dept}\n📚 Category: {category}\n🆔 ID: {group_id}\n🔗 Link: {link}")
 
           parsed_link = urllib.parse.urlparse(link)
           if not parsed_link.scheme or not parsed_link.netloc:
@@ -68,7 +68,7 @@ jobs:
               print(f"➕ Created new department: {dept}")
           if category not in data[dept]:
               data[dept][category] = []
-              print(f"➕ Created new course under '{dept}': {category}")
+              print(f"➕ Created new category under '{dept}': {category}")
 
           # Check for duplicate link globally (no matter dept/category)
           for d in data.values():
@@ -83,7 +83,7 @@ jobs:
           # Check for duplicate ID in the same category only
           for group in data[dept][category]:
               if group.get("id") == group_id:
-                  print("⚠️ Group ID already exists in this course, skipping")
+                  print("⚠️ Group ID already exists in this category, skipping")
                   sys.exit(0)
 
           # Append the new group
