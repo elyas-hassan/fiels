@@ -10,7 +10,7 @@ jobs:
     permissions:
       contents: write
 
-    if: github.event.issue.number == 1 && contains(github.event.comment.body, 'department:')
+    if: github.event.issue.number == 1 && contains(github.event.comment.body, 'Department:')
 
     steps:
       - name: Checkout repo
@@ -31,25 +31,28 @@ jobs:
           import urllib.parse
 
           comment = """${{ github.event.comment.body }}"""
-          pattern = r"department:\s*(.+?)\s*category:\s*(.+?)\s*id:\s*(.+?)\s*link:\s*(.+)"
+          
+          # This corrected pattern matches the format "- Keyword: value" and looks for "Course"
+          pattern = r"-\s*Department:\s*(.+?)\s*-\s*Course:\s*(.+?)\s*-\s*ID:\s*(.+?)\s*-\s*Link:\s*(.+)"
+          
           match = re.search(pattern, comment, re.IGNORECASE | re.DOTALL)
 
           if not match:
-              print("❌ Comment format invalid")
+              print("❌ Comment format invalid. Expected format with '- Keyword: value' on separate lines.")
               sys.exit(1)
 
-          dept, category, group_id, link = match.groups()
+          dept, category, group_id, link = [s.strip() for s in match.groups()]
           print(f"📦 Department: {dept}\n📚 Category: {category}\n🆔 ID: {group_id}\n🔗 Link: {link}")
 
           parsed_link = urllib.parse.urlparse(link)
           if not parsed_link.scheme or not parsed_link.netloc:
-              print("❌ Invalid URL")
+              print(f"❌ Invalid URL format: {link}")
               sys.exit(1)
 
           path = "groups-data.json"
 
           if not os.path.exists(path):
-              with open(path, "w") as f:
+              with open(path, "w", encoding="utf-8") as f:
                   json.dump({}, f)
 
           with open(path, "r", encoding="utf-8") as f:
@@ -71,25 +74,25 @@ jobs:
               print(f"➕ Created new category under '{dept}': {category}")
 
           # Check for duplicate link globally (no matter dept/category)
-          for d in data.values():
-              if not isinstance(d, dict): continue
-              for cat in d.values():
-                  if not isinstance(cat, list): continue
-                  for group in cat:
+          for d_key, d_val in data.items():
+              if not isinstance(d_val, dict): continue
+              for c_key, c_val in d_val.items():
+                  if not isinstance(c_val, list): continue
+                  for group in c_val:
                       if group.get("link") == link:
-                          print("❌ Duplicate link found globally")
+                          print(f"❌ Duplicate link found in {d_key}/{c_key}. Submission rejected.")
                           sys.exit(1)
 
           # Check for duplicate ID in the same category only
           for group in data[dept][category]:
               if group.get("id") == group_id:
-                  print("⚠️ Group ID already exists in this category, skipping")
+                  print("⚠️ Group ID already exists in this category, skipping.")
                   sys.exit(0)
 
           # Append the new group
           group_obj = { "id": group_id, "link": link }
           data[dept][category].append(group_obj)
-          print("✅ Group added")
+          print("✅ Group added to JSON object.")
 
           with open(path, "w", encoding="utf-8") as f:
               json.dump(data, f, ensure_ascii=False, indent=2)
@@ -97,9 +100,13 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add -A
-          git status
-          git commit -am "🤖 Add group from comment" || echo "No changes to commit"
-          git push
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add groups-data.json
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "🤖 Chore: Add new group from issue comment"
+            git push
+          fi
