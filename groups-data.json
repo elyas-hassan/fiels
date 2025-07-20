@@ -1,38 +1,12 @@
 {
   "كلية الحاسبات": {
-    "تراكيب متقطعة": [
-      {
-        "id": "noway",
-        "link": "https://chat.whatsapp.com/IcZZXNA81lfDmSwvrgvvyQ"
-      },
-      {
-        "id": "103",
-        "link": "https://chat.whatsapp.com/IcZZXNA81lfDmSwvrgvvy32902"
-      },
-      {
-        "id": "66666",
-        "link": "https://chat.whatsapp.com/IcZZXNA81lfDmSwvrgvvyQq211111"
-      }
-    ],
-    "تصميم المنطق الرقمي": [
-      {
-        "id": "103",
-        "link": "https://chat.whatsapp.com/IcZZXNA81lfDmSwvRgZAbCd"
-      }
-    ],
-    "برمجة 2": [
-      {
-        "id": "3102",
-        "link": "https://chat.whatsapp.com/IcZZXNA81lfDmSwv2218dwdwww1"
-      },
-      {
-        "id": "10543",
-        "link": "https://chat.whatsapp.com/IcZZXNA81lfDmSwv2218dwqsa"
-      },
-      {
-        "id": "1031211",
-        "link": "https://chat.whatsapp.com/IcZZXNA81lfDmSwvrgvee"
-      }
-    ]
+    "تراكيب متقطعة": [],
+    "مقدمة حوسبة": [],
+    "برمجة 2": [],
+    "برمجة 1":[],
+    "تراكيب بيانات 1": [],
+    "تصميم المنطق الرقمي": [],
+    "رياضيات تطبيقية للحوبية":[]
+    
   }
 }
