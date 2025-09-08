@@ -1,12 +1,12 @@
 {
-  "title": "Computer Science Study Notes",
-  "description": "Comprehensive study notes for CS students",
+  "title": "Math-202",
+  "description": "",
   "type": "link",
   "department": "cs",
   "level": "2",
   "courseType": "Study Materials",
   "tags": ["drive"],
-  "uploadDate": "2025-01-27",
+  /* "uploadDate": "2025-01-27",Inline comment */
   "uploadedBy": "Your Name",
   "url": "https://drive.google.com/drive/folders/1BZKZtztkCAZRbIgxcesAkDWHEcc8Y02v",
   "downloadUrl": "https://drive.google.com/drive/folders/1BZKZtztkCAZRbIgxcesAkDWHEcc8Y02v"
