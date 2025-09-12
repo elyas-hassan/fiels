@@ -1,0 +1,186 @@
+{
+  "id": "1",
+  "category": "CPCS-212",
+  "title": "FIRST_25PAGES_1LAB",
+  "timeLimit": 3600,
+  "questions": [
+    {
+      "type": "multiple-choice",
+      "question": "Which command checks if a variable name is already in use by a built-in function?",
+      "options": [
+        "exist",
+        "isvar",
+        "which",
+        "help"
+      ],
+      "answer": "which"
+    },
+    {
+      "type": "true-false",
+      "question": "The command 'format long' permanently changes the precision of a variable stored in memory.",
+      "answer": "false"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which function generates a vector of logarithmically spaced points?",
+      "options": [
+        "linspace",
+        "logspace",
+        "rand",
+        "log"
+      ],
+      "answer": "logspace"
+    },
+    {
+      "type": "true-false",
+      "question": "A valid MATLAB variable name can start with an underscore (_).",
+      "answer": "false"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What function creates a matrix of normally distributed random numbers?",
+      "options": [
+        "rand(m,n)",
+        "randn(m,n)",
+        "randperm(n)",
+        "magic(n)"
+      ],
+      "answer": "randn(m,n)"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do you perform horizontal concatenation of two matrices, A and B?",
+      "options": [
+        "C = [A; B]",
+        "C = [A | B]",
+        "C = [A B]",
+        "C = A + B"
+      ],
+      "answer": "C = [A B]"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does the 'numel(A)' function return for a matrix A?",
+      "options": [
+        "The number of dimensions",
+        "The length of the largest dimension",
+        "The dimensions as a vector [rows, columns]",
+        "The total number of elements"
+      ],
+      "answer": "The total number of elements"
+    },
+    {
+        "type": "true-false",
+        "question": "To access the element in the last row and first column of a matrix A, you can use the command A(1, end).",
+        "answer": "false"
+    },
+    {
+        "type": "multiple-choice",
+        "question": "Which command lists the variables in the workspace along with details like their size and class?",
+        "options": [
+            "who",
+            "whos",
+            "dir",
+            "details"
+        ],
+        "answer": "whos"
+    },
+    {
+        "type": "multiple-choice",
+        "question": "What is the purpose of the 'diary' command?",
+        "options": [
+            "To save all workspace variables",
+            "To create a log of commands and their output",
+            "To load variables from a file",
+            "To clear the command history"
+        ],
+        "answer": "To create a log of commands and their output"
+    },
+    {
+        "type": "true-false",
+        "question": "In MATLAB, you must declare a variable's type before you can assign a value to it.",
+        "answer": "false"
+    },
+    {
+        "type": "multiple-choice",
+        "question": "What does the colon operator expression 'v2 = 10:-2:0' produce?",
+        "options": [
+            "[10 8 6 4 2]",
+            "[10 8 6 4 2 0]",
+            "[10 -2 0]",
+            "An error"
+        ],
+        "answer": "[10 8 6 4 2 0]"
+    },
+    {
+        "type": "multiple-choice",
+        "question": "To extract elements from matrix A where a certain condition is met (e.g., A > 10), you would use:",
+        "options": [
+            "Conditional Indexing",
+            "Loop Indexing",
+            "Logical Indexing",
+            "The 'find' function only"
+        ],
+        "answer": "Logical Indexing"
+    },
+    {
+        "type": "true-false",
+        "question": "The function 'isvector(A)' returns true if A is a 1x1 matrix.",
+        "answer": "false"
+    },
+    {
+        "type": "multiple-choice",
+        "question": "What is the operator for a complex conjugate transpose in MATLAB?",
+        "options": [
+            "^",
+            "&",
+            "%",
+            "'"
+        ],
+        "answer": "'"
+    },
+    {
+        "type": "multiple-choice",
+        "question": "Which function would you use to get the dimensions of a matrix A as a vector (e.g., [rows, columns])?",
+        "options": [
+            "length(A)",
+            "ndims(A)",
+            "size(A)",
+            "numel(A)"
+        ],
+        "answer": "size(A)"
+    },
+    {
+      "type": "true-false",
+      "question": "The 'save filename' command saves only the most recently created variable to filename.mat.",
+      "answer": "false"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does the `find(A > 5)` function return?",
+      "options": [
+        "A logical matrix of true/false values",
+        "The values in A that are greater than 5",
+        "The linear indices of elements greater than 5",
+        "The row and column of the first element greater than 5"
+      ],
+      "answer": "The linear indices of elements greater than 5"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The command `format short eng` displays a number in:",
+      "options": [
+        "Scientific notation with 4 decimal digits",
+        "Fixed-point notation with 4 decimal digits",
+        "The best of fixed or floating point",
+        "Engineering notation with an exponent that is a multiple of three"
+      ],
+      "answer": "Engineering notation with an exponent that is a multiple of three"
+    },
+    {
+        "type": "true-false",
+        "question": "The function `diag(v)` creates a square matrix with the elements of vector v on the anti-diagonal.",
+        "answer": "false"
+    }
+  ]
+}
