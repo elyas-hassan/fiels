@@ -1,0 +1,192 @@
+{
+  "id": "2",
+  "category": "CPCS-211",
+  "title": "Chapter 2",
+  "timeLimit": 3600,
+  "questions": [
+    {
+      "type": "true-false",
+      [cite_start]"question": "In a combinational system, the outputs at any given time depend only on the inputs present at that time. [cite: 996]",
+      "answer": "true"
+    },
+    {
+      "type": "multiple-choice",
+      [cite_start]"question": "What is the primary purpose of using 'don't care' conditions (X) in a truth table? [cite: 1026, 1027]",
+      "options": [
+        "To indicate that an input combination is impossible.",
+        "To allow for simplification by choosing the output (0 or 1) that results in a simpler circuit.",
+        "To signify an error state in the system.",
+        "To show that the output oscillates between 0 and 1."
+      ],
+      "answer": "To allow for simplification by choosing the output (0 or 1) that results in a simpler circuit."
+    },
+    {
+      "type": "multiple-choice",
+      [cite_start]"question": "According to the properties of Switching Algebra, what does the expression a + a'b simplify to? [cite: 1889]",
+      "options": [
+        "a",
+        "b",
+        "a + b",
+        "ab"
+      ],
+      "answer": "a + b"
+    },
+    {
+      "type": "multiple-choice",
+      [cite_start]"question": "Which of the following terms is a 'minterm' or 'standard product term' for a function of three variables (x, y, z)? [cite: 1842]",
+      "options": [
+        "x'y",
+        "x'yz'",
+        "y' + z",
+        "x + y + z"
+      ],
+      "answer": "x'yz'"
+    },
+    {
+      "type": "true-false",
+      [cite_start]"question": "An implementation of a Sum-of-Products (SOP) expression where inputs are available in both complemented and uncomplemented forms results in a two-level circuit. [cite: 2071]",
+      "answer": "true"
+    },
+    {
+      "type": "multiple-choice",
+      [cite_start]"question": "Using DeMorgan's Law, what is the complement of the expression (a'b + c)? [cite: 2316, 2317, 2325]",
+      "options": [
+        "(a + b')c'",
+        "ab' + c'",
+        "a'b'c'",
+        "(a + b')c"
+      ],
+      "answer": "(a + b')c'"
+    },
+    {
+      "type": "multiple-choice",
+      [cite_start]"question": "A Product-of-Sums (POS) expression corresponds to which type of two-level network? [cite: 2101]",
+      "options": [
+        "AND-OR",
+        "OR-AND",
+        "NAND-NAND",
+        "NOR-NOR"
+      ],
+      "answer": "OR-AND"
+    },
+    {
+        "type": "true-false",
+        [cite_start]"question": "The expression x(w' + yz) is in both Sum-of-Products and Product-of-Sums form. [cite: 1945]",
+        "answer": "false"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the Sum-of-Minterms expression for a 1-bit full adder's 'Sum' output, where the inputs are a, b, and c_in?",
+      "options": [
+        "∑m(1, 2, 4, 7)",
+        "∑m(3, 5, 6, 7)",
+        "∑m(0, 3, 5, 6)",
+        "∑m(1, 2, 3, 5)"
+      ],
+      "answer": "∑m(1, 2, 4, 7)"
+    },
+    {
+        "type": "multiple-choice",
+        [cite_start]"question": "Why are NAND and NOR gates often preferred in circuit design? [cite: 2527]",
+        "options": [
+          "They are faster than AND and OR gates.",
+          "They use less power than other gates.",
+          "Only one type of gate (either NAND or NOR) is needed to implement any logic function.",
+          "They are physically smaller than AND/OR gates."
+        ],
+        "answer": "Only one type of gate (either NAND or NOR) is needed to implement any logic function."
+    },
+    {
+        "type": "true-false",
+        [cite_start]"question": "A 14-pin DIP package, with 2 pins for power, has enough remaining pins to fit six two-input AND gates. [cite: 2149, 2150]",
+        "answer": "false"
+    },
+    {
+        "type": "multiple-choice",
+        [cite_start]"question": "Which logic gate's output is 1 only when both of its inputs are the same (either both 0 or both 1)? [cite: 2567]",
+        "options": [
+          "XOR",
+          "NAND",
+          "XNOR",
+          "NOR"
+        ],
+        "answer": "XNOR"
+    },
+    {
+        "type": "multiple-choice",
+        [cite_start]"question": "To implement a function using only NOR gates, the algebraic expression should first be converted to which form for the most direct conversion? [cite: 2563]",
+        "options": [
+          "Sum of Products (SOP)",
+          "Product of Sums (POS)",
+          "Canonical Sum",
+          "A multi-level factored form"
+        ],
+        "answer": "Product of Sums (POS)"
+    },
+    {
+      "type": "multiple-choice",
+      [cite_start]"question": "Simplify the algebraic expression: xyz + x'y + x'y'. [cite: 2583]",
+      "options": [
+        "x' + y",
+        "y + z",
+        "x' + yz",
+        "x + y'z'"
+      ],
+      "answer": "x' + yz"
+    },
+    {
+      "type": "true-false",
+      [cite_start]"question": "The dual of a switching algebra property is found by interchanging OR and AND operators, and interchanging the variables with their complements. [cite: 1777]",
+      "answer": "false"
+    },
+    {
+        "type": "multiple-choice",
+        [cite_start]"question": "How many distinct switching functions can exist for a system with 3 variables? [cite: 2456, 2465]",
+        "options": [
+            "8",
+            "16",
+            "64",
+            "256"
+        ],
+        "answer": "256"
+    },
+    {
+        "type": "multiple-choice",
+        [cite_start]"question": "Convert the SOP expression f(A, B, C) = A'B + AC' into its canonical sum (sum of minterms) form. [cite: 2590]",
+        "options": [
+            "∑m(2, 3, 4)",
+            "∑m(1, 4, 5)",
+            "∑m(2, 4, 5)",
+            "∑m(2, 3, 4, 5)"
+        ],
+        "answer": "∑m(2, 3, 4)"
+    },
+    {
+        "type": "true-false",
+        [cite_start]"question": "The expression a ⊕ 1 simplifies to a'. [cite: 2574]",
+        "answer": "true"
+    },
+    {
+        "type": "multiple-choice",
+        [cite_start]"question": "The expression a(b+c) = ab + ac is an example of which property of switching algebra? [cite: 1769]",
+        "options": [
+            "Associative",
+            "Commutative",
+            "Absorption",
+            "Distributive"
+        ],
+        "answer": "Distributive"
+    },
+    {
+        "type": "multiple-choice",
+        "question": "To convert an OR-AND circuit into a NOR-only circuit, you replace all gates with NOR gates and...",
+        "options": [
+            "do nothing else.",
+            "complement any input that goes directly into a first-level OR gate.",
+            [cite_start]"complement any input that goes directly into the final AND gate. [cite: 2564]",
+            "invert the final output."
+        ],
+        [cite_start]"answer": "complement any input that goes directly into the final AND gate. [cite: 2564]"
+    }
+  ]
+}
