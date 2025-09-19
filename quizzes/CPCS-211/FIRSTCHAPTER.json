@@ -1,0 +1,192 @@
+{
+  "id": "1",
+  "category": "CPCS-211",
+  "title": "introduction",
+  "timeLimit": 3600,
+  "questions": [
+    {
+      "type": "multiple-choice",
+      "question": "What is the decimal equivalent of the binary number (101101.11)₂?",
+      "options": [
+        "45.75",
+        "45.3",
+        "46.5",
+        "45.5"
+      ],
+      "answer": "45.75"
+    },
+    {
+      "type": "true-false",
+      "question": "In a positional number system with radix 'r', each coefficient 'aᵢ' must satisfy the condition 0 ≤ aᵢ ≤ r.",
+      "answer": "false"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Convert the decimal number (189)₁₀ to its binary equivalent.",
+      "options": [
+        "10111101",
+        "11001101",
+        "10111100",
+        "11110011"
+      ],
+      "answer": "10111101"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the octal representation of the binary number (110101110.0111)₂?",
+      "options": [
+        "656.34",
+        "655.43",
+        "656.27",
+        "556.34"
+      ],
+      "answer": "656.34"
+    },
+    {
+      "type": "true-false",
+      "question": "When converting a binary number to hexadecimal, bits are grouped in sets of three, starting from the radix point.",
+      "answer": "false"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the result of performing the binary subtraction M - N using 2's complement, where M = (10010)₂ and N = (11011)₂?",
+      "options": [
+        "-(01001)₂",
+        "-(01010)₂",
+        "10111",
+        "-(01000)₂"
+      ],
+      "answer": "-(01001)₂"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Convert the hexadecimal number (1AF.C)₁₆ to its octal equivalent.",
+      "options": [
+        "657.4",
+        "657.6",
+        "557.6",
+        "647.6"
+      ],
+      "answer": "657.6"
+    },
+    {
+        "type": "true-false",
+        "question": "Overflow can never occur when adding two signed numbers if one is positive and the other is negative.",
+        "answer": "true"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the sum of the binary numbers (10111)₂ and (01101)₂?",
+      "options": [
+        "100100",
+        "111100",
+        "100011",
+        "101100"
+      ],
+      "answer": "100100"
+    },
+    {
+        "type": "multiple-choice",
+        "question": "Find the 2's complement of the binary number (01101000)₂.",
+        "options": [
+          "10010111",
+          "10011000",
+          "10010110",
+          "01101001"
+        ],
+        "answer": "10011000"
+    },
+    {
+        "type": "true-false",
+        "question": "The 1's complement representation has two different ways to represent the number zero.",
+        "answer": "true"
+    },
+    {
+        "type": "multiple-choice",
+        "question": "In a 4-bit two's complement system, what decimal value does the binary number (1010)₂ represent?",
+        "options": [
+          "10",
+          "-2",
+          "-5",
+          "-6"
+        ],
+        "answer": "-6"
+    },
+    {
+        "type": "multiple-choice",
+        "question": "How would the decimal number 58 be represented in Binary Coded Decimal (BCD)?",
+        "options": [
+          "01011000",
+          "00111010",
+          "111010",
+          "10101000"
+        ],
+        "answer": "01011000"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following is the primary advantage of Gray code over standard binary code?",
+      "options": [
+        "It uses fewer bits to represent numbers.",
+        "It simplifies arithmetic operations.",
+        "Only one bit changes between consecutive values.",
+        "It can represent negative numbers more efficiently."
+      ],
+      "answer": "Only one bit changes between consecutive values."
+    },
+    {
+      "type": "true-false",
+      "question": "When performing subtraction (M - N) using 1's complement, if an end carry is produced, it must be discarded to get the final answer.",
+      "answer": "false"
+    },
+    {
+        "type": "multiple-choice",
+        "question": "Convert the decimal number (428)₁₀ to its hexadecimal equivalent.",
+        "options": [
+            "1AC",
+            "1AD",
+            "2BC",
+            "1BC"
+        ],
+        "answer": "1AC"
+    },
+    {
+        "type": "multiple-choice",
+        "question": "What is the decimal equivalent of the octal number (721.5)₈?",
+        "options": [
+            "465.625",
+            "589.5",
+            "465.5",
+            "524.625"
+        ],
+        "answer": "465.625"
+    },
+    {
+        "type": "true-false",
+        "question": "Adding two 4-bit positive integers results in overflow if the sum is greater than 15.",
+        "answer": "true"
+    },
+    {
+        "type": "multiple-choice",
+        "question": "What is the binary equivalent of the decimal fraction (0.8125)₁₀?",
+        "options": [
+            "0.1101",
+            "0.1011",
+            "0.1110",
+            "0.1010"
+        ],
+        "answer": "0.1101"
+    },
+    {
+        "type": "multiple-choice",
+        "question": "Overflow occurs when adding two 4-bit signed numbers in 2's complement if...",
+        "options": [
+            "An end carry is produced.",
+            "The sum of two positive numbers results in a pattern that looks negative (MSB=1).",
+            "The sum of two numbers with different signs results in a carry.",
+            "The sum is zero."
+        ],
+        "answer": "The sum of two positive numbers results in a pattern that looks negative (MSB=1)."
+    }
+  ]
+}
