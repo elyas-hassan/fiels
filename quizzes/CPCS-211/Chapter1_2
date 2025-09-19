@@ -1,0 +1,241 @@
+{
+  "id": "3",
+  "category": "CPCS-211",
+  "title": "1_2",
+  "timeLimit": 5400,
+  "questions": [
+    {
+      "type": "multiple-choice",
+      [cite_start]"question": "What is the decimal equivalent of the hexadecimal number (2B.C)₁₆? [cite: 137]",
+      "options": [
+        "43.75",
+        "43.12",
+        "44.5",
+        "33.75"
+      ],
+      "answer": "43.75"
+    },
+    {
+      "type": "true-false",
+      [cite_start]"question": "The property a + (b + c) = (a + b) + c is known as the Commutative property in switching algebra. [cite: 1737, 1742]",
+      "answer": "false"
+    },
+    {
+      "type": "multiple-choice",
+      [cite_start]"question": "When subtracting N from M using 2's complement, if there is no end carry, what must be done to the result? [cite: 862]",
+      "options": [
+        "The result is correct as is.",
+        "Add 1 to the result.",
+        "Take the 2's complement of the result and place a negative sign in front.",
+        "Discard the most significant bit."
+      ],
+      "answer": "Take the 2's complement of the result and place a negative sign in front."
+    },
+    {
+      "type": "multiple-choice",
+      [cite_start]"question": "What is the dual of the switching algebra property a(b+c) = ab + ac? [cite: 1770, 1771, 1777]",
+      "options": [
+        "a + bc = (a+b)(a+c)",
+        "a'(b'+c') = a'+b'c'",
+        "a + b'c' = (a+b')(a+c')",
+        "a(bc) = (ab)c"
+      ],
+      "answer": "a + bc = (a+b)(a+c)"
+    },
+    {
+      "type": "multiple-choice",
+      [cite_start]"question": "What is the primary characteristic of a Gray code? [cite: 957]",
+      "options": [
+        "It is a weighted code.",
+        "It directly represents decimal digits.",
+        "Only one bit changes between any two consecutive numbers.",
+        "It is used for alphanumeric information."
+      ],
+      "answer": "Only one bit changes between any two consecutive numbers."
+    },
+    {
+      "type": "true-false",
+      [cite_start]"question": "Any logic function can be implemented using only XOR gates. [cite: 2527]",
+      "answer": "false"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Perform the binary addition of the 4-bit signed numbers 0110 (+6) and 0101 (+5) in 2's complement. [cite_start]What is the result and does overflow occur? [cite: 944, 946]",
+      "options": [
+        "Result is 1011, no overflow occurs.",
+        "Result is 1011, overflow occurs.",
+        "Result is 01011, no overflow occurs.",
+        "Result is 1101, overflow occurs."
+      ],
+      "answer": "Result is 1011, overflow occurs."
+    },
+    {
+      "type": "multiple-choice",
+      [cite_start]"question": "A switching function is defined by the truth table where f(A,B,C) is 1 for inputs 010, 011, and 110. What is its canonical sum (sum of minterms) expression? [cite: 2401]",
+      "options": [
+        "f = ∑m(2, 3, 6)",
+        "f = ∑m(1, 2, 7)",
+        "f = ∑m(2, 3, 5)",
+        "f = ∑m(3, 4, 6)"
+      ],
+      "answer": "f = ∑m(2, 3, 6)"
+    },
+    {
+      "type": "multiple-choice",
+      [cite_start]"question": "What is the 8421 BCD representation of the decimal number 92? [cite: 950]",
+      "options": [
+        "10010010",
+        "01011100",
+        "1011100",
+        "10010001"
+      ],
+      "answer": "10010010"
+    },
+    {
+      "type": "true-false",
+      [cite_start]"question": "The expression (a+b')(a'+c) is in a standard Product of Sums (POS) form. [cite: 1912]",
+      "answer": "true"
+    },
+    {
+      "type": "multiple-choice",
+      [cite_start]"question": "Simplify the boolean expression: (x + y)(x + y'). [cite: 1887]",
+      "options": [
+        "x",
+        "y",
+        "1",
+        "xy"
+      ],
+      "answer": "x"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do you create a NOT gate using a two-input NOR gate?",
+      "options": [
+        "Connect one input to logic 1.",
+        "Connect one input to logic 0.",
+        "Connect both inputs together.",
+        "It's not possible."
+      ],
+      "answer": "Connect both inputs together."
+    },
+    {
+      "type": "true-false",
+      [cite_start]"question": "A 'literal' is defined as the appearance of a variable, but not its complement. [cite: 1824]",
+      "answer": "false"
+    },
+    {
+      "type": "multiple-choice",
+      [cite_start]"question": "What is the binary representation of the octal number (572.1)₈? [cite: 565]",
+      "options": [
+        "101111010.001",
+        "101110010.100",
+        "110111010.001",
+        "101111010.1"
+      ],
+      "answer": "101111010.001"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the result of the expression a ⊕ a'?",
+      "options": [
+        "a",
+        "a'",
+        "0",
+        "1"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "multiple-choice",
+      [cite_start]"question": "What is the minimum number of 2-input NAND gates required to implement the function F = a'b + ab' (XOR)? [cite: 2570]",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4"
+    },
+    {
+      "type": "true-false",
+      [cite_start]"question": "In a 4-bit two's complement system, the range of representable decimal integers is -8 to +7. [cite: 940]",
+      "answer": "true"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Expand the expression f(x, y) = x' to its sum of minterms form.",
+      "options": [
+        "x'y' + x'y",
+        "x'y'",
+        "x'y",
+        "x'y + xy"
+      ],
+      "answer": "x'y' + x'y"
+    },
+    {
+      "type": "multiple-choice",
+      [cite_start]"question": "How many literals are in the expression w'xyz' + wx'y'z' + wxy'z? [cite: 1853]",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "16"
+      ],
+      "answer": "12"
+    },
+    {
+      "type": "true-false",
+      [cite_start]"question": "When implementing a Sum of Products (SOP) expression, the first level of gates is OR gates and the second level is an AND gate. [cite: 2065, 2067]",
+      "answer": "false"
+    },
+    {
+      "type": "multiple-choice",
+      [cite_start]"question": "What is the 1's complement of (10110100)₂? [cite: 835]",
+      "options": [
+        "01001011",
+        "01001100",
+        "10110101",
+        "01001010"
+      ],
+      "answer": "01001011"
+    },
+    {
+        "type": "multiple-choice",
+        [cite_start]"question": "The TTL Integrated Circuit '7408' contains what type of gates? [cite: 2172]",
+        "options": [
+            "Quad 2-input NOR gates",
+            "Hex inverters (NOT gates)",
+            "Triple 3-input NAND gates",
+            "Quad 2-input AND gates"
+        ],
+        "answer": "Quad 2-input AND gates"
+    },
+    {
+        "type": "true-false",
+        [cite_start]"question": "The expression a + ab = a is an example of the Adjacency property. [cite: 1888, 1966]",
+        "answer": "false"
+    },
+    {
+        "type": "multiple-choice",
+        "question": "Convert the SOP expression f = x'y + z to a POS expression.",
+        "options": [
+            "(x' + z)(y + z)",
+            "(x + z)(y' + z)",
+            "(x' + z)(y' + z)",
+            "It cannot be converted."
+        ],
+        "answer": "(x' + z)(y + z)"
+    },
+    {
+        "type": "multiple-choice",
+        "question": "For a 1-bit full adder with inputs A, B, and Cin, the Carry Out (Cout) is 1 for which of the following input combinations?",
+        "options": [
+            "A=0, B=1, Cin=0",
+            "A=1, B=1, Cin=1",
+            "A=1, B=0, Cin=0",
+            "A=0, B=0, Cin=1"
+        ],
+        "answer": "A=1, B=1, Cin=1"
+    }
+  ]
+}
