@@ -2,7 +2,7 @@
   "title": "CPCS-204",
   "description": "برمجة 3 - د. آصف",
   "type": "link",
-  "department": "CPCS",
+  "department":  ["cs","it","is"],
   "level": "2",
   "courseType": "204CPCS",
   "tags": ["drive", "برمجة 3","study-materials"],
