@@ -1,1 +1,21 @@
-[]
+[
+{
+"id": "evt-001",
+"title": "Programming 1 Midterm Exam",
+"description": "Midterm covering weeks 1–6",
+"startTime": "2025-11-03T09:00:00",
+"endTime": "2025-11-03T11:00:00",
+"type": "exam",
+"courseCode": "CPCS-202",
+"isRecurring": false
+},
+{
+"id": "evt-002",
+"title": "Data Structures Assignment Due",
+"description": "Linked List Implementation",
+"startTime": "2025-11-05T23:59:00",
+"endTime": "2025-11-06T01:00:00",
+"type": "assignment",
+"courseCode": "CPCS-211"
+}
+]
