@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "title": "Programming 1 Midterm Exam",
+    "description": "Midterm examination for Programming 1 course",
+    "startTime": "2024-12-15T09:00:00",
+    "endTime": "2024-12-15T11:00:00",
+    "type": "exam",
+    "courseCode": "CPCS-202",
+    "notificationIntervals": ["1day", "1hour", "5min"]
+  },
+  {
+    "id": "2",
+    "title": "Data Structures Assignment Due",
+    "description": "Final submission deadline for Data Structures assignment",
+    "startTime": "2024-12-18T23:59:00",
+    "endTime": "2024-12-19T00:59:00",
+    "type": "assignment",
+    "courseCode": "CPCS-211",
+    "notificationIntervals": ["1day", "1hour"]
+  }
+]
