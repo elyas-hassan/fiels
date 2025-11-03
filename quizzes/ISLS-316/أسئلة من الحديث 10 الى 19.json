@@ -1,0 +1,158 @@
+{
+  "id": "102",
+  "category": "ISLS-316",
+  "title": "أسئلة صح وخطأ من نصوص الأحاديث (جزء 2)",
+  "timeLimit": 3000,
+  "questions": [
+   {
+    "type": "true-false",
+    "question": "من دعا إلى هدى كان له مثل أجور من اتبعه، وينقص ذلك من أجورهم شيئاً.",
+    "answer": "false"
+   },
+   {
+    "type": "true-false",
+    "question": "الهدى في الحديث العاشر هو العلم النافع والعمل الصالح.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "الداعون إلى الضلالة هم الأئمة الذين يدعون إلى النار.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "من أعان غيره على الإثم والعدوان فهو من الداعين إلى الهدى.",
+    "answer": "false"
+   },
+   {
+    "type": "true-false",
+    "question": "علامة إرادة الله الخير بالعبد أن يفقهه في الدين.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "الفقه في الدين يقتصر فقط على معرفة أحكام العبادات والمعاملات.",
+    "answer": "false"
+   },
+   {
+    "type": "true-false",
+    "question": "تعلم علوم العربية بأنواعها يدخل ضمن الوسائل المعينة على الفقه في الدين.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "المؤمن القوي والمؤمن الضعيف متساويان في محبة الله.",
+    "answer": "false"
+   },
+   {
+    "type": "true-false",
+    "question": "المؤمن الضعيف لا يوجد فيه أي خير.",
+    "answer": "false"
+   },
+   {
+    "type": "true-false",
+    "question": "حديث المؤمن القوي من أدلة أهل السنة على أن الإيمان يزيد وينقص.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "الكسل هو أصل الخيبة والفشل.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "قول 'لو' بعد وقوع المصيبة يفتح عمل الشيطان.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "استعمال 'لو' في تمني الخير وبيان العلم النافع يعتبر أمراً محموداً.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "فروض الكفايات يجب على كل مكلف القيام بها ولا تسقط عن أحد.",
+    "answer": "false"
+   },
+   {
+    "type": "true-false",
+    "question": "فروض الكفايات هي التي إذا قام بها من يكفي من المسلمين سقط الإثم عن الباقين.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "أمر النبي بالشفاعة ليحصل الشافع على الأجر، حتى لو لم تُقبل شفاعته.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "يجب على المشفوع عنده قبول كل شفاعة تُعرض عليه.",
+    "answer": "false"
+   },
+   {
+    "type": "true-false",
+    "question": "حديث 'أنزلوا الناس منازلهم' يدعو إلى مراعاة الحكمة في التعامل.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "من الحكمة إعطاء الوظائف والأمانات للأكفاء المتميزين.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "حديث 'من ضار ضار الله به' يدل على أن الجزاء من جنس العمل.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "الضرر هو تفويت مصلحة أو حصول مضرة.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "الضرار في الوصايا بقصد الإضرار بالورثة جائز شرعاً.",
+    "answer": "false"
+   },
+   {
+    "type": "true-false",
+    "question": "التقوى هي اجتناب المنهيات وأداء الواجبات.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "المصائب التي تصيب المؤمن لا تكفر خطاياه.",
+    "answer": "false"
+   },
+   {
+    "type": "true-false",
+    "question": "ينبغي الإكثار من المزاح دائماً لأنه من حسن الخلق.",
+    "answer": "false"
+   },
+   {
+    "type": "true-false",
+    "question": "أعظم الظلم وأشده هو الشرك بالله.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "الظلم الذي لا يغفره الله هو ظلم العباد بعضهم لبعض.",
+    "answer": "false"
+   },
+   {
+    "type": "true-false",
+    "question": "الظلم الذي لا يترك الله منه شيئاً هو ظلم العباد بعضهم لبعض.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "أرشد النبي إلى النظر لمن هو أسفل منا في أمور الدنيا لنشكر النعمة.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "النظر إلى من هو فوقك في الدنيا يجعلك تحمد الله وتشكره.",
+    "answer": "false"
+   }
+  ]
+ }
