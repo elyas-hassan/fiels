@@ -1,0 +1,123 @@
+{
+  "id": "103",
+  "category": "ISLS-316",
+  "title": "أسئلة صح وخطأ من نصوص الأحاديث (جزء 3)",
+  "timeLimit": 3000,
+  "questions": [
+   {
+    "type": "true-false",
+    "question": "شرائع الفطرة نوع واحد، وهو ما يعود إلى تطهير الظاهر ونظافته.",
+    "answer": "false"
+   },
+   {
+    "type": "true-false",
+    "question": "إعفاء اللحية وقص الشارب من خصال الفطرة العشر.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "الاستنجاء (انتقاص الماء) شرط من شروط الطهارة.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "الصلوات الخمس والجمعة ورمضان مكفرات لجميع الذنوب، الكبائر والصغائر.",
+    "answer": "false"
+   },
+   {
+    "type": "true-false",
+    "question": "الكبائر من الذنوب لا تكفرها الصلوات الخمس ولابد لها من توبة.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "كل نص جاء فيه تكفير الأعمال الصالحة للسيئات، فالمراد به الصغائر فقط.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "الأذان للصلاة هو فرض عين على كل مكلف.",
+    "answer": "false"
+   },
+   {
+    "type": "true-false",
+    "question": "الأذان مشروع في الحضر والسفر.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "مسابقة المأموم لإمامه في الركوع أو السجود حرام وتبطل الصلاة.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "إذا كان المأموم رجلاً واحداً، فإنه يقف خلف الإمام.",
+    "answer": "false"
+   },
+   {
+    "type": "true-false",
+    "question": "صلاة الرجل منفرداً خلف الصف لغير عذر تعتبر باطلة.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "الركن في الصلاة هو ما يسقط بالسهو ويجبره سجود السهو.",
+    "answer": "false"
+   },
+   {
+    "type": "true-false",
+    "question": "التشهد الأول يعتبر من واجبات الصلاة وليس من أركانها.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "صيام ثلاثة أيام من كل شهر يعدل صيام السنة كلها.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "أقل صلاة الضحى ركعتان وأكثرها ثمان ركعات.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "أقل الوتر ركعة واحدة، ووقته من بعد صلاة العشاء إلى طلوع الفجر.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "من شدد على نفسه في الدين وغلا فيه، فإن الدين يغلبه.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "الزكاة واجبة على الفقير الذي ليس عنده نصاب.",
+    "answer": "false"
+   },
+   {
+    "type": "true-false",
+    "question": "الحج مفروض على المستطيع في العمر مرة واحدة.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "من حقوق المسلم على المسلم إجابة دعوته.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "يجب تشميت العاطس حتى لو لم يحمد الله.",
+    "answer": "false"
+   },
+   {
+    "type": "true-false",
+    "question": "النصيحة واجبة فقط إذا استنصحك المسلم وطلب منك الرأي.",
+    "answer": "false"
+   },
+   {
+    "type": "true-false",
+    "question": "من تبع جنازة حتى يصلي عليها فله قيراط، فإن تبعها حتى تدفن فله قيراطان.",
+    "answer": "true"
+   }
+  ]
+ }
