@@ -1,0 +1,93 @@
+{
+  "id": "104",
+  "category": "ISLS-316",
+  "title": "أسئلة صح وخطأ من نصوص الأحاديث (جزء 4)",
+  "timeLimit": 3000,
+  "questions": [
+   {
+    "type": "true-false",
+    "question": "الاستعفاف عما في أيدي الناس والاستغناء بالله أمران متلازمان.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "الغنى الحقيقي هو كثرة المال والعرض.",
+    "answer": "false"
+   },
+   {
+    "type": "true-false",
+    "question": "أفضل وأوسع عطاء يعطاه العبد هو الصبر.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "الصبر لا يحتاج إلى مجاهدة للنفس وتمرينها.",
+    "answer": "false"
+   },
+   {
+    "type": "true-false",
+    "question": "يحتاج العبد إلى الصبر على الطاعة، وعن المعصية، وعلى الأقدار المؤلمة.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "الصدقة تنقص المال ولكنها تزيده بركة.",
+    "answer": "false"
+   },
+   {
+    "type": "true-false",
+    "question": "الصدقة تبارك المال وتنميه وتدفع عنه الآفات.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "العفو عن الناس قد يجلب للعبد الذل.",
+    "answer": "false"
+   },
+   {
+    "type": "true-false",
+    "question": "ما زاد الله عبداً بعفو إلا عزاً.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "من تواضع لله رفعه الله.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "التكبر هو غمط الحق واحتقار الناس.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "التواضع للأغنياء بقصد نيل دنياهم هو من التواضع المحمود.",
+    "answer": "false"
+   },
+   {
+    "type": "true-false",
+    "question": "من عادى ولياً لله فقد آذن الله بالحرب.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "أحب ما يتقرب به العبد إلى الله هو النوافل.",
+    "answer": "false"
+   },
+   {
+    "type":"true-false",
+    "question": "الفرائض مقدمة على النوافل وهي أحب إلى الله.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "كل مؤمن تقي فهو ولي لله.",
+    "answer": "true"
+   },
+   {
+    "type": "true-false",
+    "question": "المؤمن الذي يحبه الله يكره الموت والله يكره مساءته.",
+    "answer": "true"
+   }
+  ]
+ }
