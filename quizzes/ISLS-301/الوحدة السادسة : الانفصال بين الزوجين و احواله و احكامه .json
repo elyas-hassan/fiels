@@ -18,7 +18,7 @@
     {
       "type": "true-false",
       "question": "الطلاق في الشريعة الإسلامية هو الحل الوحيد للانفصال ولا توجد صور أخرى كـ(الخلع) أو (الفسخ).",
-      "answer": "خطأ"
+      "answer": "false"
     },
     {
       "type": "multiple-choice",
@@ -34,7 +34,7 @@
     {
       "type": "true-false",
       "question": "الطلاق في اللغة مأخوذ من الإطلاق وهو الإرسال والترك وفك القيد.",
-      "answer": "صحيح"
+      "answer": "true"
     },
     {
       "type": "multiple-choice",
@@ -50,7 +50,7 @@
     {
       "type": "true-false",
       "question": "إذا طلق الزوج وهو في حالة اللاوعي والإدراك (إغلاق على عقله) فإن طلاقه يقع شرعاً.",
-      "answer": "خطأ"
+      "answer": "false"
     },
     {
       "type": "multiple-choice",
@@ -77,7 +77,7 @@
     {
       "type": "true-false",
       "question": "الطلاق البدعي هو الذي يقع وفق هدي النبي صلى الله عليه وسلم، مثل الطلاق في طهر لم يجامع فيه.",
-      "answer": "خطأ"
+      "answer": "false"
     },
     {
       "type": "multiple-choice",
@@ -93,7 +93,7 @@
     {
       "type": "true-false",
       "question": "المطلقة الرجعية تعتبر زوجة ما دامت في العدة، ولزوجها مراجعتها قولاً أو فعلاً دون عقد جديد.",
-      "answer": "صحيح"
+      "answer": "true"
     },
     {
       "type": "multiple-choice",
@@ -120,7 +120,7 @@
     {
       "type": "true-false",
       "question": "النفقة على الزوجة المطلقة الرجعية تسقط بمجرد وقوع الطلاق.",
-      "answer": "خطأ"
+      "answer": "false"
     },
     {
       "type": "multiple-choice",
@@ -147,7 +147,7 @@
      {
       "type": "true-false",
       "question": "الخلع (الفرقة التامة) لا يمنع الزوج حق مراجعة زوجته في أثناء العدة.",
-      "answer": "خطأ"
+      "answer": "false"
     },
      {
       "type": "multiple-choice",
@@ -174,7 +174,7 @@
      {
       "type": "true-false",
       "question": "من أسباب فسخ النكاح شرعاً هو إعسار الزوج في النفقة أو في دفع المهر.",
-      "answer": "صحيح"
+      "answer": "true"
     }
   ]
 }
