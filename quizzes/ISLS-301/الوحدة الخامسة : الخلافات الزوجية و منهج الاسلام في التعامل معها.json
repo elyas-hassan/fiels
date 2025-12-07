@@ -18,7 +18,7 @@
     {
       "type": "true-false",
       "question": "المنهج الإسلامي في التعامل مع الخلافات يبدأ بالتصعيد الفوري لردع الطرف المخطئ.",
-      "answer": "خطأ"
+      "answer": "false"
     },
     {
       "type": "multiple-choice",
@@ -45,7 +45,7 @@
     {
       "type": "true-false",
       "question": "يجوز للزوج أن يضرب زوجته ضرباً مبرحاً ومهيناً كوسيلة لعلاج النشوز إذا لم يستجب للوعظ والهجر.",
-      "answer": "خطأ"
+      "answer": "false"
     },
     {
       "type": "multiple-choice",
@@ -72,7 +72,7 @@
     {
       "type": "true-false",
       "question": "النشوز لا يمكن أن يصدر إلا من الزوجة، أما الزوج فلا يُوصف فعله بالنشوز.",
-      "answer": "خطأ"
+      "answer": "false"
     },
     {
       "type": "multiple-choice",
@@ -104,7 +104,7 @@
     {
       "type": "true-false",
       "question": "يجب على الزوج أن يعدل بين زوجاته في المحبة والميل القلبي، وإلا كان ظالماً.",
-      "answer": "خطأ"
+      "answer": "false"
     },
     {
       "type": "multiple-choice",
@@ -120,7 +120,7 @@
     {
       "type": "true-false",
       "question": "يُعتبر الطلاق في الإسلام هو الخيار الأفضل والأول لإنهاء المشاكل الزوجية بمجرد ظهورها.",
-      "answer": "خطأ"
+      "answer": "false"
     },
     {
       "type": "multiple-choice",
