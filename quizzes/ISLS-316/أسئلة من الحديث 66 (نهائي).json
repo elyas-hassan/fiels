@@ -2,6 +2,7 @@
   "id": "112",
   "category": "ISLS-316",
   "title": "أسئلة صح وخطأ من الحديث السادس والستين",
+  "timeLimit": 3000,
   "questions": [
     {
       "type": "true-false",
