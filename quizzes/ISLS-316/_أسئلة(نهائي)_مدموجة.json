@@ -2,7 +2,7 @@
   "id": "200",
   "category": "ISLS-316",
   "title": "أسئلة كل جزئية ال (نهائي)",
-  "timeLimit": 3000,
+  "timeLimit": 50000,
   "questions": [
     {
       "type": "true-false",
