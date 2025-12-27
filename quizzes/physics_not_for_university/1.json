@@ -2,7 +2,7 @@
   "id": "100",
   "category": "PHYS-101",
   "title": "الاختبار الشامل: 100 سؤال في الكهرباء الساكنة",
-  "timeLimit": 5400,
+  "timeLimit": 800400,
   "questions": [
     {
       "type": "multiple-choice",
