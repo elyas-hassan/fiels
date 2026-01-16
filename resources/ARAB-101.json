@@ -1,10 +1,10 @@
 {
-  "title": "ARAB-101 Comprehensive Drive",
-  "description": "Contains the main textbook, solved exercises, lecture slides, and final revision questions.",
+  "title": "ARAB-101",
+  "description": "Contains the book, solved exercises, slides of book, and revision questions.",
   "type": "link",
   "department": "other",
   "level": "ALL Levels",
-  "courseType": "General Requirement",
+  "courseType": "general",
   "tags": ["drive", "arab", "solved-slides", "revision"],
   "uploadedBy": "Contributor",
   "url": "https://drive.google.com/drive/folders/12pE6I4lh8kTiuUa1tVN4u11Q6wvlxRQP",
