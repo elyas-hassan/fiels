@@ -1,11 +1,9 @@
 {
   "title": "CPCS-202",
-  "description": "Past exams.",
+  "description": "Contains Past exams mid, Final, Lab",
   "type": "link",
-  "department": "",
-  "level": "",
+  "exclusive": false
   "courseType": "CPCS-202",
-  "tags": ["drive", "cpcs", "exams", "study-materials"],
-  "uploadedBy": "don't know the owner",
+  "uploadedBy": "Contributor",
   "url": "https://drive.google.com/drive/folders/1GL9FLSEn4On9mMO9OcA5B3DhlyGEW0fa"
 }
