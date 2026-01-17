@@ -1,15 +1,12 @@
 {
-  id: "ARAB-101", // extracted from filename
-  title: "ARAB-101", 
-  description: "Contains the book, solved exercises, slides of book, and revision questions.",
-  type: "link", // link to Google Drive
-  department: "general", // main filter
-  level: null, // null = available for ANY semester
-  courseType: "General Requirement", // optional badge
-  uploadedBy: "contributor",
-  gender: "all", // default if not specified
-  course_code: "ARAB-101", // extracted from filename
-  url: "https://drive.google.com/drive/folders/12pE6I4lh8kTiuUa1tVN4u11Q6wvlxRQP",
-  exclusive: false,
-  date: "2026-01-17T00:00:00Z" // use file.updated_at or another date if needed
+  "title": "ARAB-101",
+  "description": "Contains the book, solved exercises, slides of book, and revision questions.",
+  "type": "link",
+  "department": "general",
+  "level": "all levels",
+  
+  "uploadedBy": "Contributor",
+  "url": "https://drive.google.com/drive/folders/12pE6I4lh8kTiuUa1tVN4u11Q6wvlxRQP",
+  "exclusive": false
 }
+
