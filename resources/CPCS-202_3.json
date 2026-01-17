@@ -1,11 +1,8 @@
 {
   "title": "CPCS-202",
-  "description": "Final lab, quizzes, mid practice, final, mid, and شرحات افكار الاختبار all in the drive.",
+  "description": "Contains Final lab, quizzes, mid practice, final, mid, and شرحات افكار الاختبار.",
   "type": "link",
-  "department": "",
-  "level": "",
-  "courseType": "CPCS-202",
-  "tags": ["drive", "cpcs", "lab", "quizzes", "midterm", "practice", "final", "study-materials"],
-  "uploadedBy": "don't know the owner",
+  "exclusive": false,
+  "uploadedBy": "Contributor",
   "url": "https://drive.google.com/drive/folders/1-ct8IUHYMO4wN7zAkju6sJnoHMURhDmP"
 }
