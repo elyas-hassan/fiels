@@ -1,11 +1,9 @@
 {
   "title": "CPIT-201",
-  "description": "Mid and final past exams.",
+  "description": "Contains Final, Mid",
   "type": "link",
-  "department": "",
-  "level": "",
-  "courseType": "CPIT-201",
-  "tags": ["drive", "cpit", "exams", "midterm", "final", "study-materials"],
-  "uploadedBy": "don't know the owner",
+  "exclusive": false,
+  "uploadedBy": "Contributor",
+
   "url": "https://drive.google.com/drive/folders/1ePOwcIxGWHHRPwZplA9ytViKhMCuKcDV"
 }
