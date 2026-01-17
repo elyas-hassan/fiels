@@ -1,11 +1,10 @@
 {
   "title": "ARAB-201",
-  "description": "",
+  "description": "Contains the book, and revision questions.",
   "type": "link",
-  "department": "",
-  "level": "",
-  "courseType": "ARAB-201",
-  "tags": ["drive", "calculus", "ARAB", "study-materials"],
-  "uploadedBy": "don't know the owner",
+  "department": "general",
+  "level": "all levels",
+  "uploadedBy": "Contributor",
   "url": "https://drive.google.com/drive/folders/1Kl48kj-2yzgOyNM9i_4oPsTiIqrnHAiM"
+  "exclusive": false
 }
