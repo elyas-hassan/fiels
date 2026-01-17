@@ -1,11 +1,8 @@
 {
   "title": "ISLS-203",
-  "description": "",
+  "description": "Contains book, and other thing",
   "type": "link",
-  "department": "",
-  "level": "",
-  "courseType": "ISLS-203",
-  "tags": ["drive", "isls", "study-materials"],
-  "uploadedBy": "don't know the owner",
+  "exclusive": false,
+  "uploadedBy": "Contributor",
   "url": "https://drive.google.com/drive/folders/1kg4XeU4O-FjwBgEoFhqJ2wdZEwVV8eNN"
 }
