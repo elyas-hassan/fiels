@@ -1,11 +1,9 @@
 {
   "title": "ISLS-201",
-  "description": "ISLS 201 book and other things.",
-  "type": "link",
-  "department": "",
-  "level": "",
-  "courseType": "ISLS-201",
-  "tags": ["drive", "isls", "book", "study-materials"],
-  "uploadedBy": "don't know the owner",
+  "description": "Contains book and other things.-_-",
+"type": "link",
+  "exclusive": false,
+  "uploadedBy": "Contributor",
   "url": "https://drive.google.com/drive/folders/18hcPdc-Go9jm0FaZsL_q9jOYI8CMSLpI"
 }
+
