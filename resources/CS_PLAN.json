@@ -2,5 +2,6 @@
   "description": "📄 PDF – Full course layout for the Computer Science program. Includes core, elective, and general courses by level.",
   "department": "cs",
   "level": "ALL Levels",
-  
+  "courseType": "major",
+  "courseName": ""
 }
