@@ -1,11 +1,8 @@
 {
-  "title": "Math-202 - Calculus (II) Study Materials",
-  "description": "Comprehensive study materials for Math-202 Calculus (II) course",
+  "title": "Math-202",
+  "description": "Contains Book, Solved-Unsolved slides, Summarisations, aand other things.",
   "type": "link",
-  "department": "cs",
-  "level": "2",
-  "courseType": "Math-202",
-  "tags": ["drive", "calculus", "math", "study-materials"],
-  "uploadedBy": "don't know the owner",
+  "exclusive": false,
+  "uploadedBy": "Contributor",
   "url": "https://drive.google.com/drive/folders/1BZKZtztkCAZRbIgxcesAkDWHEcc8Y02v"
 }
