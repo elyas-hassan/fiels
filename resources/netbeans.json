@@ -2,10 +2,7 @@
   "title": "Netbeans",
   "description": "Netbeans download, the version needed in the college.",
   "type": "link",
-  "department": "ALL",
-  "level": "",
-  "courseType": "Software",
-  "tags": ["drive", "netbeans", "software", "study-materials"],
-  "uploadedBy": "don't know the owner",
+  "exclusive": false,
+  "uploadedBy": "Contributor",
   "url": "https://drive.google.com/drive/folders/1HKX61R0gYqQNsE3_c_WW33Ry0THoQgjI"
 }
