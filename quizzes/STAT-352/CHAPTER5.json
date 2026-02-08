@@ -124,6 +124,171 @@
         "Outcome of a single coin toss"
       ],
       "answer": "Grade and height of the same student"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following is always true for a joint CDF F_XY(x, y)?",
+      "options": [
+        "F_XY(x, y) < 0",
+        "0 ≤ F_XY(x, y) ≤ 1",
+        "F_XY(x, y) > 1",
+        "F_XY(x, y) = −1"
+      ],
+      "answer": "0 ≤ F_XY(x, y) ≤ 1"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The joint CDF F_XY(x, y) is a nondecreasing function of:",
+      "options": [
+        "Only x",
+        "Only y",
+        "Both x and y",
+        "Neither x nor y"
+      ],
+      "answer": "Both x and y"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "If x1 ≤ x2 and y1 ≤ y2, which of the following must be true?",
+      "options": [
+        "F_XY(x1, y1) ≥ F_XY(x2, y2)",
+        "F_XY(x1, y1) = F_XY(x2, y2)",
+        "F_XY(x1, y1) ≤ F_XY(x2, y2)",
+        "F_XY(x1, y1) > 1"
+      ],
+      "answer": "F_XY(x1, y1) ≤ F_XY(x2, y2)"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the value of F_XY(∞, ∞)?",
+      "options": [
+        "0",
+        "0.5",
+        "1",
+        "Undefined"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the value of F_XY(−∞, y)?",
+      "options": [
+        "1",
+        "y",
+        "0",
+        "∞"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the value of F_XY(x, −∞)?",
+      "options": [
+        "1",
+        "x",
+        "0",
+        "−∞"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which continuity property does the joint CDF satisfy?",
+      "options": [
+        "Left continuity",
+        "Right continuity",
+        "Uniform continuity",
+        "No continuity"
+      ],
+      "answer": "Right continuity"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The expression lim x→a⁺ F_XY(x, y) is equal to:",
+      "options": [
+        "F_XY(a, y)",
+        "0",
+        "1",
+        "F_XY(∞, y)"
+      ],
+      "answer": "F_XY(a, y)"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The probability P(x1 < X ≤ x2, Y ≤ y) is equal to:",
+      "options": [
+        "F_XY(x1, y) − F_XY(x2, y)",
+        "F_XY(x2, y) − F_XY(x1, y)",
+        "F_XY(x2, y)",
+        "F_XY(x1, y)"
+      ],
+      "answer": "F_XY(x2, y) − F_XY(x1, y)"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The probability P(X ≤ x, y1 < Y ≤ y2) is given by:",
+      "options": [
+        "F_XY(x, y1) − F_XY(x, y2)",
+        "F_XY(y2, x) − F_XY(y1, x)",
+        "F_XY(x, y2) − F_XY(x, y1)",
+        "F_XY(x1, y2)"
+      ],
+      "answer": "F_XY(x, y2) − F_XY(x, y1)"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which formula gives P(x1 < X ≤ x2, y1 < Y ≤ y2)?",
+      "options": [
+        "F_XY(x2, y2)",
+        "F_XY(x1, y1)",
+        "F_XY(x2, y2) − F_XY(x1, y2) − F_XY(x2, y1) + F_XY(x1, y1)",
+        "F_XY(x2, y1) − F_XY(x1, y2)"
+      ],
+      "answer": "F_XY(x2, y2) − F_XY(x1, y2) − F_XY(x2, y1) + F_XY(x1, y1)"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The probability of any rectangular region using the joint CDF is always:",
+      "options": [
+        "Negative",
+        "Zero",
+        "Non-negative",
+        "Greater than 1"
+      ],
+      "answer": "Non-negative"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How is the marginal CDF of X obtained from the joint CDF?",
+      "options": [
+        "F_X(x) = F_XY(∞, x)",
+        "F_X(x) = F_XY(x, ∞)",
+        "F_X(x) = F_XY(x, x)",
+        "F_X(x) = F_XY(−∞, x)"
+      ],
+      "answer": "F_X(x) = F_XY(x, ∞)"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How is the marginal CDF of Y obtained from the joint CDF?",
+      "options": [
+        "F_Y(y) = F_XY(y, y)",
+        "F_Y(y) = F_XY(−∞, y)",
+        "F_Y(y) = F_XY(∞, y)",
+        "F_Y(y) = F_XY(y, ∞)"
+      ],
+      "answer": "F_Y(y) = F_XY(∞, y)"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The main purpose of joint CDF properties is to:",
+      "options": [
+        "Compute expectations",
+        "Answer probability questions about X and Y",
+        "Find probability density functions",
+        "Eliminate marginal distributions"
+      ],
+      "answer": "Answer probability questions about X and Y"
     }
   ]
 }
