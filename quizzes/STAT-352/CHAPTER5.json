@@ -193,17 +193,6 @@
     },
     {
       "type": "multiple-choice",
-      "question": "Which continuity property does the joint CDF satisfy?",
-      "options": [
-        "Left continuity",
-        "Right continuity",
-        "Uniform continuity",
-        "No continuity"
-      ],
-      "answer": "Right continuity"
-    },
-    {
-      "type": "multiple-choice",
       "question": "The expression lim x→a⁺ F_XY(x, y) is equal to:",
       "options": [
         "F_XY(a, y)",
@@ -245,17 +234,6 @@
         "F_XY(x2, y1) − F_XY(x1, y2)"
       ],
       "answer": "F_XY(x2, y2) − F_XY(x1, y2) − F_XY(x2, y1) + F_XY(x1, y1)"
-    },
-    {
-      "type": "multiple-choice",
-      "question": "The probability of any rectangular region using the joint CDF is always:",
-      "options": [
-        "Negative",
-        "Zero",
-        "Non-negative",
-        "Greater than 1"
-      ],
-      "answer": "Non-negative"
     },
     {
       "type": "multiple-choice",
