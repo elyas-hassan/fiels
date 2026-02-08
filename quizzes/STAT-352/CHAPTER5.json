@@ -267,6 +267,18 @@
         "Eliminate marginal distributions"
       ],
       "answer": "Answer probability questions about X and Y"
-    }
+    },
+    {
+  "type": "multiple-choice",
+  "question": "Given the joint CDF F_XY(x, y) and marginal CDFs F_X(x) and F_Y(y), what is P(X > a, Y > b)?",
+  "options": [
+    "F_X(a) + F_Y(b)",
+    "1 − F_XY(a, b)",
+    "1 − F_X(a) − F_Y(b) + F_XY(a, b)",
+    "F_X(a)F_Y(b)"
+  ],
+  "answer": "1 − F_X(a) − F_Y(b) + F_XY(a, b)"
+}
+
   ]
 }
