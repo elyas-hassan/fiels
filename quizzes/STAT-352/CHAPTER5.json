@@ -1,0 +1,129 @@
+{
+  "id": "5",
+  "category": "STAT-352",
+  "title": "STAT-352: Chapter 5",
+  "timeLimit": 3000,
+  "questions": [
+    {
+      "type": "multiple-choice",
+      "question": "What is meant by a bivariate random variable?",
+      "options": [
+        "A random variable with two outcomes",
+        "Two random variables defined on the same sample space",
+        "A random variable with two probability distributions",
+        "Two independent random experiments"
+      ],
+      "answer": "Two random variables defined on the same sample space"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which notation represents a bivariate random variable?",
+      "options": [
+        "X + Y",
+        "(X, Y)",
+        "XY",
+        "X / Y"
+      ],
+      "answer": "(X, Y)"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The joint cumulative distribution function of X and Y is defined as:",
+      "options": [
+        "P(X = x, Y = y)",
+        "P(X ≥ x, Y ≥ y)",
+        "P(X ≤ x, Y ≤ y)",
+        "P(X < x or Y < y)"
+      ],
+      "answer": "P(X ≤ x, Y ≤ y)"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does F_XY(x, y) represent?",
+      "options": [
+        "The probability density of X and Y",
+        "The marginal probability of X",
+        "The probability that X ≤ x and Y ≤ y",
+        "The probability that X = x or Y = y"
+      ],
+      "answer": "The probability that X ≤ x and Y ≤ y"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the marginal CDF of X?",
+      "options": [
+        "F_X(x) = P(X = x)",
+        "F_X(x) = P(Y ≤ y)",
+        "F_X(x) = P(X ≤ x)",
+        "F_X(x) = P(X ≤ x, Y ≤ y)"
+      ],
+      "answer": "F_X(x) = P(X ≤ x)"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the marginal CDF of Y?",
+      "options": [
+        "F_Y(y) = P(Y = y)",
+        "F_Y(y) = P(Y ≤ y)",
+        "F_Y(y) = P(X ≤ x)",
+        "F_Y(y) = P(X ≤ x, Y ≤ y)"
+      ],
+      "answer": "F_Y(y) = P(Y ≤ y)"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Two random variables X and Y are independent if:",
+      "options": [
+        "F_XY(x, y) = F_X(x) + F_Y(y)",
+        "F_XY(x, y) = F_X(x)F_Y(y)",
+        "F_XY(x, y) = 0",
+        "F_X(x) = F_Y(y)"
+      ],
+      "answer": "F_XY(x, y) = F_X(x)F_Y(y)"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The condition for independence must hold for:",
+      "options": [
+        "Some values of x and y",
+        "Only integer values of x and y",
+        "All values of x and y",
+        "Only continuous values of x and y"
+      ],
+      "answer": "All values of x and y"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "If F_XY(x, y) ≠ F_X(x)F_Y(y), then X and Y are:",
+      "options": [
+        "Independent",
+        "Identical",
+        "Dependent",
+        "Marginally distributed"
+      ],
+      "answer": "Dependent"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following best describes marginal distributions?",
+      "options": [
+        "They describe two variables together",
+        "They describe each variable separately",
+        "They apply only to independent variables",
+        "They are the same as joint distributions"
+      ],
+      "answer": "They describe each variable separately"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following is an example of a bivariate random variable?",
+      "options": [
+        "Height of students in a class",
+        "Weight of a person",
+        "Grade and height of the same student",
+        "Outcome of a single coin toss"
+      ],
+      "answer": "Grade and height of the same student"
+    }
+  ]
+}
