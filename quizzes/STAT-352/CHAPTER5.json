@@ -278,7 +278,85 @@
     "F_X(a)F_Y(b)"
   ],
   "answer": "1 − F_X(a) − F_Y(b) + F_XY(a, b)"
+},
+    {
+  "type": "multiple-choice",
+  "question": "When X and Y are discrete random variables, the joint PMF p_XY(x, y) is defined as:",
+  "options": [
+    "P(X ≤ x, Y ≤ y)",
+    "P(X = x, Y = y)",
+    "P(X = x)P(Y = y)",
+    "F_XY(x, y)"
+  ],
+  "answer": "P(X = x, Y = y)"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Which of the following must always be true for a joint PMF p_XY(x, y)?",
+  "options": [
+    "p_XY(x, y) < 0",
+    "0 ≤ p_XY(x, y) ≤ 1",
+    "p_XY(x, y) > 1",
+    "p_XY(x, y) = −1"
+  ],
+  "answer": "0 ≤ p_XY(x, y) ≤ 1"
+},
+    {
+  "type": "multiple-choice",
+  "question": "What is the value of the sum of p_XY(x, y) over all x and y?",
+  "options": [
+    "0",
+    "0.5",
+    "1",
+    "∞"
+  ],
+  "answer": "1"
+},
+    {
+  "type": "multiple-choice",
+  "question": "How is the joint CDF F_XY(a, b) obtained from the joint PMF?",
+  "options": [
+    "By multiplying p_XY(a, b)",
+    "By summing p_XY(x, y) for x ≤ a and y ≤ b",
+    "By integrating p_XY(x, y)",
+    "By summing over x ≥ a and y ≥ b"
+  ],
+  "answer": "By summing p_XY(x, y) for x ≤ a and y ≤ b"
+},
+    {
+  "type": "multiple-choice",
+  "question": "How is the marginal PMF p_X(x) obtained from the joint PMF?",
+  "options": [
+    "p_X(x) = p_XY(x, x)",
+    "p_X(x) = Σ_y p_XY(x, y)",
+    "p_X(x) = Σ_x p_XY(x, y)",
+    "p_X(x) = F_X(x)"
+  ],
+  "answer": "p_X(x) = Σ_y p_XY(x, y)"
+},
+    {
+  "type": "multiple-choice",
+  "question": "How is the marginal PMF p_Y(y) obtained from the joint PMF?",
+  "options": [
+    "p_Y(y) = Σ_x p_XY(x, y)",
+    "p_Y(y) = Σ_y p_XY(x, y)",
+    "p_Y(y) = p_XY(y, y)",
+    "p_Y(y) = F_Y(y)"
+  ],
+  "answer": "p_Y(y) = Σ_x p_XY(x, y)"
+},
+    {
+  "type": "multiple-choice",
+  "question": "If X and Y are independent discrete random variables, which relation holds?",
+  "options": [
+    "p_XY(x, y) = p_X(x) + p_Y(y)",
+    "p_XY(x, y) = p_X(x)p_Y(y)",
+    "p_XY(x, y) = F_XY(x, y)",
+    "p_XY(x, y) = 1"
+  ],
+  "answer": "p_XY(x, y) = p_X(x)p_Y(y)"
 }
+
 
   ]
 }
