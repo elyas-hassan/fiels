@@ -443,7 +443,87 @@
     "Y depends only on X"
   ],
   "answer": "X and Y are independent"
+},
+    {
+  "type": "multiple-choice",
+  "question": "A fair coin is tossed three times. X = 1 if the first toss is a head. Y is the total number of heads in three tosses. What is p_XY(0,1)?",
+  "options": [
+    "1/8",
+    "1/4",
+    "3/8",
+    "1/2"
+  ],
+  "answer": "1/4"
+},
+    {
+  "type": "multiple-choice",
+  "question": "When a fair coin is tossed three times, how many equally likely outcomes are in the sample space?",
+  "options": [
+    "3",
+    "6",
+    "8",
+    "9"
+  ],
+  "answer": "8"
+},
+    {
+  "type": "multiple-choice",
+  "question": "A fair coin is tossed twice. Let X indicate whether the first toss is a head (1 or 0). Let Y indicate whether the second toss is a head (1 or 0). Are X and Y independent?",
+  "options": [
+    "Yes",
+    "No",
+    "Only if both are 1",
+    "Only if both are 0"
+  ],
+  "answer": "Yes"
+},
+    {
+  "type": "multiple-choice",
+  "question": "A fair coin is tossed twice. Let X be 1 if the first toss is a head and 0 otherwise. Let Y be the total number of heads in two tosses. Are X and Y independent?",
+  "options": [
+    "Yes",
+    "No",
+    "Cannot be determined",
+    "Only if both tosses are heads"
+  ],
+  "answer": "No"
+},
+    {
+  "type": "multiple-choice",
+  "question": "A fair coin is tossed three times. X = 0 if the first toss is a tail and 1 if it is a head. Y is the total number of heads in three tosses. What is p_XY(0, 3)?",
+  "options": [
+    "1/8",
+    "1/4",
+    "0",
+    "3/8"
+  ],
+  "answer": "0"
+},
+    {
+  "type": "multiple-choice",
+  "question": "When is p_XY(x, y) equal to 0?",
+  "options": [
+    "When X and Y are independent",
+    "When the event {X = x, Y = y} is impossible",
+    "When X = Y",
+    "When the coin is fair"
+  ],
+  "answer": "When the event {X = x, Y = y} is impossible"
+},
+    {
+  "type": "multiple-choice",
+  "question": "A fair die is rolled twice. X = 1 if the first roll is even and 0 otherwise. Y is the total number of even outcomes in two rolls. Are X and Y independent?",
+  "options": [
+    "Yes",
+    "No",
+    "Only if both rolls are even",
+    "Cannot be determined"
+  ],
+  "answer": "No"
 }
+
+
+
 
 
 
