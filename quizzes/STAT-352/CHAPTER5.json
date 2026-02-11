@@ -520,7 +520,316 @@
     "Cannot be determined"
   ],
   "answer": "No"
-}
+},
+  {
+    "type": "multiple-choice",
+    "question": "Let fXY(x,y) = k for 0 < x < 1 and 0 < y < 1. What is the value of k?",
+    "options": [
+      "1",
+      "1/2",
+      "2",
+      "4"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "If fXY(x,y) = 1 for 0 < x < 1 and 0 < y < 1, what is fX(x)?",
+    "options": [
+      "1",
+      "x",
+      "1/2",
+      "2x"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "If fXY(x,y) = 1 for 0 < x < 1 and 0 < y < 1, are X and Y independent?",
+    "options": [
+      "Yes",
+      "No",
+      "Only if x = y",
+      "Cannot be determined"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Let fXY(x,y) = k(x + y) for 0 < x < 1 and 0 < y < 1. What is k?",
+    "options": [
+      "1",
+      "2",
+      "1/2",
+      "1/4"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "If fXY(x,y) = (x + y) for 0 < x < 1 and 0 < y < 1, are X and Y independent?",
+    "options": [
+      "Yes",
+      "No",
+      "Only at (0,0)",
+      "Cannot be determined"
+    ],
+    "answer": "No"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Let fXY(x,y) = 4xy for 0 < x < 1 and 0 < y < 1. What is fX(x)?",
+    "options": [
+      "2x",
+      "4x",
+      "x",
+      "2"
+    ],
+    "answer": "2x"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "If fXY(x,y) = 4xy for 0 < x < 1 and 0 < y < 1, are X and Y independent?",
+    "options": [
+      "Yes",
+      "No",
+      "Only if x = y",
+      "Cannot be determined"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which condition must any joint PDF satisfy?",
+    "options": [
+      "It can be negative",
+      "Its double integral over all space equals 1",
+      "It must be symmetric",
+      "It must equal the CDF"
+    ],
+    "answer": "Its double integral over all space equals 1"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The marginal PDF fX(x) is obtained by:",
+    "options": [
+      "Differentiating the joint PDF",
+      "Integrating the joint PDF over y",
+      "Multiplying by fY(y)",
+      "Setting y = 0"
+    ],
+    "answer": "Integrating the joint PDF over y"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "If X and Y are independent continuous random variables, then:",
+    "options": [
+      "fXY(x,y) = fX(x) + fY(y)",
+      "fXY(x,y) = fX(x)fY(y)",
+      "fXY(x,y) = 1",
+      "fXY(x,y) = 0"
+    ],
+    "answer": "fXY(x,y) = fX(x)fY(y)"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The probability P(x1 < X ≤ x2, y1 < Y ≤ y2) is found by:",
+    "options": [
+      "Subtracting marginal PDFs",
+      "Adding marginal PDFs",
+      "Taking the double integral of fXY over the region",
+      "Multiplying fX and fY"
+    ],
+    "answer": "Taking the double integral of fXY over the region"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which of the following is always true for a joint PDF?",
+    "options": [
+      "fXY(x,y) ≥ 0",
+      "fXY(x,y) ≤ 0",
+      "fXY(x,y) = 1",
+      "fXY(x,y) = x + y"
+    ],
+    "answer": "fXY(x,y) ≥ 0"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The joint PDF is obtained from the joint CDF by:",
+    "options": [
+      "Adding partial derivatives",
+      "Taking second partial derivatives",
+      "Integrating twice",
+      "Multiplying by x and y"
+    ],
+    "answer": "Taking second partial derivatives"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "If fXY(x,y) = 2 for 0 < x < 1 and 0 < y < 0.5, is this a valid PDF?",
+    "options": [
+      "Yes",
+      "No",
+      "Only if x = y",
+      "Cannot determine"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "If fXY(x,y) = 6xy for 0 < x < 1 and 0 < y < 1, what is P(0 < X < 1, 0 < Y < 1)?",
+    "options": [
+      "1",
+      "6",
+      "1/2",
+      "0"
+    ],
+    "answer": "1"
+  },
+      {
+    "type": "multiple-choice",
+    "question": "Given fXY(x,y) = e^{-(x+y)} for x ≥ 0 and y ≥ 0, what is fX(x)?",
+    "options": [
+      "e^{-x}",
+      "e^{-y}",
+      "e^{-(x+y)}",
+      "1"
+    ],
+    "answer": "e^{-x}"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Given fXY(x,y) = e^{-(x+y)} for x ≥ 0 and y ≥ 0, what is fY(y)?",
+    "options": [
+      "e^{-x}",
+      "e^{-y}",
+      "e^{-(x+y)}",
+      "0"
+    ],
+    "answer": "e^{-y}"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Given fXY(x,y) = e^{-(x+y)} for x ≥ 0 and y ≥ 0, Are X and Y independent?",
+    "options": [
+      "Yes",
+      "No",
+      "Only if x = y",
+      "Cannot be determined"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which property proves independence in Given fXY(x,y) = e^{-(x+y)} for x ≥ 0 and y ≥ 0,?",
+    "options": [
+      "The joint PDF is positive",
+      "The joint PDF equals the product of marginals",
+      "The marginal PDFs are equal",
+      "The PDF integrates to 1"
+    ],
+    "answer": "The joint PDF equals the product of marginals"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Let fXY(x,y) = 4e^{-2x}e^{-4y} for x ≥ 0 and y ≥ 0. What is the marginal PDF fX(x)?",
+    "options": [
+      "e^{-2x}",
+      "2e^{-2x}",
+      "4e^{-2x}",
+      "e^{-4x}"
+    ],
+    "answer": "e^{-2x}"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "For the same joint PDF fXY(x,y) = 4e^{-2x}e^{-4y}, what is the marginal PDF fY(y)?",
+    "options": [
+      "e^{-4y}",
+      "2e^{-4y}",
+      "4e^{-4y}",
+      "e^{-2y}"
+    ],
+    "answer": "2e^{-4y}"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "For fXY(x,y) = 4e^{-2x}e^{-4y}, what is fX(x)fY(y)?",
+    "options": [
+      "4e^{-2x}e^{-4y}",
+      "2e^{-2x}e^{-4y}",
+      "e^{-2x}e^{-4y}",
+      "8e^{-2x}e^{-4y}"
+    ],
+    "answer": "2e^{-2x}e^{-4y}"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Given fXY(x,y) = 4e^{-2x}e^{-4y} for x ≥ 0 and y ≥ 0, are X and Y independent?",
+    "options": [
+      "Yes",
+      "No",
+      "Only if x = y",
+      "Cannot be determined"
+    ],
+    "answer": "No"
+  },
+      {
+    "type": "multiple-choice",
+    "question": "Let fXY(x,y) = 2e^{-(x+y)} for 0 ≤ x ≤ y and y ≥ 0. What is fX(x)?",
+    "options": [
+      "2e^{-x}",
+      "2e^{-2x}",
+      "e^{-2x}",
+      "2e^{-(x+y)}"
+    ],
+    "answer": "2e^{-2x}"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "For fXY(x,y) = 2e^{-(x+y)} for 0 ≤ x ≤ y and y ≥ 0, what are the limits of integration when finding fX(x)?",
+    "options": [
+      "0 to ∞",
+      "x to ∞",
+      "0 to x",
+      "-∞ to ∞"
+    ],
+    "answer": "x to ∞"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "For fXY(x,y) = 2e^{-(x+y)} with 0 ≤ x ≤ y, what is fY(y)?",
+    "options": [
+      "2e^{-y}",
+      "2e^{-y}(1 - e^{-y})",
+      "2e^{-2y}",
+      "e^{-y}"
+    ],
+    "answer": "2e^{-y}(1 - e^{-y})"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Why are X and Y not independent in fXY(x,y) = 2e^{-(x+y)} for 0 ≤ x ≤ y and y ≥ 0?",
+    "options": [
+      "Because the PDF is exponential",
+      "Because the support is 0 ≤ x ≤ y",
+      "Because the integral equals 1",
+      "Because fX(x) = fY(y)"
+    ],
+    "answer": "Because the support is 0 ≤ x ≤ y"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "For fXY(x,y) = 2e^{-(x+y)} for 0 ≤ x ≤ y and y ≥ 0, are X and Y independent?",
+    "options": [
+      "Yes",
+      "No",
+      "Only if x = y",
+      "Cannot determine"
+    ],
+    "answer": "No"
+  }
+
 
 
 
