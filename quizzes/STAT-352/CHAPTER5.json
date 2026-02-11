@@ -828,7 +828,64 @@
       "Cannot determine"
     ],
     "answer": "No"
+  },
+    
+  {
+    "type": "multiple-choice",
+    "question": "If X and Y have joint CDF FXY, how do you compute P[a < X ≤ b, c < Y ≤ d]?",
+    "options": [
+      "FXY(b,d) - FXY(b,c) - FXY(a,d) + FXY(a,c)",
+      "FXY(a,c) + FXY(b,d)",
+      "FXY(b,d) - FXY(a,c)",
+      "FXY(b,c) + FXY(a,d)"
+    ],
+    "answer": "FXY(b,d) - FXY(b,c) - FXY(a,d) + FXY(a,c)"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "If X and Y are independent, P[a < X ≤ b, c < Y ≤ d] equals:",
+    "options": [
+      "[FX(b) - FX(a)] + [FY(d) - FY(c)]",
+      "[FX(b) - FX(a)] * [FY(d) - FY(c)]",
+      "FXY(b,d) - FXY(a,c)",
+      "FXY(b,d) / FXY(a,c)"
+    ],
+    "answer": "[FX(b) - FX(a)] * [FY(d) - FY(c)]"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "How do you calculate the joint CDF FXY(m,n) from a joint PMF for discrete X and Y?",
+    "options": [
+      "Sum over all pXY(j,k) with j ≤ m and k ≤ n",
+      "Multiply pX(m) and pY(n)",
+      "Subtract pXY(m,n) from 1",
+      "Integrate pXY(j,k) from 0 to m and 0 to n"
+    ],
+    "answer": "Sum over all pXY(j,k) with j ≤ m and k ≤ n"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "For discrete X and Y, FXY(1,2) is equal to:",
+    "options": [
+      "pXY(0,0) + pXY(0,1) + pXY(0,2) + pXY(1,0) + pXY(1,1) + pXY(1,2)",
+      "pXY(1,2)",
+      "pX(1) * pY(2)",
+      "pXY(0,0) + pXY(1,1)"
+    ],
+    "answer": "pXY(0,0) + pXY(0,1) + pXY(0,2) + pXY(1,0) + pXY(1,1) + pXY(1,2)"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "If X and Y are independent and FX(b)=0.7, FX(a)=0.4, FY(d)=0.6, FY(c)=0.2, what is P[a<X≤b, c<Y≤d]?",
+    "options": [
+      "0.7 - 0.4 + 0.6 - 0.2 = 0.7",
+      "(0.7 - 0.4)*(0.6 - 0.2) = 0.12",
+      "0.7*0.6 = 0.42",
+      "0.4*0.2 = 0.08"
+    ],
+    "answer": "(0.7 - 0.4)*(0.6 - 0.2) = 0.12"
   }
+
 
 
 
