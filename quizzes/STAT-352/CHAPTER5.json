@@ -885,10 +885,240 @@
     ],
     "answer": "(0.7 - 0.4)*(0.6 - 0.2) = 0.12"
   }
-
-
-
-
+    ,
+    {
+  "type": "multiple-choice",
+  "question": "The joint CDF of X and Y is given by F(1,1)=1/8, F(1,2)=5/8, F(2,1)=1/4, F(2,2)=1. What is pXY(1,2)?",
+  "options": [
+    "1/8",
+    "1/2",
+    "1/4",
+    "3/8"
+  ],
+  "answer": "1/2"
+},
+    {
+  "type": "multiple-choice",
+  "question": "The joint CDF of X and Y is given by F(1,1)=1/8, F(1,2)=5/8, F(2,1)=1/4, F(2,2)=1, what is pXY(2,2)?",
+  "options": [
+    "1/8",
+    "1/4",
+    "1/2",
+    "3/8"
+  ],
+  "answer": "1/4"
+}
+,
+    {
+  "type": "multiple-choice",
+  "question": "The joint CDF of X and Y is given by F(1,1)=1/8, F(1,2)=5/8, F(2,1)=1/4, F(2,2)=1,What is the marginal probability pX(1)?",
+  "options": [
+    "5/8",
+    "3/8",
+    "1/4",
+    "3/4"
+  ],
+  "answer": "5/8"
+}
+,
+    {
+  "type": "multiple-choice",
+  "question": "The joint CDF of X and Y is given by F(1,1)=1/8, F(1,2)=5/8, F(2,1)=1/4, F(2,2)=1,What is the marginal probability pY(2)?",
+  "options": [
+    "1/4",
+    "1/2",
+    "3/4",
+    "5/8"
+  ],
+  "answer": "3/4"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Given F(1,1)=1/5, F(1,2)=3/5, F(2,1)=2/5, F(2,2)=1. What is pXY(1,2)?",
+  "options": [
+    "1/5",
+    "2/5",
+    "3/5",
+    "4/5"
+  ],
+  "answer": "2/5"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Given F(1,1)=1/5, F(1,2)=3/5, F(2,1)=2/5, F(2,2)=1,What is pXY(2,1)?",
+  "options": [
+    "1/5",
+    "2/5",
+    "3/5",
+    "4/5"
+  ],
+  "answer": "1/5"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Given F(1,1)=1/5, F(1,2)=3/5, F(2,1)=2/5, F(2,2)=1,What is the marginal probability pY(2)?",
+  "options": [
+    "1/5",
+    "2/5",
+    "3/5",
+    "4/5"
+  ],
+  "answer": "2/5"
+},
+    {
+  "type": "multiple-choice",
+  "question": "If pXY(1,2)=0.2 and pX(1)=0.5, what is pY|X(2|1)?",
+  "options": [
+    "0.2",
+    "0.4",
+    "0.1",
+    "0.5"
+  ],
+  "answer": "0.4"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Which formula defines the conditional PMF of Y given X?",
+  "options": [
+    "pXY(x,y)/pX(x)",
+    "pX(x)/pY(y)",
+    "pXY(x,y)/pY(y)",
+    "pX(x)pY(y)"
+  ],
+  "answer": "pXY(x,y)/pX(x)"
+},
+    {
+  "type": "multiple-choice",
+  "question": "If X and Y are independent, what is pY|X(y|x)?",
+  "options": [
+    "pXY(x,y)",
+    "pX(x)",
+    "pY(y)",
+    "0"
+  ],
+  "answer": "pY(y)"
+},
+    {
+  "type": "multiple-choice",
+  "question": "The conditional CDF FX|Y(x|y) is obtained by:",
+  "options": [
+    "Multiplying marginal probabilities",
+    "Summing pX|Y(u|y) for u ≤ x",
+    "Dividing by pX(x)",
+    "Taking derivative of joint CDF"
+  ],
+  "answer": "Summing pX|Y(u|y) for u ≤ x"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Given pXY(1,2)=0.4 and pX(1)=0.5, what is pY|X(2|1)?",
+  "options": [
+    "0.4",
+    "0.8",
+    "0.2",
+    "0.5"
+  ],
+  "answer": "0.8"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Given pXY(x,y)=1/18(2x+y) note x and y from 1,2, what is pX(1)?",
+  "options": [
+    "7/18",
+    "1/6",
+    "2/9",
+    "4/9"
+  ],
+  "answer": "7/18"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Given pXY(x,y)=1/18(2x+y) note x and y from 1,2, what is pY(2)?",
+  "options": [
+    "5/9",
+    "4/9",
+    "1/3",
+    "2/9"
+  ],
+  "answer": "5/9"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Given pXY(x,y)=1/18(2x+y) note x and y from 1,2,What is pY|X(1|1)?",
+  "options": [
+    "3/7",
+    "4/7",
+    "5/11",
+    "3/8"
+  ],
+  "answer": "3/7"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Given pXY(x,y)=1/18(2x+y) note x and y from 1,2,What is pX|Y(2|1)?",
+  "options": [
+    "5/8",
+    "3/8",
+    "6/11",
+    "5/11"
+  ],
+  "answer": "5/8"
+},
+    {
+  "type": "multiple-choice",
+  "question": "If pY|X(y|x) equals pY(y) for all x,y, then X and Y are:",
+  "options": [
+    "Dependent",
+    "Independent",
+    "Conditional",
+    "Equal"
+  ],
+  "answer": "Independent"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Given fXY(x,y)=x e^{-x(y+1)} for x≥0, y≥0, what is fX(x)?",
+  "options": [
+    "e^{-x}",
+    "x e^{-x}",
+    "1/(y+1)^2",
+    "e^{-xy}"
+  ],
+  "answer": "e^{-x}"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Given fXY(x,y)=x e^{-x(y+1)}, what is fY(y)?",
+  "options": [
+    "1/(y+1)",
+    "1/(y+1)^2",
+    "e^{-y}",
+    "x e^{-xy}"
+  ],
+  "answer": "1/(y+1)^2"
+},
+    {
+  "type": "multiple-choice",
+  "question": "What is fY|X(y|x),Given fXY(x,y)=x e^{-x(y+1)}?",
+  "options": [
+    "x e^{-xy}",
+    "e^{-x}",
+    "x(y+1)^2 e^{-x(y+1)}",
+    "1/(y+1)^2"
+  ],
+  "answer": "x e^{-xy}"
+},
+    {
+  "type": "multiple-choice",
+  "question": "What is fX|Y(x|y)?",
+  "options": [
+    "x(y+1)^2 e^{-x(y+1)}",
+    "e^{-x}",
+    "x e^{-xy}",
+    "1/(y+1)"
+  ],
+  "answer": "x(y+1)^2 e^{-x(y+1)}"
+}
 
 
 
