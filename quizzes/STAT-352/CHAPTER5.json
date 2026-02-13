@@ -1110,7 +1110,7 @@
 },
     {
   "type": "multiple-choice",
-  "question": "What is fX|Y(x|y)?",
+  "question": "What is fX|Y(x|y),Given fXY(x,y)=x e^{-x(y+1)}?",
   "options": [
     "x(y+1)^2 e^{-x(y+1)}",
     "e^{-x}",
