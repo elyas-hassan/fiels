@@ -402,7 +402,7 @@
 },
     {
   "type": "multiple-choice",
-  "question": "The joint PMF of X and Y is given by p_XY(x, y) = k(x + 2y) for x = 1,2 and y = 1,2, and 0 otherwise. Which steps are required to fully analyze this distribution?",
+  "question": "The joint PMF of X and Y is given by p_XY(x, y) = k(x + 2y) for x = 1,2 and y = 1,2. Which steps are required to fully analyze this distribution?",
   "options": [
     "Find k only",
     "Find k and the joint CDF",
@@ -435,7 +435,7 @@
 },
     {
   "type": "multiple-choice",
-  "question": "Suppose the joint PMF of X and Y is p_XY(x, y) = k(2x)(y) for x = 1,2 and y = 1,2, and 0 otherwise. After computing k and the marginal PMFs, what conclusion can be drawn?",
+  "question": "Suppose the joint PMF of X and Y is p_XY(x, y) = k(2x)(y) for x = 1,2 and y = 1,2. After computing k and the marginal PMFs, what conclusion can be drawn?",
   "options": [
     "X and Y are independent",
     "X and Y are not independent",
