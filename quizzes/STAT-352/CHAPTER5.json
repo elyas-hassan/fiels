@@ -763,17 +763,6 @@
     ],
     "answer": "2e^{-2x}e^{-4y}"
   },
-  {
-    "type": "multiple-choice",
-    "question": "Given fXY(x,y) = 4e^{-2x}e^{-4y} for x ≥ 0 and y ≥ 0, are X and Y independent?",
-    "options": [
-      "Yes",
-      "No",
-      "Only if x = y",
-      "Cannot be determined"
-    ],
-    "answer": "No"
-  },
       {
     "type": "multiple-choice",
     "question": "Let fXY(x,y) = 2e^{-(x+y)} for 0 ≤ x ≤ y and y ≥ 0. What is fX(x)?",
