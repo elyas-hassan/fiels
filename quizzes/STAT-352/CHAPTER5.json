@@ -743,7 +743,7 @@
   },
   {
     "type": "multiple-choice",
-    "question": "For the same joint PDF fXY(x,y) = 4e^{-2x}e^{-4y}, what is the marginal PDF fY(y)?",
+    "question": "For the PDF fXY(x,y) = 4e^{-2x}e^{-4y}, what is the marginal PDF fY(y)?",
     "options": [
       "e^{-4y}",
       "2e^{-4y}",
