@@ -752,17 +752,6 @@
     ],
     "answer": "2e^{-4y}"
   },
-  {
-    "type": "multiple-choice",
-    "question": "For fXY(x,y) = 4e^{-2x}e^{-4y}, what is fX(x)fY(y)?",
-    "options": [
-      "4e^{-2x}e^{-4y}",
-      "2e^{-2x}e^{-4y}",
-      "e^{-2x}e^{-4y}",
-      "8e^{-2x}e^{-4y}"
-    ],
-    "answer": "2e^{-2x}e^{-4y}"
-  },
       {
     "type": "multiple-choice",
     "question": "Let fXY(x,y) = 2e^{-(x+y)} for 0 ≤ x ≤ y and y ≥ 0. What is fX(x)?",
