@@ -675,17 +675,6 @@
     ],
     "answer": "Yes"
   },
-  {
-    "type": "multiple-choice",
-    "question": "If fXY(x,y) = 6xy for 0 < x < 1 and 0 < y < 1, what is P(0 < X < 1, 0 < Y < 1)?",
-    "options": [
-      "1",
-      "6",
-      "1/2",
-      "0"
-    ],
-    "answer": "1"
-  },
       {
     "type": "multiple-choice",
     "question": "Given fXY(x,y) = e^{-(x+y)} for x ≥ 0 and y ≥ 0, what is fX(x)?",
