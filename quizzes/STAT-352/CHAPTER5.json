@@ -1085,6 +1085,204 @@
     "1/(y+1)"
   ],
   "answer": "x(y+1)^2 e^{-x(y+1)}"
+},
+    {
+  "type": "multiple-choice",
+  "question": "If a joint PDF can be written as constant × g(x) × h(y) over a rectangular region, then X and Y are:",
+  "options": [
+    "Dependent",
+    "Independent",
+    "Conditional",
+    "Identical"
+  ],
+  "answer": "Independent"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Given fXY(x,y)=1/2 x^3 y for 0≤x≤2 and 0≤y≤1, are X and Y independent?",
+  "options": [
+    "Yes",
+    "No",
+    "Only if x=0",
+    "Cannot determine"
+  ],
+  "answer": "Yes"
+},
+    {
+  "type": "multiple-choice",
+  "question": "For fXY(x,y)=1/2 x^3 y for 0≤x≤2 and 0≤y≤1, what is fX(x)?",
+  "options": [
+    "1/2 x^3",
+    "1/4 x^3",
+    "2x^3",
+    "x^3"
+  ],
+  "answer": "1/4 x^3"
+},
+    {
+  "type": "multiple-choice",
+  "question": "For fXY(x,y)=1/2 x^3 y for 0≤x≤2 and 0≤y≤1 , what is fY(y)?",
+  "options": [
+    "1/4 y",
+    "y/2",
+    "2y",
+    "y"
+  ],
+  "answer": "2y"
+},
+    {
+  "type": "multiple-choice",
+  "question": "If the joint PDF region is NOT rectangular, then X and Y are:",
+  "options": [
+    "Independent",
+    "Dependent",
+    "Identical",
+    "Uniform"
+  ],
+  "answer": "Dependent"
+},
+    {
+  "type": "multiple-choice",
+  "question": "If fXY(x,y)=6xy^2 for 0≤x≤1 and 0≤y≤1, are X and Y independent?",
+  "options": [
+    "Yes",
+    "No",
+    "Only if x=0",
+    "Cannot determine"
+  ],
+  "answer": "Yes"
+},
+    {
+  "type": "multiple-choice",
+  "question": "For fXY(x,y)=6xy^2, what is fX(x)?",
+  "options": [
+    "x",
+    "2x",
+    "3x",
+    "6x"
+  ],
+  "answer": "2x"
+}و
+    {
+  "type": "multiple-choice",
+  "question": "For fXY(x,y)=4x e^{-2y}, what is fY(y)?",
+  "options": [
+    "e^{-2y}",
+    "4e^{-2y}",
+    "2e^{-2y}",
+    "x e^{-2y}"
+  ],
+  "answer": "2e^{-2y}"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Which of the following values is NOT possible for a correlation coefficient?",
+  "options": [
+    "-0.85",
+    "0.92",
+    "1.15",
+    "-0.40"
+  ],
+  "answer": "1.15"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Which statement is always true?",
+  "options": [
+    "Correlation coefficient can be greater than 1",
+    "Correlation coefficient must lie between -1 and 1",
+    "Correlation coefficient is always positive",
+    "Correlation implies independence"
+  ],
+  "answer": "Correlation coefficient must lie between -1 and 1"
+},
+    {
+  "type": "multiple-choice",
+  "question": "For three discrete random variables X1, X2, X3, which condition must hold for mutual independence?",
+  "options": [
+    "p(X1,X2,X3) = p(X1)p(X2)p(X3)",
+    "p(X1,X2,X3) = p(X1,X2)p(X3)",
+    "p(X1,X2,X3) = p(X1)+p(X2)+p(X3)",
+    "Cov(X1,X2) = 0"
+  ],
+  "answer": "p(X1,X2,X3) = p(X1)p(X2)p(X3)"
+},
+    {
+  "type": "multiple-choice",
+  "question": "To obtain the marginal PMF of X3 from p(X1,X2,X3), we must:",
+  "options": [
+    "Differentiate with respect to X3",
+    "Sum over X1 and X2",
+    "Multiply by p(X3)",
+    "Set X1 and X2 equal to zero"
+  ],
+  "answer": "Sum over X1 and X2"
+},
+    {
+  "type": "multiple-choice",
+  "question": "For continuous random variables, the total integral of the joint PDF over the entire space must equal:",
+  "options": [
+    "0",
+    "1",
+    "∞",
+    "Cannot be determined"
+  ],
+  "answer": "1"
+},
+    {
+  "type": "multiple-choice",
+  "question": "The multinomial distribution is an extension of which distribution?",
+  "options": [
+    "Poisson",
+    "Normal",
+    "Binomial",
+    "Geometric"
+  ],
+  "answer": "Binomial"
+},
+    {
+  "type": "multiple-choice",
+  "question": "A fair die is rolled 5 times. What is the probability that the number 1 appears once, the number 2 appears twice, and the other numbers appear twice?",
+  "options": [
+    "5!/(1!2!2!) × (1/6)^3 × (4/6)^2",
+    "5!/(1!2!2!) × (1/6)^3 × (3/6)^2",
+    "5!/(1!2!2!) × (1/6)^2 × (4/6)^3",
+    "5!/(1!2!2!) × (1/6)^5"
+  ],
+  "answer": "5!/(1!2!2!) × (1/6)^3 × (4/6)^2"
+},
+    {
+  "type": "multiple-choice",
+  "question": "A bag contains 50% red balls, 30% blue balls, and 20% green balls. If 8 balls are selected independently, what is the probability that 4 are red, 2 are blue, and 2 are green?",
+  "options": [
+    "8!/(4!2!2!) × (0.5)^4 (0.3)^2 (0.2)^2",
+    "8!/(4!2!2!) × (0.5)^2 (0.3)^4 (0.2)^2",
+    "8!/(4!2!2!) × (0.5)^4 (0.3)^2",
+    "8!/(4!2!2!) × (0.5)^4 (0.2)^2"
+  ],
+  "answer": "8!/(4!2!2!) × (0.5)^4 (0.3)^2 (0.2)^2"
+},
+    {
+  "type": "multiple-choice",
+  "question": "A fair die is rolled 7 times. What is the probability that the number 1 appears twice, the number 2 appears once, and the numbers 3–6 appear four times?",
+  "options": [
+    "7!/(2!1!4!) × (1/6)^3 × (4/6)^4",
+    "7!/(2!1!4!) × (1/6)^2 × (4/6)^4",
+    "7!/(2!1!4!) × (1/6)^3 × (4/6)^3",
+    "7!/(2!1!4!) × (1/6)^7"
+  ],
+  "answer": "7!/(2!1!4!) × (1/6)^3 × (4/6)^4"
+},
+    {
+  "type": "multiple-choice",
+  "question": "A college has 50% in-state students, 20% out-of-state students, and 30% foreign students. If 10 students are randomly selected, what is the probability that 6 are in-state, 2 are out-of-state, and 2 are foreign?",
+  "options": [
+    "10!/(6!2!2!) × (0.5)^6 (0.2)^2 (0.3)^2",
+    "10!/(6!2!2!) × (0.5)^2 (0.2)^6 (0.3)^2",
+    "10!/(6!2!2!) × (0.5)^6 (0.3)^2",
+    "10!/(6!2!2!) × (0.5)^6 (0.2)^2"
+  ],
+  "answer": "10!/(6!2!2!) × (0.5)^6 (0.2)^2 (0.3)^2"
 }
 
 
