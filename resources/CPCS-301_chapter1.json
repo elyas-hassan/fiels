@@ -5,5 +5,5 @@
   "type": "pdf",
   "department": "cs",
   "uploadedBy": "Elyas Hassan",
-  "exclusive": "True"
+  "exclusive": true
 }
