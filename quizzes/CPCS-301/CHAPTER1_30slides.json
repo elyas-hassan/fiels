@@ -16,6 +16,7 @@
     ],
     "answer": "Artificial Intelligence"
   },
+    
   {
     "type": "multiple-choice",
     "question": "Which language is most associated with Systems Programming due to its need for efficiency?",
@@ -231,5 +232,118 @@
       "Increased portability"
     ],
     "answer": "Reduced readability"
+  },
+     {
+    "type": "multiple-choice",
+    "question": "What are the most common data structures used in Scientific Applications?",
+    "options": [
+      "Linked lists and Trees",
+      "Arrays and Matrices",
+      "Stacks and Queues",
+      "Symbols and Strings"
+    ],
+    "answer": "Arrays and Matrices"
+  },
+  {
+    "type": "true-false",
+    "question": "Scientific applications are characterized by large numbers of floating-point computations.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which of the following were the most common control structures in early Scientific Applications?",
+    "options": [
+      "Recursion and Pointers",
+      "Counting loops and Selections",
+      "Exception handling and Events",
+      "None of the above"
+    ],
+    "answer": "Counting loops and Selections"
+  },
+  {
+    "type": "true-false",
+    "question": "Business languages are designed with facilities to produce elaborate reports.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Business applications primarily require precise ways of describing and storing which type of data?",
+    "options": [
+      "Floating-point numbers",
+      "Decimal numbers and character data",
+      "Binary symbols",
+      "Linked lists"
+    ],
+    "answer": "Decimal numbers and character data"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Early Artificial Intelligence programming focused on manipulating __________ rather than numbers.",
+    "options": [
+      "Decimal arithmetic",
+      "Matrices",
+      "Symbols",
+      "Floating-points"
+    ],
+    "answer": "Symbols"
+  },
+  {
+    "type": "true-false",
+    "question": "LISP and Prolog are frequently associated with the use of linked lists in AI.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which of the following is NOT listed as a modern language used for new AI systems?",
+    "options": [
+      "MATLAB",
+      "Python",
+      "R",
+      "COBOL"
+    ],
+    "answer": "COBOL"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Why does Systems Programming require high efficiency?",
+    "options": [
+      "Because it is used for symbolic processing",
+      "Because of its continuous use",
+      "Because it only uses linked lists",
+      "Because it is only used on mobile phones"
+    ],
+    "answer": "Because of its continuous use"
+  },
+  {
+    "type": "true-false",
+    "question": "Web software uses an eclectic collection of languages including markup, scripting, and general-purpose languages.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In the context of Web Software, XHTML is categorized as a:",
+    "options": [
+      "Scripting language",
+      "Markup language",
+      "General-purpose language",
+      "Systems language"
+    ],
+    "answer": "Markup language"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which language is given as an example of a general-purpose language used in Web Software?",
+    "options": [
+      "PHP",
+      "XHTML",
+      "Java",
+      "Fortran"
+    ],
+    "answer": "Java"
+  },
+  {
+    "type": "true-false",
+    "question": "ALGOL 60 is an example of a language used for Business Applications.",
+    "answer": "false"
   }
 ]}
