@@ -1,0 +1,473 @@
+{
+  "id": "CPCS-301",
+  "category": "Programming Languages",
+  "title": "Chapter 1",
+  "timeLimit": 3600,
+  "questions": [
+  {
+    "type": "multiple-choice",
+    "question": "Which metacharacter matches any single character except a linefeed?",
+    "options": [
+      "*",
+      ".",
+      "?",
+      "\\"
+    ],
+    "answer": "."
+  },
+  {
+    "type": "true-false",
+    "question": "The regular expression 'apple' matches the literal string 'apple'.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which metacharacter matches zero or one of the previous character or expression?",
+    "options": [
+      "+",
+      "*",
+      "?",
+      "."
+    ],
+    "answer": "?"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The regex 'colou?r' will match which of the following strings?",
+    "options": [
+      "color only",
+      "colour only",
+      "Both color and colour",
+      "colouur"
+    ],
+    "answer": "Both color and colour"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which metacharacter matches one or more of the previous character or expression?",
+    "options": [
+      "?",
+      "*",
+      "+",
+      "{number}"
+    ],
+    "answer": "+"
+  },
+  {
+    "type": "true-false",
+    "question": "The expression 'a+rgh!' matches 'argh!', 'aargh!', and 'aaargh!'.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which metacharacter matches zero or more of the previous character or expression?",
+    "options": [
+      "+",
+      "?",
+      "*",
+      "."
+    ],
+    "answer": "*"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Given the regex 'b(an)*a', which of the following is a valid match?",
+    "options": [
+      "ba",
+      "banana",
+      "bananana",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "How do you match exactly a specific number of copies of the previous expression?",
+    "options": [
+      "[number]",
+      "(number)",
+      "{number}",
+      "^number"
+    ],
+    "answer": "{number}"
+  },
+  {
+    "type": "true-false",
+    "question": "The regex '.o{2}n' matches the word 'noon'.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which metacharacter matches a range between a minimum and maximum number of copies?",
+    "options": [
+      "[min,max]",
+      "{min,max}",
+      "(min,max)",
+      "|min,max|"
+    ],
+    "answer": "{min,max}"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The regex 'kabo{2,4}m' matches which string?",
+    "options": [
+      "kabom",
+      "kabooom",
+      "kabooooom",
+      "kabm"
+    ],
+    "answer": "kabooom"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which metacharacter is used to match a single character from a specific list or range?",
+    "options": [
+      "(pattern)",
+      "{set}",
+      "[set]",
+      "|set|"
+    ],
+    "answer": "[set]"
+  },
+  {
+    "type": "true-false",
+    "question": "The regex 'J[aio]b' matches 'Jab', 'Jib', and 'Job'.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "How do you match a single character NOT in a specified set?",
+    "options": [
+      "[set]^",
+      "[^set]",
+      "[!set]",
+      "^[set]"
+    ],
+    "answer": "[^set]"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What does the regex 'q[^u]' match?",
+    "options": [
+      "The letter 'q' followed by 'u'",
+      "The letter 'q' followed by any character except 'u'",
+      "Any character followed by 'q'",
+      "Only the word 'quit'"
+    ],
+    "answer": "The letter 'q' followed by any character except 'u'"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which metacharacter acts as an 'OR' operator to match either expression it separates?",
+    "options": [
+      "&",
+      "|",
+      "$",
+      "\\"
+    ],
+    "answer": "|"
+  },
+  {
+    "type": "true-false",
+    "question": "The regex '(Mi|U)nix' matches both 'Minix' and 'Unix'.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which metacharacter matches the start of a line?",
+    "options": [
+      "$",
+      "^",
+      "\\s",
+      "*"
+    ],
+    "answer": "^"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What does the pattern '^#' find?",
+    "options": [
+      "Lines ending with #",
+      "Lines containing # anywhere",
+      "Lines that begin with #",
+      "Empty lines"
+    ],
+    "answer": "Lines that begin with #"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which metacharacter matches the end of a line?",
+    "options": [
+      "^",
+      "\\n",
+      "$",
+      "\\t"
+    ],
+    "answer": "$"
+  },
+  {
+    "type": "true-false",
+    "question": "The regex '^$' matches an empty line.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which character is used to interpret the next metacharacter literally (escaping)?",
+    "options": [
+      "/",
+      "\\",
+      "|",
+      "!"
+    ],
+    "answer": "\\"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "How would you match a literal asterisk (*) character in a regex?",
+    "options": [
+      "*",
+      "[*]",
+      "\\*",
+      "^*"
+    ],
+    "answer": "\\*"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What does '\\n' match?",
+    "options": [
+      "The letter 'n'",
+      "A new line character",
+      "Any number",
+      "A tab"
+    ],
+    "answer": "A new line character"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which escaped character matches a single tab?",
+    "options": [
+      "\\s",
+      "\\t",
+      "\\n",
+      "\\b"
+    ],
+    "answer": "\\t"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What does '\\s' represent in a regular expression?",
+    "options": [
+      "A start of a line",
+      "A single whitespace character",
+      "A single symbol",
+      "A string"
+    ],
+    "answer": "A single whitespace character"
+  },
+  {
+    "type": "true-false",
+    "question": "The regex 'Hello\\s+World' matches 'Hello World' and 'Hello    World'.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What does the metacharacter '\\S' (capital S) match?",
+    "options": [
+      "A single whitespace character",
+      "A single non-whitespace character",
+      "A digit",
+      "A line break"
+    ],
+    "answer": "A single non-whitespace character"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which of the following would '\\S\\S\\S' match?",
+    "options": [
+      "   ",
+      "A B",
+      "AAA",
+      "1 2"
+    ],
+    "answer": "AAA"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which escaped character matches a single digit?",
+    "options": [
+      "\\D",
+      "\\d",
+      "\\s",
+      "\\w"
+    ],
+    "answer": "\\d"
+  },
+  {
+    "type": "true-false",
+    "question": "The regex '\\d\\d\\d' matches the string '123'.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What does the metacharacter '\\D' (capital D) match?",
+    "options": [
+      "A single digit character",
+      "A single non-digit character",
+      "Any decimal",
+      "A dot"
+    ],
+    "answer": "A single non-digit character"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which of the following would '\\D\\D' match?",
+    "options": [
+      "12",
+      "It",
+      "1a",
+      "99"
+    ],
+    "answer": "It"
+  },
+  {
+    "type": "true-false",
+    "question": "Parentheses (pattern) are used to group patterns so they can be treated as a unit.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The regex 's.t' would match which of the following?",
+    "options": [
+      "sat",
+      "sit",
+      "s3t",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In the regex '[A-Z][0-9]{3}', what does the '{3}' apply to?",
+    "options": [
+      "The [A-Z] set",
+      "The [0-9] set",
+      "The whole expression",
+      "The start of the line"
+    ],
+    "answer": "[0-9] set"
+  },
+  {
+    "type": "true-false",
+    "question": "When '?' follows '*', it prevents the expression from using 'greedy' evaluation.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which regex would match exactly 3 digits followed by exactly 2 non-digits?",
+    "options": [
+      "\\d{3}\\D{2}",
+      "\\d{2}\\D{3}",
+      "\\D{3}\\d{2}",
+      "\\d3\\D2"
+    ],
+    "answer": "\\d{3}\\D{2}"
+  },
+  {
+    "type": "true-false",
+    "question": "The regex '^#' only matches if the hash symbol is at the end of the line.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which pattern matches a literal dot (.) character?",
+    "options": [
+      ".",
+      "\\.",
+      "[.]",
+      "Both \\. and [.]"
+    ],
+    "answer": "Both \\. and [.]"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is matched by the regex 'a{2,3}'?",
+    "options": [
+      "Exactly 2 'a's",
+      "Exactly 3 'a's",
+      "Either 2 or 3 'a's",
+      "At least 2 'a's"
+    ],
+    "answer": "Either 2 or 3 'a's"
+  },
+  {
+    "type": "true-false",
+    "question": "In the context of the provided text, '\\t' matches a single newline character.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which of these matches 'cat', 'bat', or 'rat' using a set?",
+    "options": [
+      "(c|b|r)at",
+      "[cbr]at",
+      "cbr-at",
+      "Both (c|b|r)at and [cbr]at"
+    ],
+    "answer": "Both (c|b|r)at and [cbr]at"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What does the dot (.) NOT match according to the description?",
+    "options": [
+      "Spaces",
+      "Numbers",
+      "Linefeed",
+      "Symbols"
+    ],
+    "answer": "Linefeed"
+  },
+  {
+    "type": "true-false",
+    "question": "The regex 'banana' can be written as 'b(an){2}a'.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which metacharacter matches the end of the line?",
+    "options": [
+      "$",
+      "^",
+      "\\e",
+      "|"
+    ],
+    "answer": "$"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "To find lines that consist ONLY of the word 'End', which regex would you use?",
+    "options": [
+      "End",
+      "^End",
+      "End$",
+      "^End$"
+    ],
+    "answer": "^End$"
+  },
+  {
+    "type": "true-false",
+    "question": "The metacharacter '\\s' matches non-whitespace characters.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the result of 'a+b*' matching 'aaabb'?",
+    "options": [
+      "No match",
+      "Matches 'aaabb'",
+      "Matches 'a'",
+      "Matches 'b'"
+    ],
+    "answer": "Matches 'aaabb'"
+  }
+]}
