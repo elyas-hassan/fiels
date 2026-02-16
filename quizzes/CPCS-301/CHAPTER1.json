@@ -351,7 +351,511 @@
         "Memory and CPU"
       ],
       "answer": "Compilation and interpretation"
-    }
+    },
+    {
+    "type": "multiple-choice",
+    "question": "Which phase of compilation converts characters in the source program into lexical units (tokens)?",
+    "options": [
+      "Syntax analysis",
+      "Semantic analysis",
+      "Lexical analysis",
+      "Code generation"
+    ],
+    "answer": "Lexical analysis"
+  },
+  {
+    "type": "true-false",
+    "question": "A language is said to be orthogonal if a small set of primitive constructs can be combined in a small number of ways and every combination is legal.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which programming domain is characterized by large numbers of floating-point computations and the use of Fortran?",
+    "options": [
+      "Business Applications",
+      "Artificial Intelligence",
+      "Scientific Applications",
+      "Systems Programming"
+    ],
+    "answer": "Scientific Applications"
+  },
+  {
+    "type": "true-false",
+    "question": "The von Neumann bottleneck refers to the speed of the processor being too fast for the user to input data.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What evaluation criterion describes the 'ease of creating programs' for a chosen domain?",
+    "options": [
+      "Readability",
+      "Writability",
+      "Reliability",
+      "Portability"
+    ],
+    "answer": "Writability"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which phase of compilation generates intermediate code?",
+    "options": [
+      "Lexical analysis",
+      "Syntax analysis",
+      "Semantic analysis",
+      "Optimization"
+    ],
+    "answer": "Semantic analysis"
+  },
+  {
+    "type": "true-false",
+    "question": "Aliasing is having multiple references to the same memory location, which generally increases the reliability of a language.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which category of programming languages is based on rule-based computation and uses formal logic?",
+    "options": [
+      "Imperative",
+      "Functional",
+      "Logic",
+      "Markup"
+    ],
+    "answer": "Logic"
+  },
+  {
+    "type": "true-false",
+    "question": "Hybrid implementation systems, like Java, translate source code into intermediate code (bytecode) before interpretation.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the term for having more than one way to perform the same operation (e.g., count++, ++count, count += 1)?",
+    "options": [
+      "Operator overloading",
+      "Feature multiplicity",
+      "Orthogonality",
+      "Abstraction"
+    ],
+    "answer": "Feature multiplicity"
+  },
+  {
+    "type": "true-false",
+    "question": "Functional languages have a strong concept of storage-based variables and assignment statements.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In the von Neumann architecture, what do assignment statements model?",
+    "options": [
+      "Memory cells",
+      "Iteration",
+      "Data movement (piping)",
+      "Mathematical functions"
+    ],
+    "answer": "Data movement (piping)"
+  },
+  {
+    "type": "true-false",
+    "question": "The 'Load Module' or 'Executable Image' is the combination of user code and system code linked together.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which language was the first to provide limited support for data abstraction?",
+    "options": [
+      "Fortran",
+      "COBOL",
+      "SIMULA 67",
+      "LISP"
+    ],
+    "answer": "SIMULA 67"
+  },
+  {
+    "type": "true-false",
+    "question": "Pure interpretation results in faster execution speeds than compilation.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which of these is NOT a step in the von Neumann Fetch-Execute cycle?",
+    "options": [
+      "Decode the instruction",
+      "Increment the program counter",
+      "Translate to intermediate code",
+      "Execute the instruction"
+    ],
+    "answer": "Translate to intermediate code"
+  },
+  {
+    "type": "true-false",
+    "question": "Writability can only be fairly compared between languages designed for the same application domain.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the primary influence on the design of imperative languages?",
+    "options": [
+      "Mathematical Logic",
+      "Computer Architecture (von Neumann)",
+      "Symbolic Processing",
+      "Web Layout"
+    ],
+    "answer": "Computer Architecture (von Neumann)"
+  },
+  {
+    "type": "true-false",
+    "question": "A language with high 'well-definedness' has a complete and precise official definition.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which language evaluation criterion includes the 'cost of training programmers' and 'cost of maintenance'?",
+    "options": [
+      "Readability",
+      "Reliability",
+      "Cost",
+      "Generality"
+    ],
+    "answer": "Cost"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "According to the slides, what are the three components of a program's basic flow?",
+    "options": [
+      "Read, Process, Write",
+      "Input, Calculations, Output",
+      "Fetch, Decode, Execute",
+      "Syntax, Semantics, Purpose"
+    ],
+    "answer": "Input, Calculations, Output"
+  },
+  {
+    "type": "true-false",
+    "question": "A programming language is considered an artificial language designed to express computations.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which reason for studying PL concepts suggests that a programmer's thoughts are limited by the expressive power of their language?",
+    "options": [
+      "Improved background for choosing languages",
+      "Increased ability to learn new languages",
+      "Increased ability to express ideas",
+      "Overall advancement of computing"
+    ],
+    "answer": "Increased ability to express ideas"
+  },
+  {
+    "type": "true-false",
+    "question": "The study of PL implementation allows programmers to visualize how the computer executes constructs using structures like the stack.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which language was specifically mentioned as the primary language for Business Applications in the early 1950s?",
+    "options": [
+      "Fortran",
+      "LISP",
+      "COBOL",
+      "C"
+    ],
+    "answer": "COBOL"
+  },
+  {
+    "type": "true-false",
+    "question": "Modern AI systems are exclusively written in LISP and Prolog.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which evaluation criterion focuses on the ease with which programs can be read and understood?",
+    "options": [
+      "Writability",
+      "Reliability",
+      "Readability",
+      "Cost"
+    ],
+    "answer": "Readability"
+  },
+  {
+    "type": "true-false",
+    "question": "In C++, the fact that '=' can mean both assignment and a part of an equality check is an example of operator overloading.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the result of a lack of orthogonality in a programming language?",
+    "options": [
+      "Better readability",
+      "Exceptions to the rules of the language",
+      "Increased execution speed",
+      "Easier learning curve"
+    ],
+    "answer": "Exceptions to the rules of the language"
+  },
+  {
+    "type": "true-false",
+    "question": "The use of a numeric type (1 or 0) for a flag instead of a Boolean type decreases readability.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In Fortran 95, why are 'Do' and 'End' mentioned as syntax considerations?",
+    "options": [
+      "They are the only control structures",
+      "They are illegal names",
+      "They are legal variable names, which can cause confusion",
+      "They are case-sensitive"
+    ],
+    "answer": "They are legal variable names, which can cause confusion"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The ability to define and use complex structures while ignoring unnecessary details is called:",
+    "options": [
+      "Expressivity",
+      "Abstraction",
+      "Orthogonality",
+      "Type checking"
+    ],
+    "answer": "Abstraction"
+  },
+  {
+    "type": "true-false",
+    "question": "Reliability is defined as a program performing to its specifications under all conditions.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which type of checking is more desirable because it detects errors earlier and is less expensive?",
+    "options": [
+      "Run-time type checking",
+      "Manual type checking",
+      "Compile-time type checking",
+      "Dynamic type checking"
+    ],
+    "answer": "Compile-time type checking"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is 'aliasing' in programming?",
+    "options": [
+      "Using different names for the same function",
+      "Having two or more referencing methods for the same memory location",
+      "Renaming a variable during execution",
+      "Encrypting variable names"
+    ],
+    "answer": "Having two or more referencing methods for the same memory location"
+  },
+  {
+    "type": "true-false",
+    "question": "Readability and Writability have no influence on the Reliability of a language.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The cost of software maintenance is primarily a function of which criterion?",
+    "options": [
+      "Writability",
+      "Readability",
+      "Orthogonality",
+      "Generality"
+    ],
+    "answer": "Readability"
+  },
+  {
+    "type": "true-false",
+    "question": "A trade-off exists between compilation cost and execution speed.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which 'Other' criterion refers to the ease of moving programs from one implementation to another?",
+    "options": [
+      "Generality",
+      "Well-definedness",
+      "Portability",
+      "Reliability"
+    ],
+    "answer": "Portability"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which architecture is the basis for most imperative languages?",
+    "options": [
+      "Harvard Architecture",
+      "Von Neumann Architecture",
+      "RISC Architecture",
+      "Parallel Architecture"
+    ],
+    "answer": "Von Neumann Architecture"
+  },
+  {
+    "type": "true-false",
+    "question": "In the von Neumann architecture, the CPU and Memory are integrated into a single unit.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In the mapping between imperative languages and hardware, what do variables represent?",
+    "options": [
+      "The CPU",
+      "Piping",
+      "Memory cells",
+      "Program counter"
+    ],
+    "answer": "Memory cells"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the correct order of the Fetch-Execute Cycle?",
+    "options": [
+      "Fetch, Decode, Increment, Execute",
+      "Initialize, Fetch, Increment, Decode, Execute",
+      "Decode, Fetch, Execute, Increment",
+      "Fetch, Execute, Decode, Increment"
+    ],
+    "answer": "Initialize, Fetch, Increment, Decode, Execute"
+  },
+  {
+    "type": "true-false",
+    "question": "During the late 1960s, programming methodologies shifted to focus on 'People Efficiency' rather than just 'Machine Efficiency'.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Object-oriented programming consists of Data Abstraction, Inheritance, and what third element?",
+    "options": [
+      "Recursion",
+      "Iteration",
+      "Polymorphism",
+      "Orthogonality"
+    ],
+    "answer": "Polymorphism"
+  },
+  {
+    "type": "true-false",
+    "question": "Object-oriented languages are considered a completely separate category from imperative languages in this course.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which category of language makes computations by applying functions to parameters?",
+    "options": [
+      "Imperative",
+      "Logic",
+      "Functional",
+      "Markup"
+    ],
+    "answer": "Functional"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "LISP is the 2nd-oldest general-purpose PL. In what year was it created?",
+    "options": [
+      "1948",
+      "1958",
+      "1968",
+      "1978"
+    ],
+    "answer": "1958"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In Logic programming, how is execution achieved?",
+    "options": [
+      "Iteration",
+      "Piping",
+      "Rule resolution",
+      "Functions"
+    ],
+    "answer": "Rule resolution"
+  },
+  {
+    "type": "true-false",
+    "question": "Logic programming is considered highly efficient for general-purpose applications.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which of the following is a 'Markup/programming hybrid'?",
+    "options": [
+      "C++",
+      "LISP",
+      "XSLT",
+      "Prolog"
+    ],
+    "answer": "XSLT"
+  },
+  {
+    "type": "true-false",
+    "question": "The 'von Neumann bottleneck' refers to the limitation of execution performance due to the piping between CPU and memory.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which implementation method involves translating high-level programs into machine language?",
+    "options": [
+      "Pure Interpretation",
+      "Compilation",
+      "Hybrid Implementation",
+      "Just-In-Time"
+    ],
+    "answer": "Compilation"
+  },
+  {
+    "type": "true-false",
+    "question": "JavaScript is an example of a language that uses Pure Interpretation in many Web contexts.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which language provides powerful operators allowing compact code but suffers from poor readability?",
+    "options": [
+      "C++",
+      "Java",
+      "APL",
+      "Pascal"
+    ],
+    "answer": "APL"
+  },
+  {
+    "type": "true-false",
+    "question": "C++ pointers are considered a strength in Writability but a weakness in Reliability.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the primary feature of Imperative languages?",
+    "options": [
+      "Rule-based",
+      "Variables and assignment",
+      "Mathematical functions",
+      "Layout specification"
+    ],
+    "answer": "Variables and assignment"
+  },
+  {
+    "type": "true-false",
+    "question": "Functional languages use recursion for iteration.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The process of collecting system programs and linking them to the user program is called:",
+    "options": [
+      "Lexical analysis",
+      "Linking and loading",
+      "Interpretation",
+      "Abstraction"
+    ],
+    "answer": "Linking and loading"
+  },
+  {
+    "type": "true-false",
+    "question": "Semantic analysis generates machine code directly from the parse tree.",
+    "answer": "false"
+  }
 
   ]
 }
