@@ -1,0 +1,185 @@
+{
+  "id": "CPCS-301",
+  "category": "Programming Languages",
+  "title": "Chapter 1",
+  "timeLimit": 3600,
+  "questions": [
+  {
+    "type": "multiple-choice",
+    "question": "Most modern programming languages are designed around which prevalent computer architecture?",
+    "options": [
+      "Harvard Architecture",
+      "Von Neumann Architecture",
+      "RISC Architecture",
+      "Quantum Architecture"
+    ],
+    "answer": "Von Neumann Architecture"
+  },
+  {
+    "type": "true-false",
+    "question": "In the von Neumann architecture, the CPU and memory are combined into a single unit to increase speed.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In imperative languages, what do variables model in the underlying computer hardware?",
+    "options": [
+      "The CPU registers",
+      "Memory cells",
+      "The data pipe",
+      "The program counter"
+    ],
+    "answer": "Memory cells"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What does an assignment statement model in the von Neumann architecture?",
+    "options": [
+      "The fetch-execute cycle",
+      "Piping/moving data from memory to CPU",
+      "Incrementing the counter",
+      "Data abstraction"
+    ],
+    "answer": "Piping/moving data from memory to CPU"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which of the following is the correct order of the Fetch-Execute Cycle?",
+    "options": [
+      "Fetch → Decode → Execute → Increment",
+      "Initialize Counter → Fetch → Increment → Decode → Execute",
+      "Decode → Fetch → Execute → Initialize Counter",
+      "Execute → Decode → Fetch → Increment"
+    ],
+    "answer": "Initialize Counter → Fetch → Increment → Decode → Execute"
+  },
+  {
+    "type": "true-false",
+    "question": "In the 1950s and early 1960s, the primary concern in language design was machine efficiency.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "During the late 1960s, the focus shifted toward 'people efficiency,' leading to the rise of:",
+    "options": [
+      "Object-oriented programming",
+      "Structured programming and top-down design",
+      "Rule-based logic programming",
+      "Markup languages"
+    ],
+    "answer": "Structured programming and top-down design"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which language was the first to provide even limited support for data abstraction?",
+    "options": [
+      "C++",
+      "SIMULA 67",
+      "Java",
+      "Pascal"
+    ],
+    "answer": "SIMULA 67"
+  },
+  {
+    "type": "true-false",
+    "question": "Object-oriented programming is characterized by data abstraction, inheritance, and polymorphism.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which of the following is NOT one of the four main categories/bins of programming languages mentioned?",
+    "options": [
+      "Imperative",
+      "Functional",
+      "Assembly",
+      "Logic"
+    ],
+    "answer": "Assembly"
+  },
+  {
+    "type": "true-false",
+    "question": "According to the text, object-oriented languages like Java and C++ are considered a completely separate category from imperative languages.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which category of language makes computations primarily by applying functions to parameters?",
+    "options": [
+      "Logic",
+      "Functional",
+      "Imperative",
+      "Markup"
+    ],
+    "answer": "Functional"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Prolog is an example of which language category?",
+    "options": [
+      "Functional",
+      "Imperative",
+      "Logic",
+      "Hybrid"
+    ],
+    "answer": "Logic"
+  },
+  {
+    "type": "true-false",
+    "question": "Markup languages like HTML are considered programming languages per se.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which language category includes scripting languages and visual languages like Visual BASIC .NET?",
+    "options": [
+      "Functional",
+      "Logic",
+      "Imperative",
+      "Hybrid"
+    ],
+    "answer": "Imperative"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In the late 1970s, there was a shift in programming methodologies from:",
+    "options": [
+      "Data-oriented to process-oriented",
+      "Process-oriented to data-oriented",
+      "Machine-oriented to hardware-oriented",
+      "Functional to Logic"
+    ],
+    "answer": "Process-oriented to data-oriented"
+  },
+  {
+    "type": "true-false",
+    "question": "Iteration is considered efficient on von Neumann architecture computers.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which of the following is an example of a Functional language?",
+    "options": [
+      "Scheme",
+      "Perl",
+      "Prolog",
+      "XML"
+    ],
+    "answer": "Scheme"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the main reason object-oriented languages are often grouped with imperative languages?",
+    "options": [
+      "They use the same compilers",
+      "Their basic structures (expressions, assignments) are nearly identical",
+      "They both use linked lists",
+      "They are both rule-based"
+    ],
+    "answer": "Their basic structures (expressions, assignments) are nearly identical"
+  },
+  {
+    "type": "true-false",
+    "question": "Logic languages are rule-based, and the rules are typically specified in a specific, strict order.",
+    "answer": "false"
+  }
+]}
