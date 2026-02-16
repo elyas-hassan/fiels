@@ -54,17 +54,6 @@
     "answer": "Parse tree"
   },
   {
-    "type": "multiple-choice",
-    "question": "Who developed Context-Free Grammars in the mid-1950s?",
-    "options": [
-      "John Backus",
-      "Noam Chomsky",
-      "Alan Turing",
-      "Ada Lovelace"
-    ],
-    "answer": "Noam Chomsky"
-  },
-  {
     "type": "true-false",
     "question": "Backus-Naur Form (BNF) is a metalanguage used to describe another language.",
     "answer": "true"
