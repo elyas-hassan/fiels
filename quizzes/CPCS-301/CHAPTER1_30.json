@@ -1,0 +1,235 @@
+{
+  "id": "CPCS-301",
+  "category": "Programming Languages",
+  "title": "Chapter 1",
+  "timeLimit": 3600,
+  "questions": [
+
+  {
+    "type": "multiple-choice",
+    "question": "Which programming domain primarily manipulates symbols rather than numbers and often uses linked lists?",
+    "options": [
+      "Scientific Applications",
+      "Business Applications",
+      "Artificial Intelligence",
+      "Systems Programming"
+    ],
+    "answer": "Artificial Intelligence"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which language is most associated with Systems Programming due to its need for efficiency?",
+    "options": [
+      "COBOL",
+      "C",
+      "LISP",
+      "XHTML"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "true-false",
+    "question": "Scientific applications, appearing in the late 1940s, primarily use decimal numbers and precise decimal arithmetic.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which programming language was specifically designed for Business Applications and report generation?",
+    "options": [
+      "Fortran",
+      "Prolog",
+      "COBOL",
+      "Python"
+    ],
+    "answer": "COBOL"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Web software often uses an eclectic collection of languages. Which of these is an example of a scripting language used in web development?",
+    "options": [
+      "XHTML",
+      "PHP",
+      "Java",
+      "C++"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The ease with which programs can be read and understood is known as:",
+    "options": [
+      "Writability",
+      "Readability",
+      "Reliability",
+      "Orthogonality"
+    ],
+    "answer": "Readability"
+  },
+  {
+    "type": "true-false",
+    "question": "A language with a large number of basic constructs is easier to learn than one with a smaller number.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Having more than one way to accomplish a particular operation (e.g., count++, count += 1) is known as:",
+    "options": [
+      "Operator overloading",
+      "Orthogonality",
+      "Feature multiplicity",
+      "Abstraction"
+    ],
+    "answer": "Feature multiplicity"
+  },
+  {
+    "type": "true-false",
+    "question": "Orthogonality means that a small set of primitive constructs can be combined in a small number of ways, and every combination is legal.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In the context of readability, what happens when a language lacks orthogonality?",
+    "options": [
+      "The language becomes faster",
+      "There are many exceptions to the rules",
+      "The code becomes self-descriptive",
+      "The cost of training decreases"
+    ],
+    "answer": "There are many exceptions to the rules"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which language is mentioned as an example where keywords like 'Do' and 'End' can also be used as variable names, potentially hurting readability?",
+    "options": [
+      "Java",
+      "Fortran 95",
+      "C#",
+      "Ada"
+    ],
+    "answer": "Fortran 95"
+  },
+  {
+    "type": "true-false",
+    "question": "Writability is a measure of how easily a language can be used to create programs for a chosen problem domain.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Comparing the writability of Visual BASIC and C for creating a GUI is an example of why comparison must consider the:",
+    "options": [
+      "Compilation speed",
+      "Targeted application domain",
+      "Cost of the compiler",
+      "Number of users"
+    ],
+    "answer": "Targeted application domain"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The ability to define and use complex structures or operations while ignoring details is called:",
+    "options": [
+      "Expressivity",
+      "Abstraction",
+      "Type checking",
+      "Generality"
+    ],
+    "answer": "Abstraction"
+  },
+  {
+    "type": "true-false",
+    "question": "Expressivity refers to providing convenient ways of specifying operations, such as the 'for' statement or the 'count++' notation.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "A program is considered reliable if it performs to its __________ under all conditions.",
+    "options": [
+      "Speed",
+      "Specifications",
+      "Training manual",
+      "Simplicity"
+    ],
+    "answer": "Specifications"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Why is compile-time type checking preferred over run-time type checking?",
+    "options": [
+      "It is more expensive",
+      "It makes the code longer",
+      "It is less expensive and catches errors earlier",
+      "It allows for more aliasing"
+    ],
+    "answer": "It is less expensive and catches errors earlier"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the term for having two or more distinct referencing methods for the same memory location?",
+    "options": [
+      "Exception handling",
+      "Orthogonality",
+      "Aliasing",
+      "Multiplicity"
+    ],
+    "answer": "Aliasing"
+  },
+  {
+    "type": "true-false",
+    "question": "Languages like C include extensive capabilities for exception handling.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The total cost of a programming language is a function of several factors. Which factor is primarily influenced by readability?",
+    "options": [
+      "Training programmers",
+      "Compiling programs",
+      "Maintaining programs",
+      "Executing programs"
+    ],
+    "answer": "Maintaining programs"
+  },
+  {
+    "type": "true-false",
+    "question": "Run-time type checks can prohibit fast code execution.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which evaluation criterion refers to the ease with which programs can be moved from one implementation to another?",
+    "options": [
+      "Generality",
+      "Portability",
+      "Well-definedness",
+      "Reliability"
+    ],
+    "answer": "Portability"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which criterion describes the completeness and precision of a language's official definition?",
+    "options": [
+      "Generality",
+      "Orthogonality",
+      "Well-definedness",
+      "Readability"
+    ],
+    "answer": "Well-definedness"
+  },
+  {
+    "type": "true-false",
+    "question": "Training cost is a function of a language's simplicity and orthogonality.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the result of using a numeric type for a flag because there is no Boolean type?",
+    "options": [
+      "Improved writability",
+      "Reduced readability",
+      "Better orthogonality",
+      "Increased portability"
+    ],
+    "answer": "Reduced readability"
+  }
+]}
