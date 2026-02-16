@@ -35,7 +35,7 @@
   },
   {
     "type": "multiple-choice",
-    "question": "According to the text, a program is the coding of an algorithm that follows which flow?",
+    "question": "A program is the coding of an algorithm that follows which flow?",
     "options": [
       "Output → Input → Calculations",
       "Calculations → Input → Output",
@@ -89,7 +89,7 @@
   },
   {
     "type": "multiple-choice",
-    "question": "How many main reasons for studying the concepts of programming languages are mentioned in the text?",
+    "question": "How many main reasons for studying the concepts of programming languages are mentioned?",
     "options": [
       "3",
       "4",
@@ -116,7 +116,7 @@
   },
   {
     "type": "multiple-choice",
-    "question": "According to the example in the text, a C programmer might struggle to solve problems requiring which feature unless they learn Perl?",
+    "question": "A C programmer might struggle to solve problems requiring which feature unless they learn Perl?",
     "options": [
       "Pointers",
       "Associative arrays",
@@ -159,7 +159,7 @@
   },
   {
     "type": "multiple-choice",
-    "question": "According to the text, why is it beneficial to know how a language is implemented?",
+    "question": "Why is it beneficial to know how a language is implemented?",
     "options": [
       "To build hardware",
       "To understand why it was designed in a certain way",
@@ -175,7 +175,7 @@
   },
   {
     "type": "multiple-choice",
-    "question": "Which example is used in the text to illustrate an implementation detail that helps find bugs?",
+    "question": "Which example is used in the slides to illustrate an implementation detail that helps find bugs?",
     "options": [
       "Variable naming",
       "Pass-by-value and pass-by-reference",
@@ -314,7 +314,7 @@
   },
   {
     "type": "true-false",
-    "question": "According to the text, it is easy to determine in retrospect why a particular language became popular.",
+    "question": "It is easy to determine in retrospect why a particular language became popular.",
     "answer": "true"
   },
   {
@@ -373,7 +373,7 @@
   },
   {
     "type": "true-false",
-    "question": "The text states that modern languages are so large that it is uncommon for a programmer to know all their features.",
+    "question": "The states that modern languages are so large that it is uncommon for a programmer to know all their features.",
     "answer": "true"
   },
   {
@@ -410,7 +410,7 @@
   },
   {
     "type": "multiple-choice",
-    "question": "Which of the following is NOT one of the 5 main reasons listed in the summarized text?",
+    "question": "Which of the following is NOT one of the 5 main reasons for Studying Concepts of Programming Languages",
     "options": [
       "Increased ability to learn new languages",
       "Increased ability to express ideas",
