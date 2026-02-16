@@ -120,7 +120,7 @@
   },
   {
     "type": "multiple-choice",
-    "question": "Which metacharacter is used to specify a range of characters, such as [A-Z]?",
+    "question": "Which metacharacter is used to specify a range of characters, such as A-Z?",
     "options": [
       "Parentheses ()",
       "Braces {}",
