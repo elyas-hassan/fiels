@@ -1,0 +1,148 @@
+{
+  "id": "CPCS-301",
+  "category": "Programming Languages",
+  "title": "Chapter 1",
+  "timeLimit": 3600,
+  "questions": [
+  {
+    "type": "multiple-choice",
+    "question": "What is a special text string used for describing a search pattern, often thought of as a 'wildcard'?",
+    "options": [
+      "BNF Rule",
+      "Regular Expression (Regex)",
+      "Attribute Grammar",
+      "Parse Tree"
+    ],
+    "answer": "Regular Expression (Regex)"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In regular expressions, which metacharacter matches any single character except a linefeed?",
+    "options": [
+      "*",
+      "+",
+      ".",
+      "?"
+    ],
+    "answer": "."
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which regex pattern would correctly match both 'color' and 'colour'?",
+    "options": [
+      "colo+r",
+      "colo*r",
+      "colou?r",
+      "colou.r"
+    ],
+    "answer": "colou?r"
+  },
+  {
+    "type": "true-false",
+    "question": "The regex metacharacter '+' matches zero or more copies of the previous character.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which regex metacharacter is used to match the start of a line?",
+    "options": [
+      "$",
+      "^",
+      "|",
+      "\\"
+    ],
+    "answer": "^"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What does the escape sequence '\\d' represent in a regular expression?",
+    "options": [
+      "A single whitespace character",
+      "A single digit character",
+      "A single newline character",
+      "A single non-digit character"
+    ],
+    "answer": "A single digit character"
+  },
+  {
+    "type": "true-false",
+    "question": "Axiomatic semantics is based on formal logic and was originally developed for formal program verification.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In axiomatic semantics, what is the term for the logical expressions used to state constraints on variables?",
+    "options": [
+      "Lexemes",
+      "Assertions",
+      "Predicates",
+      "Production rules"
+    ],
+    "answer": "Assertions"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The least restrictive precondition that will guarantee a specific postcondition is called the:",
+    "options": [
+      "Strongest precondition",
+      "Intrinsic precondition",
+      "Weakest precondition",
+      "Synthesized precondition"
+    ],
+    "answer": "Weakest precondition"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In the axiomatic form {P} statement {Q}, what does 'Q' represent?",
+    "options": [
+      "Precondition",
+      "Postcondition",
+      "Program counter",
+      "The statement itself"
+    ],
+    "answer": "Postcondition"
+  },
+  {
+    "type": "true-false",
+    "question": "To prove a program correct using axiomatic semantics, one should work backward from the postcondition of the entire program to the first statement.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "For the assignment 'a = b + 1' with postcondition {a > 1}, what is the weakest precondition?",
+    "options": [
+      "{b > 1}",
+      "{b > 0}",
+      "{b > 10}",
+      "{b = 1}"
+    ],
+    "answer": "{b > 0}"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which metacharacter is used to specify a range of characters, such as [A-Z]?",
+    "options": [
+      "Parentheses ()",
+      "Braces {}",
+      "Square brackets []",
+      "Vertical bar |"
+    ],
+    "answer": "Square brackets []"
+  },
+  {
+    "type": "true-false",
+    "question": "In EBNF, the vertical bar '|' inside parentheses is used to indicate alternative parts of a right-hand side.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "An attribute is 'inherited' if it is defined in terms of the attributes of:",
+    "options": [
+      "The elements of its own right-hand side",
+      "The symbol's parent, its siblings, or itself",
+      "Only the leaves of the parse tree",
+      "Only the start symbol"
+    ],
+    "answer": "The symbol's parent, its siblings, or itself"
+  }
+]}
