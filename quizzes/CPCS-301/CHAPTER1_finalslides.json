@@ -1,0 +1,148 @@
+{
+  "id": "CPCS-301",
+  "category": "Programming Languages",
+  "title": "Chapter 1",
+  "timeLimit": 3600,
+  "questions": [
+  {
+    "type": "multiple-choice",
+    "question": "Which language design trade-off is illustrated by Java's requirement for array index checking?",
+    "options": [
+      "Readability vs. Writability",
+      "Reliability vs. Cost of execution",
+      "Writability vs. Flexibility",
+      "Generality vs. Portability"
+    ],
+    "answer": "Reliability vs. Cost of execution"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The APL language allows complex computations to be written in a very compact form, but this results in a conflict between:",
+    "options": [
+      "Reliability and Cost",
+      "Readability and Writability",
+      "Flexibility and Safety",
+      "Portability and Generality"
+    ],
+    "answer": "Readability and Writability"
+  },
+  {
+    "type": "true-false",
+    "question": "C++ pointers are an example of a trade-off where high flexibility and power can lead to reduced reliability.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which implementation method is characterized by 'slow translation but fast execution'?",
+    "options": [
+      "Pure Interpretation",
+      "Hybrid Implementation",
+      "Compilation",
+      "Just-in-Time Translation"
+    ],
+    "answer": "Compilation"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "During compilation, which phase is responsible for converting characters into lexical units (tokens)?",
+    "options": [
+      "Syntax analysis",
+      "Semantic analysis",
+      "Lexical analysis",
+      "Code generation"
+    ],
+    "answer": "Lexical analysis"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the output of the Syntax Analysis phase in the compilation process?",
+    "options": [
+      "Intermediate code",
+      "Parse trees",
+      "Machine code",
+      "Lexical units"
+    ],
+    "answer": "Parse trees"
+  },
+  {
+    "type": "true-false",
+    "question": "Semantic analysis is the phase where intermediate code is generated.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The combination of user code and system code together is known as the:",
+    "options": [
+      "Source program",
+      "Load module",
+      "Parse tree",
+      "Intermediate representation"
+    ],
+    "answer": "Load module"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which implementation method is typically 10 to 100 times slower than compiled programs?",
+    "options": [
+      "Hybrid systems",
+      "Pure Interpretation",
+      "Machine code execution",
+      "Assembly"
+    ],
+    "answer": "Pure Interpretation"
+  },
+  {
+    "type": "true-false",
+    "question": "Pure interpretation has seen a significant comeback with Web scripting languages like JavaScript.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Hybrid implementation systems, like Java, translate high-level code into an intermediate form called:",
+    "options": [
+      "Machine code",
+      "Byte code",
+      "Assembly code",
+      "Parse trees"
+    ],
+    "answer": "Byte code"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the name of the system that interprets Java's intermediate byte code?",
+    "options": [
+      "Microsoft Visual Studio",
+      "The Compiler",
+      "Java Virtual Machine (JVM)",
+      "Borland JBuilder"
+    ],
+    "answer": "Java Virtual Machine (JVM)"
+  },
+  {
+    "type": "true-false",
+    "question": "Perl is considered a hybrid system because it partially compiles programs to detect errors before interpretation.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which of the following is a large, complex visual environment used for C#, VB.NET, and J#?",
+    "options": [
+      "UNIX",
+      "Borland JBuilder",
+      "Microsoft Visual Studio .NET",
+      "GNOME"
+    ],
+    "answer": "Microsoft Visual Studio .NET"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "According to the summary, what have been the two major influences on programming language design?",
+    "options": [
+      "Cost and reliability",
+      "Machine architecture and software development methodologies",
+      "User preference and web standards",
+      "Compiler speed and memory size"
+    ],
+    "answer": "Machine architecture and software development methodologies"
+  }
+]}
