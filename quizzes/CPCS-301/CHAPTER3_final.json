@@ -136,7 +136,7 @@
   },
   {
     "type": "multiple-choice",
-    "question": "An attribute is 'inherited' if it is defined in terms of the attributes of:",
+    "question": "An attribute is 'inherited' if it is defined in terms of the attributes of:(not said directly)",
     "options": [
       "The elements of its own right-hand side",
       "The symbol's parent, its siblings, or itself",
