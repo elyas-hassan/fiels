@@ -51,7 +51,7 @@
   },
   {
     "type": "multiple-choice",
-    "question": "Which term refers to the structure or form of a programming language?",
+    "question": "Which term refers to the structure or form of a programming language?(it's not directly said in the slides)",
     "options": [
       "Semantics",
       "Syntax",
@@ -62,7 +62,7 @@
   },
   {
     "type": "multiple-choice",
-    "question": "Which term refers to the meaning of the instructions in a programming language?",
+    "question": "Which term refers to the meaning of the instructions in a programming language?(it's not directly said in the slides)",
     "options": [
       "Syntax",
       "Compilation",
