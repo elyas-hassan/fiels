@@ -133,10 +133,5 @@
       "Storage allocation"
     ],
     "answer": "Lexical analysis"
-  },
-  {
-    "type": "true-false",
-    "question": "In the example provided, the symbolic representation 'acdeacbdgf' is a sentence in C because it represents a syntactically correct program.",
-    "answer": "true"
   }
 ]}
