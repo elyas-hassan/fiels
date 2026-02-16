@@ -1,0 +1,142 @@
+{
+  "id": "CPCS-301",
+  "category": "Programming Languages",
+  "title": "Chapter 1",
+  "timeLimit": 3600,
+  "questions": [
+  {
+    "type": "multiple-choice",
+    "question": "In the Imperative view, programming is most similar to:",
+    "options": [
+      "Solving mathematical equations",
+      "Issuing procedural commands to the computer",
+      "Defining logical rules and facts",
+      "Designing hardware circuits"
+    ],
+    "answer": "Issuing procedural commands to the computer"
+  },
+  {
+    "type": "true-false",
+    "question": "The 'von Neumann bottleneck' is a limitation associated with the execution performance of imperative languages.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which component of an imperative language is the direct analogue of the 'Program Counter' in computer architecture?",
+    "options": [
+      "Variables",
+      "Assignment statements",
+      "Explicit control of execution flow",
+      "Expressions"
+    ],
+    "answer": "Explicit control of execution flow"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In the layers of abstraction, which phase converts a High-Level Language program into an Assembly Language program?",
+    "options": [
+      "Assembler",
+      "Machine Interpretation",
+      "Compiler",
+      "ALU Control"
+    ],
+    "answer": "Compiler"
+  },
+  {
+    "type": "true-false",
+    "question": "Functional programming is based on the concept of solving mathematical functions like z = f(y, g(h(x))).",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In a pure functional language like LISP, how is iteration typically achieved?",
+    "options": [
+      "Through 'while' loops",
+      "Through 'for' loops",
+      "Through recursion",
+      "Through assignment statements"
+    ],
+    "answer": "Through recursion"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which of the following is a characteristic of LISP?",
+    "options": [
+      "Uses storage-based variables",
+      "Explicit use of 'go to' statements",
+      "Dynamically allocated linked lists",
+      "First-oldest general-purpose language"
+    ],
+    "answer": "Dynamically allocated linked lists"
+  },
+  {
+    "type": "true-false",
+    "question": "Functional languages have a strong concept of variables as memory storage and rely heavily on assignment statements.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Logic programming is described as being like:",
+    "options": [
+      "Mathematical functions",
+      "Logic induction",
+      "Piping data to a CPU",
+      "Building a stack"
+    ],
+    "answer": "Logic induction"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which language category is considered 'non-procedural' because you only supply facts and inference rules?",
+    "options": [
+      "Imperative",
+      "Functional",
+      "Logic",
+      "Scripting"
+    ],
+    "answer": "Logic"
+  },
+  {
+    "type": "true-false",
+    "question": "Logic programming systems are known for being highly efficient and suitable for all application areas.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In the Logic Programming example provided, 'grandparent(X,Z) :- parent(X,Y), parent(Y,Z)' is an example of a:",
+    "options": [
+      "Fact",
+      "Goal",
+      "Rule",
+      "Variable"
+    ],
+    "answer": "Rule"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which of these languages is the 2nd-oldest general-purpose programming language still in use today?",
+    "options": [
+      "C",
+      "LISP",
+      "Prolog",
+      "Fortran"
+    ],
+    "answer": "LISP"
+  },
+  {
+    "type": "true-false",
+    "question": "In functional languages, branches are handled via conditional expressions rather than explicit control flow statements.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "According to the Logic view, what is the process used to execute a program and infer truths?",
+    "options": [
+      "Compilation",
+      "Rule resolution",
+      "Data piping",
+      "Iteration"
+    ],
+    "answer": "Rule resolution"
+  }
+]}
