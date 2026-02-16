@@ -136,7 +136,7 @@
   },
   {
     "type": "multiple-choice",
-    "question": "According to the summary, what have been the two major influences on programming language design?",
+    "question": "what have been the two major influences on programming language design?",
     "options": [
       "Cost and reliability",
       "Machine architecture and software development methodologies",
