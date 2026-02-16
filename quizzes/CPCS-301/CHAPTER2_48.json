@@ -1,0 +1,234 @@
+{
+  "id": "CPCS-301",
+  "category": "Programming Languages",
+  "title": "Chapter 1",
+  "timeLimit": 3600,
+  "questions": [
+  {
+    "type": "multiple-choice",
+    "question": "Which device reads input strings of a language and decides whether they belong to that language?",
+    "options": [
+      "Generators",
+      "Recognizers",
+      "Optimizers",
+      "Translators"
+    ],
+    "answer": "Recognizers"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The syntax analysis part of a compiler is an example of a:",
+    "options": [
+      "Generator",
+      "Recognizer",
+      "Lexeme",
+      "Top-down optimizer"
+    ],
+    "answer": "Recognizer"
+  },
+  {
+    "type": "true-false",
+    "question": "A generator is a device that can be used to determine if the syntax of a sentence is correct by comparing it to the generator's structure.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The process of trying to match an input sentence with the structure of a language to check its validity is called:",
+    "options": [
+      "Coding",
+      "Optimization",
+      "Parsing",
+      "Translation"
+    ],
+    "answer": "Parsing"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the hierarchical structure called that represents the result of a successful parse?",
+    "options": [
+      "Decision tree",
+      "Parse tree",
+      "Binary search tree",
+      "Lexical list"
+    ],
+    "answer": "Parse tree"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Who developed Context-Free Grammars in the mid-1950s?",
+    "options": [
+      "John Backus",
+      "Noam Chomsky",
+      "Alan Turing",
+      "Ada Lovelace"
+    ],
+    "answer": "Noam Chomsky"
+  },
+  {
+    "type": "true-false",
+    "question": "Backus-Naur Form (BNF) is a metalanguage used to describe another language.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In BNF, the abstractions used to represent classes of syntactic structures are called:",
+    "options": [
+      "Terminals",
+      "Non-terminal symbols",
+      "Lexemes",
+      "Tokens"
+    ],
+    "answer": "Non-terminal symbols"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In a Context-Free Grammar G = (T, N, P, S), what does 'P' represent?",
+    "options": [
+      "Program",
+      "Parsing",
+      "Production rules",
+      "Parameters"
+    ],
+    "answer": "Production rules"
+  },
+  {
+    "type": "true-false",
+    "question": "Terminals are the lexemes and tokens that appear literally in the program text.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In a BNF rule, the part to the left of the arrow (->) is called the:",
+    "options": [
+      "Right-hand side (RHS)",
+      "Start symbol",
+      "Left-hand side (LHS)",
+      "Production terminal"
+    ],
+    "answer": "Left-hand side (LHS)"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "How are syntactic lists typically described in BNF?",
+    "options": [
+      "Using iteration keywords",
+      "Using recursion",
+      "Using terminal arrays",
+      "Using pointer logic"
+    ],
+    "answer": "Using recursion"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "A repeated application of rules, starting with the start symbol and ending with a sentence of terminals, is a:",
+    "options": [
+      "Lexical map",
+      "Derivation",
+      "Compilation",
+      "Semantic check"
+    ],
+    "answer": "Derivation"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "A derivation where the leftmost non-terminal in each sentential form is expanded first is called a:",
+    "options": [
+      "Rightmost derivation",
+      "Depth-first derivation",
+      "Leftmost derivation",
+      "Breadth derivation"
+    ],
+    "answer": "Leftmost derivation"
+  },
+  {
+    "type": "true-false",
+    "question": "A grammar is ambiguous if it can generate a sentential form that has two or more distinct parse trees.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In Extended BNF (EBNF), what do square brackets [ ] represent?",
+    "options": [
+      "Repetition",
+      "Optional parts",
+      "Alternative parts",
+      "Terminal symbols"
+    ],
+    "answer": "Optional parts"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In EBNF, braces { } are used to represent:",
+    "options": [
+      "Mandatory code",
+      "Comments",
+      "Repetitions (0 or more)",
+      "Nested functions"
+    ],
+    "answer": "Repetitions (0 or more)"
+  },
+  {
+    "type": "true-false",
+    "question": "Attribute Grammars (AGs) are additions to CFGs that carry semantic information along the parse tree.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Attributes that are defined by functions of the form S(X0) = f(A(X1), ... , A(Xn)) are called:",
+    "options": [
+      "Inherited attributes",
+      "Synthesized attributes",
+      "Intrinsic attributes",
+      "Terminal attributes"
+    ],
+    "answer": "Synthesized attributes"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Inherited attributes pass information in which direction in a parse tree?",
+    "options": [
+      "Bottom-up",
+      "Top-down",
+      "Left-to-right",
+      "None of the above"
+    ],
+    "answer": "Top-down"
+  },
+  {
+    "type": "true-false",
+    "question": "Static semantics specification is one of the primary values of Attribute Grammars.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which of the following describes 'intrinsic attributes'?",
+    "options": [
+      "Attributes passed from parents",
+      "Attributes passed from siblings",
+      "Attributes found initially on the leaves",
+      "Attributes created by the start symbol"
+    ],
+    "answer": "Attributes found initially on the leaves"
+  },
+  {
+    "type": "true-false",
+    "question": "In Attribute Grammars, predicates are used to check for attribute consistency.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "If all attributes in an Attribute Grammar were synthesized, the tree would be decorated in which order?",
+    "options": [
+      "Top-down",
+      "Bottom-up",
+      "Random",
+      "Alphabetical"
+    ],
+    "answer": "Bottom-up"
+  },
+  {
+    "type": "true-false",
+    "question": "BNF is equivalent to context-free grammars.",
+    "answer": "true"
+  }
+]}
