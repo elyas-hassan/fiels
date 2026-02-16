@@ -1,0 +1,142 @@
+{
+  "id": "CPCS-301",
+  "category": "Programming Languages",
+  "title": "Chapter 1",
+  "timeLimit": 3600,
+  "questions": [
+  {
+    "type": "multiple-choice",
+    "question": "Which term refers to the form or structure of expressions, statements, and program units in a language?",
+    "options": [
+      "Semantics",
+      "Syntax",
+      "Lexemes",
+      "Parsing"
+    ],
+    "answer": "Syntax"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which term refers to the meaning of expressions, statements, and program units?",
+    "options": [
+      "Syntax",
+      "Tokens",
+      "Semantics",
+      "Alphabet"
+    ],
+    "answer": "Semantics"
+  },
+  {
+    "type": "true-false",
+    "question": "A language’s definition is provided by both its syntax and its semantics.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which of the following is NOT mentioned as a primary user of a language definition?",
+    "options": [
+      "Language designers",
+      "Implementers",
+      "Programmers",
+      "End-users of software"
+    ],
+    "answer": "End-users of software"
+  },
+  {
+    "type": "true-false",
+    "question": "Detecting semantic errors is generally easier than detecting syntax errors.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In the context of formal language terminology, a 'sentence' is defined as:",
+    "options": [
+      "A group of words ending in a period",
+      "A string of characters over some alphabet",
+      "A category of lexemes",
+      "A rule for writing statements"
+    ],
+    "answer": "A string of characters over some alphabet"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the lowest level syntactic unit of a language (e.g., *, sum, begin)?",
+    "options": [
+      "Token",
+      "Sentence",
+      "Lexeme",
+      "Alphabet"
+    ],
+    "answer": "Lexeme"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "A category of lexemes (such as 'identifier' or 'integer literal') is called a:",
+    "options": [
+      "Token",
+      "Sentence",
+      "Semantic Unit",
+      "Grammar"
+    ],
+    "answer": "Token"
+  },
+  {
+    "type": "true-false",
+    "question": "Every C program that can be compiled properly is considered a 'sentence' of the C language.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "If a compiler says there is a 'syntax error,' it essentially means that:",
+    "options": [
+      "The program is too long",
+      "The program has a logical bug",
+      "The sentence is not in the language",
+      "The alphabet is incorrect"
+    ],
+    "answer": "The sentence is not in the language"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which part of the compiler frontend is responsible for checking whether a sentence belongs to the language?",
+    "options": [
+      "Lexical analysis",
+      "Syntax analysis",
+      "Code generation",
+      "Optimization"
+    ],
+    "answer": "Syntax analysis"
+  },
+  {
+    "type": "true-false",
+    "question": "The compiler backend is primarily responsible for local and global optimization and code generation.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "According to the text, which is harder to define?",
+    "options": [
+      "Syntax",
+      "Semantics",
+      "Lexemes",
+      "Tokens"
+    ],
+    "answer": "Semantics"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The process of translating code into an intermediate representation (IR) occurs during:",
+    "options": [
+      "Syntax analysis",
+      "Lexical analysis",
+      "Register allocation",
+      "Storage allocation"
+    ],
+    "answer": "Lexical analysis"
+  },
+  {
+    "type": "true-false",
+    "question": "In the example provided, the symbolic representation 'acdeacbdgf' is a sentence in C because it represents a syntactically correct program.",
+    "answer": "true"
+  }
+]}
