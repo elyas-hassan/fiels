@@ -39,6 +39,15 @@
       "type": "Assignment",
       "date": "2026-02-22",
       "time": "10:00 AM"
+        },
+    {
+      "courseCode": "CPCS-301",
+      "section": "all",
+      "title": "NOTHING",
+      "type": "Quiz",
+      "date": "2026-02-17",
+      "time": "the class time"
         }
+    
   ]
 }
