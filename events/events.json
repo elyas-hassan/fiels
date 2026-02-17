@@ -1,44 +1,44 @@
 {
   "events": [
     {
-      "courseCode": "CPCS-204",
-      "section": "CS1",
-      "title": "Midterm Exam (Ch 1-4)",
+      "courseCode": "STAT-352",
+      "section": "CS4",
+      "title": "First Group Midterm Exam (Ch 5)",
       "type": "Exam",
-      "date": "2024-03-25",
-      "time": "10:00 AM"
+      "date": "2026-02-24",
+      "time": "2:30 PM"
+        },
+        {
+      "courseCode": "STAT-352",
+      "section": "CS4",
+      "title": "Secound Group Midterm Exam (Ch 5)",
+      "type": "Exam",
+      "date": "2026-02-26",
+      "time": "2:30 PM"
         },
     {
-      "courseCode": "CPIS-210",
-      "section": "CS1",
-      "title": "Architecture Quiz 1",
+      "courseCode": "CPIS-214",
+      "section": "all",
+      "title": "Quiz from 1 - 11 __ 10-15 minutes and may consist of 8-10 questions of the following type",
       "type": "Quiz",
-      "date": "2024-03-22",
-      "time": "09:00 AM"
+      "date": "2026-02-18",
+      "time": "11:00 PM"
         },
     {
-      "courseCode": "CPIS-210",
+      "courseCode": "CPCS-223",
+      "section": "all",
+      "title": "to Empirical Analysis chapter quiz duration will be only 15 minutes",
+      "type": "Quiz",
+      "date": "2026-02-26",
+      "time": "10:00 - 11:30 PM"
+        },
+    {
+      "courseCode": "CPCS-223",
       "section": "CS2",
-      "title": "Pipelining Assignment",
+      "title": "NOTHING",
       "type": "Assignment",
-      "date": "2024-04-01",
-      "time": "11:59 PM"
-        },
-    {
-      "courseCode": "CPCS-204",
-      "section": "CS1",
-      "title": "Algorithm Analysis Quiz",
-      "type": "Quiz",
-      "date": "2024-03-28",
-      "time": "02:00 PM"
-        },
-    {
-      "courseCode": "CPIS-351",
-      "section": "EA",
-      "title": "Analysis & Design Final",
-      "type": "Exam",
-      "date": "2024-04-10",
-      "time": "08:30 AM"
+      "date": "2026-02-22",
+      "time": "10:00 AM"
         }
   ]
 }
