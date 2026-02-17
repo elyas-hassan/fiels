@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "courseCode": "CPCS-204",
+      "section": "CS1",
+      "title": "Midterm Exam (Ch 1-4)",
+      "type": "Exam",
+      "date": "2024-03-25",
+      "time": "10:00 AM"
+        },
+    {
+      "courseCode": "CPIS-210",
+      "section": "CS1",
+      "title": "Architecture Quiz 1",
+      "type": "Quiz",
+      "date": "2024-03-22",
+      "time": "09:00 AM"
+        },
+    {
+      "courseCode": "CPIS-210",
+      "section": "CS2",
+      "title": "Pipelining Assignment",
+      "type": "Assignment",
+      "date": "2024-04-01",
+      "time": "11:59 PM"
+        },
+    {
+      "courseCode": "CPCS-204",
+      "section": "CS1",
+      "title": "Algorithm Analysis Quiz",
+      "type": "Quiz",
+      "date": "2024-03-28",
+      "time": "02:00 PM"
+        },
+    {
+      "courseCode": "CPIS-351",
+      "section": "EA",
+      "title": "Analysis & Design Final",
+      "type": "Exam",
+      "date": "2024-04-10",
+      "time": "08:30 AM"
+        }
+  ]
+}
