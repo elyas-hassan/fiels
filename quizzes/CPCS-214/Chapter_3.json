@@ -1,0 +1,142 @@
+{
+  "id": "5",
+  "category": "CPCS-214",
+  "title": "CPCS-214: Chapter 3",
+  "timeLimit": 3000,
+  "questions": [
+  {
+    "type": "multiple-choice",
+    "question": "Which software layer serves as the interface between user programs and the computer hardware?",
+    "options": [
+      "Application software",
+      "Operating System",
+      "Compiler",
+      "Assembler"
+    ],
+    "answer": "Operating System"
+  },
+  {
+    "type": "true-false",
+    "question": "Hardware executes complex high-level operations directly without any translation.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the primary function of a compiler?",
+    "options": [
+      "To handle basic I/O operations",
+      "To translate symbolic notation into binary",
+      "To translate high-level language programs into hardware-executable instructions",
+      "To protect shared use among multiple applications"
+    ],
+    "answer": "To translate high-level language programs into hardware-executable instructions"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Computers communicate using electrical signals represented by which digits?",
+    "options": [
+      "1 and 2",
+      "0 and 1",
+      "A and B",
+      "High and Low"
+    ],
+    "answer": "0 and 1"
+  },
+  {
+    "type": "true-false",
+    "question": "Instructions in a computer can be thought of as numbers.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which program translates symbolic notation (like 'add A, B') into binary machine language?",
+    "options": [
+      "Operating System",
+      "Linker",
+      "Assembler",
+      "Editor"
+    ],
+    "answer": "Assembler"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is a major disadvantage of assembly language compared to high-level languages?",
+    "options": [
+      "It is too natural to read",
+      "It requires one line of code for every instruction the computer follows",
+      "It is independent of the computer hardware",
+      "It uses algebraic notation"
+    ],
+    "answer": "It requires one line of code for every instruction the computer follows"
+  },
+  {
+    "type": "true-false",
+    "question": "Assembly language forces the programmer to 'think like the computer.'",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which of the following is NOT a benefit of high-level programming languages?",
+    "options": [
+      "Programs become independent of the computer they were developed on",
+      "Improved programmer productivity",
+      "Programmers must write one line for every binary instruction",
+      "Programmers can use English words and algebraic notation"
+    ],
+    "answer": "Programmers must write one line for every binary instruction"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which software layer handles the allocation of storage and memory?",
+    "options": [
+      "Application software",
+      "System software (Operating System)",
+      "High-level language",
+      "Assembler"
+    ],
+    "answer": "System software (Operating System)"
+  },
+  {
+    "type": "true-false",
+    "question": "A binary string like 1000110010100000 is an example of machine language.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "High-level operations must be ______ or ______ into simple computer instructions to be executed.",
+    "options": [
+      "Ignored; Deleted",
+      "Interpreted; Translated",
+      "Simplified; Expanded",
+      "Typed; Encrypted"
+    ],
+    "answer": "Interpreted; Translated"
+  },
+  {
+    "type": "true-false",
+    "question": "Typical modern applications often rely on sophisticated software libraries.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The 'add A, B' notation is an example of which language type?",
+    "options": [
+      "Machine Language",
+      "Assembly Language",
+      "High-Level Language",
+      "Binary Language"
+    ],
+    "answer": "Assembly Language"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What does 'HLL' stand for in the context of programming?",
+    "options": [
+      "Hardware Logic Layer",
+      "High-Level Language",
+      "Hardware Linker Library",
+      "Hidden Logic Language"
+    ],
+    "answer": "High-Level Language"
+  }
+]}
