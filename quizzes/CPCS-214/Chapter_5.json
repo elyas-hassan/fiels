@@ -1,7 +1,7 @@
 {
   "id": "5",
   "category": "CPCS-214",
-  "title": "CPCS-214: Chapter 1",
+  "title": "CPCS-214: Chapter 5",
   "timeLimit": 3000,
   "questions": [
   {
@@ -16,31 +16,9 @@
     "answer": "Transistor"
   },
   {
-    "type": "multiple-choice",
-    "question": "What does the acronym VLSI stand for in computer chip technology?",
-    "options": [
-      "Very Large-Scale Integration",
-      "Variable Level System Interface",
-      "Virtual Logic Semiconductor Industry",
-      "Visual Language Syntax Integration"
-    ],
-    "answer": "Very Large-Scale Integration"
-  },
-  {
     "type": "true-false",
     "question": "VLSI circuits contain only a few hundred transistors.",
     "answer": "false"
-  },
-  {
-    "type": "multiple-choice",
-    "question": "For decades, the computer industry has consistently quadrupled DRAM capacity every how many years?",
-    "options": [
-      "1 year",
-      "2 years",
-      "3 years",
-      "5 years"
-    ],
-    "answer": "3 years"
   },
   {
     "type": "multiple-choice",
@@ -106,17 +84,6 @@
       "Wafer"
     ],
     "answer": "Die"
-  },
-  {
-    "type": "multiple-choice",
-    "question": "An Intel Core i7 wafer (300mm) using 32nm technology contains approximately how many chips?",
-    "options": [
-      "100",
-      "280",
-      "500",
-      "1000"
-    ],
-    "answer": "280"
   },
   {
     "type": "multiple-choice",
