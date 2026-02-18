@@ -114,7 +114,7 @@
   },
   {
     "type": "multiple-choice",
-    "question": "Which supercomputer is currently ranked first with a performance of 1.1 exaflops?",
+    "question": "Which supercomputer is the first ?",
     "options": [
       "Fugaku",
       "LUMI",
