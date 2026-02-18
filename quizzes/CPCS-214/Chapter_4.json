@@ -157,17 +157,6 @@
   },
   {
     "type": "multiple-choice",
-    "question": "Flash memory wears out after approximately how many writes?",
-    "options": [
-      "1,000 to 5,000",
-      "100,000 to 1,000,000",
-      "Infinity",
-      "100 to 500"
-    ],
-    "answer": "100,000 to 1,000,000"
-  },
-  {
-    "type": "multiple-choice",
     "question": "Which network type typically covers distances up to 1 km and connects computers on the same floor?",
     "options": [
       "WAN (Wide Area Network)",
