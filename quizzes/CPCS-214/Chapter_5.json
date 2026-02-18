@@ -1,0 +1,191 @@
+{
+  "id": "5",
+  "category": "CPCS-214",
+  "title": "CPCS-214: Chapter 1",
+  "timeLimit": 3000,
+  "questions": [
+  {
+    "type": "multiple-choice",
+    "question": "What is the basic component of a processor that acts as an on/off switch controlled by electricity?",
+    "options": [
+      "Capacitor",
+      "Transistor",
+      "Resistor",
+      "Inductor"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What does the acronym VLSI stand for in computer chip technology?",
+    "options": [
+      "Very Large-Scale Integration",
+      "Variable Level System Interface",
+      "Virtual Logic Semiconductor Industry",
+      "Visual Language Syntax Integration"
+    ],
+    "answer": "Very Large-Scale Integration"
+  },
+  {
+    "type": "true-false",
+    "question": "VLSI circuits contain only a few hundred transistors.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "For decades, the computer industry has consistently quadrupled DRAM capacity every how many years?",
+    "options": [
+      "1 year",
+      "2 years",
+      "3 years",
+      "5 years"
+    ],
+    "answer": "3 years"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the primary substance used in chip manufacturing, which is commonly found in sand?",
+    "options": [
+      "Copper",
+      "Silicon",
+      "Aluminum",
+      "Silver"
+    ],
+    "answer": "Silicon"
+  },
+  {
+    "type": "true-false",
+    "question": "Silicon is called a semiconductor because it does not conduct electricity well on its own.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The silicon crystal ingot used in manufacturing is typically sliced into thin slices called:",
+    "options": [
+      "Chips",
+      "Dies",
+      "Wafers",
+      "Packages"
+    ],
+    "answer": "Wafers"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the typical thickness of a silicon wafer used in the processing steps?",
+    "options": [
+      "No more than 0.1 inches",
+      "Exactly 1.0 inches",
+      "0.5 inches",
+      "2.0 inches"
+    ],
+    "answer": "No more than 0.1 inches"
+  },
+  {
+    "type": "true-false",
+    "question": "A single microscopic flaw during the patterning steps can cause a specific area of the wafer to fail.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The process of chopping up a patterned wafer into individual components is called:",
+    "options": [
+      "Bonding",
+      "Dicing",
+      "Slicing",
+      "Etching"
+    ],
+    "answer": "Dicing"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In chip manufacturing, an individual component chopped from a wafer is formally called a:",
+    "options": [
+      "Bit",
+      "Die",
+      "Ingot",
+      "Wafer"
+    ],
+    "answer": "Die"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "An Intel Core i7 wafer (300mm) using 32nm technology contains approximately how many chips?",
+    "options": [
+      "100",
+      "280",
+      "500",
+      "1000"
+    ],
+    "answer": "280"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What term refers to the percentage of good dies out of the total number of dies on a wafer?",
+    "options": [
+      "Profit",
+      "Efficiency",
+      "Yield",
+      "Output"
+    ],
+    "answer": "Yield"
+  },
+  {
+    "type": "true-false",
+    "question": "The cost of an Integrated Circuit (IC) rises quickly as the die size increases.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Why does a larger die size increase the cost of an IC?",
+    "options": [
+      "Lower yield and fewer dies fitting on a wafer",
+      "They require more electricity to manufacture",
+      "They are heavier to ship",
+      "They use more expensive chemicals"
+    ],
+    "answer": "Lower yield and fewer dies fitting on a wafer"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In a 32-nanometer (nm) process, the '32 nm' refers to the:",
+    "options": [
+      "Total size of the chip",
+      "Diameter of the wafer",
+      "Smallest feature size on the die",
+      "Thickness of the package"
+    ],
+    "answer": "Smallest feature size on the die"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The process of connecting a good die to the input/output pins of a package is called:",
+    "options": [
+      "Soldering",
+      "Dicing",
+      "Bonding",
+      "Testing"
+    ],
+    "answer": "Bonding"
+  },
+  {
+    "type": "true-false",
+    "question": "Packaged parts are tested a final time because mistakes can occur during the packaging process.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the correct sequence of the chip manufacturing process?",
+    "options": [
+      "Wafer → Ingot → Die → Packaged Chip",
+      "Ingot → Wafer → Die → Packaged Chip",
+      "Die → Wafer → Ingot → Packaged Chip",
+      "Ingot → Die → Wafer → Packaged Chip"
+    ],
+    "answer": "Ingot → Wafer → Die → Packaged Chip"
+  },
+  {
+    "type": "true-false",
+    "question": "Shrinking a die in next-generation processes improves both yield and die count per wafer.",
+    "answer": "true"
+  }
+]}
