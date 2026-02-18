@@ -1,0 +1,148 @@
+{
+  "id": "5",
+  "category": "CPCS-214",
+  "title": "CPCS-214: Chapter 1",
+  "timeLimit": 3000,
+  "questions": [
+  {
+    "type": "multiple-choice",
+    "question": "What are the individual words of a computer's language called?",
+    "options": [
+      "Dialects",
+      "Vocabularies",
+      "Instructions",
+      "Registers"
+    ],
+    "answer": "Instructions"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The vocabulary of a computer language is formally known as its:",
+    "options": [
+      "Instruction set",
+      "Grammar",
+      "Compiler",
+      "Library"
+    ],
+    "answer": "Instruction set"
+  },
+  {
+    "type": "true-false",
+    "question": "Early computers had very complex instruction sets to handle all tasks in a single step.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Instruction sets of different computers are often similar because:",
+    "options": [
+      "They are all made by the same company",
+      "They are all based on similar hardware principles and basic operations",
+      "They use the same binary alphabet",
+      "Hardware designers do not like innovation"
+    ],
+    "answer": "They are all based on similar hardware principles and basic operations"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is a primary goal for an instruction set designer?",
+    "options": [
+      "To make the hardware as large as possible",
+      "To maximize cost and energy use",
+      "To maximize performance while minimizing cost and energy",
+      "To ensure instructions are only readable by machines"
+    ],
+    "answer": "To maximize performance while minimizing cost and energy"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which specific instruction set is used as an elegant example throughout this course?",
+    "options": [
+      "Intel x86",
+      "ARM",
+      "MIPS",
+      "PowerPC"
+    ],
+    "answer": "MIPS"
+  },
+  {
+    "type": "true-false",
+    "question": "MIPS has a large share of the embedded core market.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the 'stored-program concept'?",
+    "options": [
+      "The idea that programs must be stored on physical tapes",
+      "The idea that instructions and data can be stored in memory as numbers",
+      "The concept of using external hard drives for storage",
+      "A method for protecting software from being copied"
+    ],
+    "answer": "The idea that instructions and data can be stored in memory as numbers"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "According to the MIPS sneak preview, 'add', 'sub', and 'addi' are examples of:",
+    "options": [
+      "Memory addresses",
+      "Arithmetic instructions",
+      "Data transfer instructions",
+      "Logical operations"
+    ],
+    "answer": "Arithmetic instructions"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In the MIPS instruction set, 'lw' and 'sw' stand for:",
+    "options": [
+      "Logical word and shift word",
+      "Load word and store word",
+      "Long word and short word",
+      "Level width and stack width"
+    ],
+    "answer": "Load word and store word"
+  },
+  {
+    "type": "true-false",
+    "question": "The MIPS instruction 'beq' stands for 'branch if equal'.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "How many registers are typically in the MIPS operand set as shown in the preview?",
+    "options": [
+      "8",
+      "16",
+      "32",
+      "64"
+    ],
+    "answer": "32"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which of the following is a MIPS logical instruction?",
+    "options": [
+      "add",
+      "slt",
+      "and",
+      "jr"
+    ],
+    "answer": "and"
+  },
+  {
+    "type": "true-false",
+    "question": "MIPS instructions are 32 bits wide.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Learning one instruction set makes it easy to pick up others because they are more like ______ than independent languages.",
+    "options": [
+      "Codes",
+      "Regional dialects",
+      "Scripts",
+      "Mathematical formulas"
+    ],
+    "answer": "Regional dialects"
+  }
+]}
