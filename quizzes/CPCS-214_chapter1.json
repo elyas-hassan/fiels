@@ -1,0 +1,450 @@
+[
+  {
+    "type": "multiple-choice",
+    "question": "Which of the following are the current primary focuses of computer innovation?",
+    "options": [
+      "General-purpose speed and size",
+      "Specialized architectures, energy efficiency, and AI acceleration",
+      "Mechanical reliability and cooling",
+      "Physical storage capacity only"
+    ],
+    "answer": "Specialized architectures, energy efficiency, and AI acceleration"
+  },
+  {
+    "type": "true-false",
+    "question": "Computers have caused a 'third revolution,' joining the agricultural and industrial revolutions.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which field uses computational science for galaxy simulation and exoplanet detection?",
+    "options": [
+      "Biology",
+      "Astronomy",
+      "Climate Science",
+      "Chemistry"
+    ],
+    "answer": "Astronomy"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "AlphaFold, which deals with protein folding, is a revolutionary application in which field?",
+    "options": [
+      "Physics",
+      "Biology",
+      "Astronomy",
+      "Climate Science"
+    ],
+    "answer": "Biology"
+  },
+  {
+    "type": "true-false",
+    "question": "Quantum computing is currently considered a mature, fully realized technology used by most consumers.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which of the following is an example of an emerging 'Brain-computer interface'?",
+    "options": [
+      "Apple Vision Pro",
+      "Neuralink",
+      "ChatGPT",
+      "Meta Quest 3"
+    ],
+    "answer": "Neuralink"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The shift in computing trends is moving from general-purpose computing toward:",
+    "options": [
+      "Mechanical computing",
+      "Specialized computing (AI accelerators, GPUs)",
+      "Mainframe-only computing",
+      "Vacuum tube technology"
+    ],
+    "answer": "Specialized computing (AI accelerators, GPUs)"
+  },
+  {
+    "type": "true-false",
+    "question": "Edge computing refers to processing data at the source instead of exclusively in the cloud.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What are 'Digital twins' in the context of future applications?",
+    "options": [
+      "Two identical computers",
+      "Digital representations of cities, factories, or human bodies",
+      "Backup copies of software",
+      "AI chatbots that mimic users"
+    ],
+    "answer": "Digital representations of cities, factories, or human bodies"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which class of computing applications is currently the dominant platform globally?",
+    "options": [
+      "Supercomputers",
+      "Personal Mobile Devices (PMDs)",
+      "Mainframes",
+      "Servers"
+    ],
+    "answer": "Personal Mobile Devices (PMDs)"
+  },
+  {
+    "type": "true-false",
+    "question": "Personal Mobile Devices (PMDs) are usually powered by x86 processors like traditional desktops.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the primary design priority for Servers and Cloud Infrastructure?",
+    "options": [
+      "Portability and weight",
+      "Availability and scalability for multiple users",
+      "Tactile keyboard feedback",
+      "Battery life"
+    ],
+    "answer": "Availability and scalability for multiple users"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which supercomputer is currently ranked first with a performance of 1.1 exaflops?",
+    "options": [
+      "Fugaku",
+      "LUMI",
+      "Frontier",
+      "Summit"
+    ],
+    "answer": "Frontier"
+  },
+  {
+    "type": "true-false",
+    "question": "Embedded systems are the largest class of computers by volume, consisting of billions of devices.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which of the following is a key constraint for Embedded Systems?",
+    "options": [
+      "High purchase price",
+      "Cost sensitivity and real-time requirements",
+      "Frequent hardware upgrades by users",
+      "Large physical size"
+    ],
+    "answer": "Cost sensitivity and real-time requirements"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Google's TPU and NVIDIA's H100 are examples of hardware for which computing class?",
+    "options": [
+      "Personal Computers",
+      "AI/ML Specialized Systems",
+      "Embedded Systems",
+      "Personal Mobile Devices"
+    ],
+    "answer": "AI/ML Specialized Systems"
+  },
+  {
+    "type": "true-false",
+    "question": "Personal Mobile Devices (PMDs) currently outsell Personal Computers (PCs) by a ratio of approximately 5:1.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What does NPU stand for in the context of modern processors?",
+    "options": [
+      "Network Processing Unit",
+      "Neural Processing Unit",
+      "Node Power Unit",
+      "None of the above"
+    ],
+    "answer": "Neural Processing Unit"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which cloud service model provides complete applications delivered online, such as Gmail or Microsoft 365?",
+    "options": [
+      "IaaS",
+      "PaaS",
+      "SaaS",
+      "WSC"
+    ],
+    "answer": "SaaS"
+  },
+  {
+    "type": "true-false",
+    "question": "Warehouse Scale Computers (WSCs) can consume as much power as a small city (10–100+ MW).",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is a major benefit of Edge Computing compared to Cloud Computing?",
+    "options": [
+      "Higher electrical consumption",
+      "Lower latency for real-time applications",
+      "Centralized data management",
+      "Unlimited storage capacity"
+    ],
+    "answer": "Lower latency for real-time applications"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In the Three-tier architecture of Edge Computing, which tier handles heavy computation and long-term storage?",
+    "options": [
+      "Device tier",
+      "Edge tier",
+      "Cloud tier",
+      "Local tier"
+    ],
+    "answer": "Cloud tier"
+  },
+  {
+    "type": "true-false",
+    "question": "Software as a Service (SaaS) typically requires the user to manually install updates on their local machine.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which company holds the largest market share (~32%) in Cloud Computing?",
+    "options": [
+      "Google Cloud",
+      "Microsoft Azure",
+      "AWS",
+      "Alibaba Cloud"
+    ],
+    "answer": "AWS"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In the modern hybrid computing model, which tier is responsible for user interface and immediate responsiveness?",
+    "options": [
+      "Cloud tier",
+      "Edge tier",
+      "Device tier",
+      "Network tier"
+    ],
+    "answer": "Device tier"
+  },
+  {
+    "type": "true-false",
+    "question": "AI is no longer limited to specialized systems and is becoming standard across all computing classes.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which of the following is an example of an AI/ML specialized system application?",
+    "options": [
+      "Basic text editing",
+      "LLM training (GPT, Claude)",
+      "Standard calculator functions",
+      "Wired file transfers"
+    ],
+    "answer": "LLM training (GPT, Claude)"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the estimated cost range for a modern supercomputer?",
+    "options": [
+      "$1,000 – $5,000",
+      "$100,000 – $500,000",
+      "$100M – $1B+",
+      "Free (Open Source)"
+    ],
+    "answer": "$100M – $1B+"
+  },
+  {
+    "type": "true-false",
+    "question": "Ambient intelligence refers to computers 'disappearing' into the environment to provide helpful services.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which technology allows for exabyte-scale storage in modern hyperscale datacenters?",
+    "options": [
+      "Embedded SD cards",
+      "Personal hard drives",
+      "Warehouse Scale Computing infrastructure",
+      "Mobile device internal storage"
+    ],
+    "answer": "Warehouse Scale Computing infrastructure"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which field uses 'Molecular dynamics' and 'Catalyst design' through computational science?",
+    "options": [
+      "Astronomy",
+      "Biology",
+      "Chemistry",
+      "Physics"
+    ],
+    "answer": "Chemistry"
+  },
+  {
+    "type": "true-false",
+    "question": "The 'AI revolution' is transforming human-technology interaction and decision-making.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the primary input method for Personal Mobile Devices (PMDs)?",
+    "options": [
+      "Keyboard and Mouse",
+      "Touch, gestures, and voice",
+      "Punch cards",
+      "Joystick only"
+    ],
+    "answer": "Touch, gestures, and voice"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which class of computing is used for weather/climate modeling and nuclear simulation?",
+    "options": [
+      "Personal Computers",
+      "Embedded Systems",
+      "Supercomputers/HPC",
+      "IoT Devices"
+    ],
+    "answer": "Supercomputers/HPC"
+  },
+  {
+    "type": "true-false",
+    "question": "Infrastructure as a Service (IaaS) involves renting complete applications like Salesforce.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which class of computers includes thermostats, security cameras, and pacemakers?",
+    "options": [
+      "Servers",
+      "Embedded Systems and IoT",
+      "Personal Mobile Devices",
+      "Supercomputers"
+    ],
+    "answer": "Embedded Systems and IoT"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which of the following is a characteristic of a Warehouse Scale Computer?",
+    "options": [
+      "Single-user access",
+      "Liquid or AI-optimized cooling",
+      "Fits in a pocket",
+      "Does not require internet"
+    ],
+    "answer": "Liquid or AI-optimized cooling"
+  },
+  {
+    "type": "true-false",
+    "question": "The 'Mobile-First' era implies that mobile devices are the primary platform for billions of people.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the benefit of using 'Free air' or liquid cooling in datacenters?",
+    "options": [
+      "Increases noise",
+      "Improves energy efficiency and reduces environmental impact",
+      "Makes servers run slower",
+      "Increases hardware cost for users"
+    ],
+    "answer": "Improves energy efficiency and reduces environmental impact"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which of the following is an emerging 'Killer App' for the future?",
+    "options": [
+      "Electronic mail",
+      "Spatial computing and mixed reality",
+      "Relational databases",
+      "Web browsers"
+    ],
+    "answer": "Spatial computing and mixed reality"
+  },
+  {
+    "type": "true-false",
+    "question": "A 'Digital Twin' of a human body could be used for personalized medicine.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "How many smartphones are shipped annually compared to PCs?",
+    "options": [
+      "100M smartphones vs 500M PCs",
+      "1.4B+ smartphones vs 260M PCs",
+      "10B smartphones vs 1B PCs",
+      "They ship in equal numbers"
+    ],
+    "answer": "1.4B+ smartphones vs 260M PCs"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which operating system environment is mentioned as having a large 'visual environment' for C# and VB.NET?",
+    "options": [
+      "UNIX",
+      "Microsoft Visual Studio .NET",
+      "Borland JBuilder",
+      "Linux"
+    ],
+    "answer": "Microsoft Visual Studio .NET"
+  },
+  {
+    "type": "true-false",
+    "question": "The fundamental principle mentioned is that software innovation enables hardware creation.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which of the following is a characteristic of Personal Mobile Devices?",
+    "options": [
+      "Always disconnected",
+      "Rich sensors like accelerometers and GPS",
+      "Require 120V constant power",
+      "Used only for scientific research"
+    ],
+    "answer": "Rich sensors like accelerometers and GPS"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What drives the need for edge processing in industrial automation?",
+    "options": [
+      "The need for high latency",
+      "Real-time requirements and reliability",
+      "Cheaper storage in the cloud",
+      "Lack of local power"
+    ],
+    "answer": "Real-time requirements and reliability"
+  },
+  {
+    "type": "true-false",
+    "question": "IaaS stands for 'Infrastructure as a Service.'",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which cloud provider has the smallest market share among the top three listed?",
+    "options": [
+      "AWS",
+      "Microsoft Azure",
+      "Google Cloud",
+      "Alibaba Cloud"
+    ],
+    "answer": "Google Cloud"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In the photo app example, which tier is responsible for advanced search and model training?",
+    "options": [
+      "Device tier",
+      "Edge tier",
+      "Cloud tier",
+      "User tier"
+    ],
+    "answer": "Cloud tier"
+  },
+  {
+    "type": "true-false",
+    "question": "Sustainability is becoming a competitive necessity in computer technology design.",
+    "answer": "true"
+  }
+]
