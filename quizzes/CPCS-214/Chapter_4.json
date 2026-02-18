@@ -1,0 +1,234 @@
+{
+  "id": "5",
+  "category": "CPCS-214",
+  "title": "CPCS-214: Chapter 4",
+  "timeLimit": 3000,
+  "questions": [
+  {
+    "type": "multiple-choice",
+    "question": "Which of the following are the four basic functions performed by any computer hardware?",
+    "options": [
+      "Typing, Clicking, Printing, Saving",
+      "Inputting, Outputting, Processing, Storing",
+      "Booting, Loading, Running, Crashing",
+      "Heating, Cooling, Processing, Displaying"
+    ],
+    "answer": "Inputting, Outputting, Processing, Storing"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which two components of the 'classic five' are often combined and referred to as the processor?",
+    "options": [
+      "Input and Output",
+      "Memory and Datapath",
+      "Datapath and Control",
+      "Control and Memory"
+    ],
+    "answer": "Datapath and Control"
+  },
+  {
+    "type": "true-false",
+    "question": "The five classic components of computer organization are dependent on the specific hardware technology used.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Most Personal Mobile Devices (PMDs) use which technology for thin, low-power displays?",
+    "options": [
+      "CRT (Cathode Ray Tube)",
+      "LCD (Liquid Crystal Display)",
+      "Plasma",
+      "Projector"
+    ],
+    "answer": "LCD (Liquid Crystal Display)"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In an active matrix LCD, what is used at each pixel to precisely control the current?",
+    "options": [
+      "A vacuum tube",
+      "A tiny transistor switch",
+      "A mechanical relay",
+      "A fiber optic cable"
+    ],
+    "answer": "A tiny transistor switch"
+  },
+  {
+    "type": "true-false",
+    "question": "A bitmap is a representation of pixels as a matrix of bits.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "How many total bits per pixel are typically used for a 24-bit color RGB display?",
+    "options": [
+      "8 bits",
+      "16 bits",
+      "24 bits",
+      "32 bits"
+    ],
+    "answer": "24 bits"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The image currently shown on a screen is stored in a specific area of memory called the:",
+    "options": [
+      "Cache",
+      "Frame buffer",
+      "Hard drive",
+      "ROM"
+    ],
+    "answer": "Frame buffer"
+  },
+  {
+    "type": "true-false",
+    "question": "In an iPad 2, the Datapath, Control, and Memory occupy a larger portion of the device than I/O components.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which component is known as the 'active' part of the computer that follows program instructions exactly?",
+    "options": [
+      "The Monitor",
+      "The CPU (Central Processor Unit)",
+      "The Power Supply",
+      "The Frame Buffer"
+    ],
+    "answer": "The CPU (Central Processor Unit)"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which part of the processor is responsible for performing arithmetic operations?",
+    "options": [
+      "Control",
+      "Datapath",
+      "I/O Device",
+      "Bitmap"
+    ],
+    "answer": "Datapath"
+  },
+  {
+    "type": "true-false",
+    "question": "DRAM (Dynamic Random Access Memory) access time depends on the specific location of the data.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which type of memory is located inside the processor and acts as a small, fast buffer for DRAM?",
+    "options": [
+      "Flash",
+      "Cache",
+      "Magnetic Disk",
+      "Optical Fiber"
+    ],
+    "answer": "Cache"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "SRAM (Static Random Access Memory) is used for cache because it is:",
+    "options": [
+      "Cheaper and slower than DRAM",
+      "Faster but less dense than DRAM",
+      "Nonvolatile",
+      "Used for secondary storage"
+    ],
+    "answer": "Faster but less dense than DRAM"
+  },
+  {
+    "type": "true-false",
+    "question": "Volatile memory, such as DRAM, loses its data when power is removed.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which of these is considered nonvolatile (secondary) memory?",
+    "options": [
+      "SRAM",
+      "DRAM",
+      "Flash Memory",
+      "Main Memory"
+    ],
+    "answer": "Flash Memory"
+  },
+  {
+    "type": "true-false",
+    "question": "Flash memory is more power-efficient and rugged than traditional magnetic disks.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Flash memory wears out after approximately how many writes?",
+    "options": [
+      "1,000 to 5,000",
+      "100,000 to 1,000,000",
+      "Infinity",
+      "100 to 500"
+    ],
+    "answer": "100,000 to 1,000,000"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which network type typically covers distances up to 1 km and connects computers on the same floor?",
+    "options": [
+      "WAN (Wide Area Network)",
+      "LAN (Local Area Network)",
+      "The Backbone",
+      "Satellite"
+    ],
+    "answer": "LAN (Local Area Network)"
+  },
+  {
+    "type": "true-false",
+    "question": "Ethernet is an example of a Wide Area Network (WAN).",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Wide Area Networks (WANs) often use which technology as their physical backbone?",
+    "options": [
+      "Copper wire",
+      "Optical fibers",
+      "DRAM chips",
+      "Active matrix switches"
+    ],
+    "answer": "Optical fibers"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the primary difference between wireless and wired networks regarding airwaves?",
+    "options": [
+      "Wireless is always faster",
+      "Wired users share the airwaves",
+      "All wireless users in the same area share the airwaves",
+      "There is no difference"
+    ],
+    "answer": "All wireless users in the same area share the airwaves"
+  },
+  {
+    "type": "true-false",
+    "question": "The nontechnical definition of 'cache' is a safe place for hiding things.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The total capacity of the iPad 2 example memory (using two 2-gibibit chips) is:",
+    "options": [
+      "256 MiB",
+      "512 MiB",
+      "1 GiB",
+      "4 GiB"
+    ],
+    "answer": "512 MiB"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which component 'directs' the datapath, memory, and I/O devices based on program instructions?",
+    "options": [
+      "Datapath",
+      "Control",
+      "DRAM",
+      "Ethernet"
+    ],
+    "answer": "Control"
+  }
+]}
