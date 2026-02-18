@@ -150,22 +150,7 @@
     ],
     "answer": "AI/ML Specialized Systems"
   },
-  {
-    "type": "true-false",
-    "question": "Personal Mobile Devices (PMDs) currently outsell Personal Computers (PCs) by a ratio of approximately 5:1.",
-    "answer": "true"
-  },
-  {
-    "type": "multiple-choice",
-    "question": "What does NPU stand for in the context of modern processors?",
-    "options": [
-      "Network Processing Unit",
-      "Neural Processing Unit",
-      "Node Power Unit",
-      "None of the above"
-    ],
-    "answer": "Neural Processing Unit"
-  },
+
   {
     "type": "multiple-choice",
     "question": "Which cloud service model provides complete applications delivered online, such as Gmail or Microsoft 365?",
@@ -248,17 +233,6 @@
     "answer": "LLM training (GPT, Claude)"
   },
   {
-    "type": "multiple-choice",
-    "question": "What is the estimated cost range for a modern supercomputer?",
-    "options": [
-      "$1,000 – $5,000",
-      "$100,000 – $500,000",
-      "$100M – $1B+",
-      "Free (Open Source)"
-    ],
-    "answer": "$100M – $1B+"
-  },
-  {
     "type": "true-false",
     "question": "Ambient intelligence refers to computers 'disappearing' into the environment to provide helpful services.",
     "answer": "true"
@@ -339,11 +313,7 @@
     ],
     "answer": "Liquid or AI-optimized cooling"
   },
-  {
-    "type": "true-false",
-    "question": "The 'Mobile-First' era implies that mobile devices are the primary platform for billions of people.",
-    "answer": "true"
-  },
+
   {
     "type": "multiple-choice",
     "question": "What is the benefit of using 'Free air' or liquid cooling in datacenters?",
@@ -371,28 +341,7 @@
     "question": "A 'Digital Twin' of a human body could be used for personalized medicine.",
     "answer": "true"
   },
-  {
-    "type": "multiple-choice",
-    "question": "How many smartphones are shipped annually compared to PCs?",
-    "options": [
-      "100M smartphones vs 500M PCs",
-      "1.4B+ smartphones vs 260M PCs",
-      "10B smartphones vs 1B PCs",
-      "They ship in equal numbers"
-    ],
-    "answer": "1.4B+ smartphones vs 260M PCs"
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Which operating system environment is mentioned as having a large 'visual environment' for C# and VB.NET?",
-    "options": [
-      "UNIX",
-      "Microsoft Visual Studio .NET",
-      "Borland JBuilder",
-      "Linux"
-    ],
-    "answer": "Microsoft Visual Studio .NET"
-  },
+  
   {
     "type": "true-false",
     "question": "The fundamental principle mentioned is that software innovation enables hardware creation.",
