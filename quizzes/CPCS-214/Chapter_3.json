@@ -97,11 +97,6 @@
     "answer": "System software (Operating System)"
   },
   {
-    "type": "true-false",
-    "question": "A binary string like 1000110010100000 is an example of machine language.",
-    "answer": "true"
-  },
-  {
     "type": "multiple-choice",
     "question": "High-level operations must be ______ or ______ into simple computer instructions to be executed.",
     "options": [
