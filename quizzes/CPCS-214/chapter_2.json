@@ -1,0 +1,228 @@
+{
+  "id": "5",
+  "category": "CPCS-214",
+  "title": "CPCS-214: Chapter 2",
+  "timeLimit": 3000,
+  "questions": [
+  {
+    "type": "multiple-choice",
+    "question": "During the 1960s and 1970s, what was the primary constraint on computer performance?",
+    "options": [
+      "Processor speed",
+      "Memory size",
+      "Energy consumption",
+      "Network bandwidth"
+    ],
+    "answer": "Memory size"
+  },
+  {
+    "type": "true-false",
+    "question": "In modern computing, small memory size is still the primary concern for all systems except embedded computing.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What are the two new performance issues that have replaced the simple memory model in importance?",
+    "options": [
+      "Screen resolution and storage type",
+      "Parallel nature of processors and hierarchical nature of memories",
+      "Keyboard latency and mouse DPI",
+      "Cooling speed and fan noise"
+    ],
+    "answer": "Parallel nature of processors and hierarchical nature of memories"
+  },
+  {
+    "type": "true-false",
+    "question": "Programmers must consider energy efficiency when developing for Personal Mobile Devices (PMDs) or the Cloud.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "According to the text, what determines program execution efficiency?",
+    "options": [
+      "Hardware only",
+      "Software only",
+      "Both hardware and software",
+      "Neither hardware nor software"
+    ],
+    "answer": "Both hardware and software"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which factor does NOT contribute to the performance of a program?",
+    "options": [
+      "Algorithm effectiveness",
+      "Software used for translation",
+      "The color of the computer case",
+      "Hardware effectiveness in executing instructions"
+    ],
+    "answer": "The color of the computer case"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "How many 'Great Ideas in Computer Architecture' are identified in the text?",
+    "options": [
+      "5",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": "8"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which law states that integrated circuit resources double every 18–24 months?",
+    "options": [
+      "Amdahl's Law",
+      "Moore's Law",
+      "Newton's Law",
+      "Ohm's Law"
+    ],
+    "answer": "Moore's Law"
+  },
+  {
+    "type": "true-false",
+    "question": "Designers should base their architecture on current technology at the start of a project rather than anticipating future technology.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The concept of hiding lower-level details to simplify higher-level design is known as:",
+    "options": [
+      "Redundancy",
+      "Abstraction",
+      "Parallelism",
+      "Pipelining"
+    ],
+    "answer": "Abstraction"
+  },
+  {
+    "type": "true-false",
+    "question": "Optimizing rare cases is the most effective way to improve overall system performance.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which design principle suggests achieving higher performance by executing multiple operations simultaneously?",
+    "options": [
+      "Performance via Parallelism",
+      "Performance via Prediction",
+      "Hierarchy of Memories",
+      "Moore's Law"
+    ],
+    "answer": "Performance via Parallelism"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Pipelining is described as a prevalent form of which other architectural concept?",
+    "options": [
+      "Redundancy",
+      "Parallelism",
+      "Abstraction",
+      "Memory hierarchy"
+    ],
+    "answer": "Parallelism"
+  },
+  {
+    "type": "true-false",
+    "question": "Performance via Prediction is effective only if misprediction recovery is inexpensive.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In the hierarchy of memories, which layer is characterized by being the fastest and most expensive per bit?",
+    "options": [
+      "Bottom layer",
+      "Middle layer",
+      "Top layer",
+      "Network storage"
+    ],
+    "answer": "Top layer"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In the memory hierarchy, the bottom layer is generally:",
+    "options": [
+      "Fastest and smallest",
+      "Slowest and largest",
+      "Most expensive and fastest",
+      "Cheapest and smallest"
+    ],
+    "answer": "Slowest and largest"
+  },
+  {
+    "type": "true-false",
+    "question": "Programmers want memory that is simultaneously fast, large, and cheap.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The architectural principle of 'Dependability via Redundancy' is used to account for:",
+    "options": [
+      "Software bugs",
+      "Physical component failures",
+      "High power costs",
+      "Slow network speeds"
+    ],
+    "answer": "Physical component failures"
+  },
+  {
+    "type": "true-false",
+    "question": "Redundancy ensures a system continues to operate even after a physical component failure.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which great idea focuses on improving productivity and preventing design time from growing too large?",
+    "options": [
+      "Pipelining",
+      "Abstraction",
+      "Prediction",
+      "Redundancy"
+    ],
+    "answer": "Abstraction"
+  },
+  {
+    "type": "true-false",
+    "question": "Making the common case fast is a great idea in computer architecture.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In performance via prediction, what must happen if the 'guess' is wrong?",
+    "options": [
+      "The computer shuts down",
+      "The system uses misprediction recovery",
+      "The memory hierarchy is reset",
+      "Moore's Law is applied"
+    ],
+    "answer": "The system uses misprediction recovery"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "According to the text, understanding computer organization is necessary for building:",
+    "options": [
+      "Hardware cases",
+      "Competitive software",
+      "Agricultural tools",
+      "Industrial machines"
+    ],
+    "answer": "Competitive software"
+  },
+  {
+    "type": "true-false",
+    "question": "Pipelining allows multiple stages of execution to occur concurrently.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which architectural principle helps resolve the conflicting demands of fast, large, and cheap memory?",
+    "options": [
+      "Parallelism",
+      "Hierarchy of memories",
+      "Moore's Law",
+      "Pipelining"
+    ],
+    "answer": "Hierarchy of memories"
+  }
+]}
