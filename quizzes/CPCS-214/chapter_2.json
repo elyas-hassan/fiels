@@ -58,17 +58,7 @@
     ],
     "answer": "The color of the computer case"
   },
-  {
-    "type": "multiple-choice",
-    "question": "How many 'Great Ideas in Computer Architecture' are identified in the text?",
-    "options": [
-      "5",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "8"
-  },
+
   {
     "type": "multiple-choice",
     "question": "Which law states that integrated circuit resources double every 18–24 months?",
