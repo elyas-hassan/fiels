@@ -200,17 +200,6 @@
   },
   {
     "type": "multiple-choice",
-    "question": "The total capacity of the iPad 2 example memory (using two 2-gibibit chips) is:",
-    "options": [
-      "256 MiB",
-      "512 MiB",
-      "1 GiB",
-      "4 GiB"
-    ],
-    "answer": "512 MiB"
-  },
-  {
-    "type": "multiple-choice",
     "question": "Which component 'directs' the datapath, memory, and I/O devices based on program instructions?",
     "options": [
       "Datapath",
