@@ -1,30 +1,6 @@
 {
   "events": [
     {
-      "courseCode": "STAT-352",
-      "section": "CS4",
-      "title": "First Group Midterm Exam (Ch 5)",
-      "type": "Exam",
-      "date": "2026-02-24",
-      "time": "2:30 PM"
-    },
-    {
-      "courseCode": "STAT-352",
-      "section": "CS4",
-      "title": "Secound Group Midterm Exam (Ch 5)",
-      "type": "Exam",
-      "date": "2026-02-26",
-      "time": "2:30 PM"
-    },
-    {
-      "courseCode": "CPCS-214",
-      "section": "All",
-      "title": "Quiz from 1 - 11 __ 10-15 minutes and may consist of 8-10 questions of the following type",
-      "type": "Quiz",
-      "date": "2026-02-18",
-      "time": "11:00 PM - 11:15 PM"
-    },
-    {
       "courseCode": "CPCS-223",
       "section": "All",
       "title": "to Empirical Analysis chapter quiz duration will be only 15 minutes",
