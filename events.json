@@ -1,58 +1,62 @@
 [
-{
-"id": "evt-001",
-"title": "Programming 1 Midterm Exam",
-"description": "Midterm covering weeks 1–6",
-"startTime": "2025-11-03T09:00:00",
-"endTime": "2025-11-03T11:00:00",
-"type": "exam",
-"courseCode": "CPCS-202",
-"isRecurring": false
-},
-{
-"id": "evt-002",
-"title": "Data Structures Assignment Due",
-"description": "Linked List Implementation",
-"startTime": "2025-11-05T23:59:00",
-"endTime": "2025-11-06T01:00:00",
-"type": "assignment",
-"courseCode": "CPCS-211"
-},
-
   {
-  "id": "evt-003",
-  "title": "CPCS-214 Assignment Due",
-  "description": "Assignment - ALL SECTIONS | Points Possible: 7",
-  "startTime": "2026-03-07T23:59:00",
-  "endTime": "2026-03-08T01:00:00",
-  "type": "assignment",
-  "courseCode": "CPCS-214"
-},
+    "id": "evt-001",
+    "title": "Programming 1 Midterm Exam",
+    "description": "Midterm covering weeks 1–6",
+    "startTime": "2025-11-03T09:00:00",
+    "endTime": "2025-11-03T11:00:00",
+    "type": "exam",
+    "courseCode": "CPCS-202",
+    "section": "all"
+  },
   {
-  "id": "evt-004",
-  "title": "STAT-352 Exam (Students 26-49)",
-  "description": "Section CS2 Exam - 12 شوال | Students from 26 to 49",
-  "startTime": "2026-03-31T09:00:00",
-  "endTime": "2026-03-31T11:00:00",
-  "type": "exam",
-  "courseCode": "STAT-352"
-},
+    "id": "evt-002",
+    "title": "Data Structures Assignment Due",
+    "description": "Linked List Implementation",
+    "startTime": "2025-11-05T23:59:00",
+    "endTime": "2025-11-06T01:00:00",
+    "type": "assignment",
+    "courseCode": "CPCS-211",
+    "section": "all"
+  },
   {
-  "id": "evt-005",
-  "title": "STAT-352 Exam (Students 1-25)",
-  "description": "Section CS2 Exam - 14 شوال | Students from 1 to 25",
-  "startTime": "2026-04-02T09:00:00",
-  "endTime": "2026-04-02T11:00:00",
-  "type": "exam",
-  "courseCode": "STAT-352"
-},
+    "id": "evt-003",
+    "title": "CPCS-214 Assignment Due",
+    "description": "Assignment - ALL SECTIONS | Points Possible: 7",
+    "startTime": "2026-03-07T23:59:00",
+    "endTime": "2026-03-08T01:00:00",
+    "type": "assignment",
+    "courseCode": "CPCS-214",
+    "section": "all"
+  },
   {
-  "id": "evt-006",
-  "title": "CPCS-241 Assignment Due (Rearranged)",
-  "description": "Assignment - ALL SECTIONS | Originally 5 March, rearranged to 12 March (Last Chance)",
-  "startTime": "2026-03-12T23:59:00",
-  "endTime": "2026-03-13T01:00:00",
-  "type": "assignment",
-  "courseCode": "CPCS-241"
-}
+    "id": "evt-004",
+    "title": "STAT-352 Exam (Students 26-49)",
+    "description": "Section CS2 Exam - 12 شوال | Students from 26 to 49",
+    "startTime": "2026-03-31T09:00:00",
+    "endTime": "2026-03-31T11:00:00",
+    "type": "exam",
+    "courseCode": "STAT-352",
+    "section": "CS2"
+  },
+  {
+    "id": "evt-005",
+    "title": "STAT-352 Exam (Students 1-25)",
+    "description": "Section CS2 Exam - 14 شوال | Students from 1 to 25",
+    "startTime": "2026-04-02T09:00:00",
+    "endTime": "2026-04-02T11:00:00",
+    "type": "exam",
+    "courseCode": "STAT-352",
+    "section": "CS2"
+  },
+  {
+    "id": "evt-006",
+    "title": "CPCS-241 Assignment Due (Rearranged)",
+    "description": "Assignment - ALL SECTIONS | Originally 5 March, rearranged to 12 March (Last Chance)",
+    "startTime": "2026-03-12T23:59:00",
+    "endTime": "2026-03-13T01:00:00",
+    "type": "assignment",
+    "courseCode": "CPCS-241",
+    "section": "all"
+  }
 ]
