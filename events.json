@@ -4,8 +4,7 @@
     "id": "evt-003",
     "title": "CPCS-214 Assignment Due",
     "description": "Assignment - ALL SECTIONS | Points Possible: 7",
-    "startTime": "2026-03-01T23:59:00",
-    "endTime": "2026-03-07T022:59:00",
+    "startTime": "2026-03-07T022:59:00",
     "type": "assignment",
     "courseCode": "CPCS-214",
     "section": "all"
