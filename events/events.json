@@ -13,7 +13,7 @@
     "id": "evt-004",
     "title": "STAT-352 Exam (Students 26-49)",
     "description": "Section CS2 Exam - 12 شوال | Students from 26 to 49",
-    "endTime": "class time",
+    "endTime": "2026-03-31T14:00:00",
     "type": "exam",
     "courseCode": "STAT-352",
     "section": "CS2"
@@ -22,7 +22,7 @@
     "id": "evt-005",
     "title": "STAT-352 Exam (Students 1-25)",
     "description": "Section CS2 Exam - 14 شوال | Students from 1 to 25",
-    "endTime": "class time",
+    "endTime": "2026-04-2T14:00:00",
     "type": "exam",
     "courseCode": "STAT-352",
     "section": "CS2"
