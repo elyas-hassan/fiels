@@ -1,30 +1,11 @@
 [
-  {
-    "id": "evt-001",
-    "title": "Programming 1 Midterm Exam",
-    "description": "Midterm covering weeks 1–6",
-    "startTime": "2025-11-03T09:00:00",
-    "endTime": "2025-11-03T11:00:00",
-    "type": "exam",
-    "courseCode": "CPCS-202",
-    "section": "all"
-  },
-  {
-    "id": "evt-002",
-    "title": "Data Structures Assignment Due",
-    "description": "Linked List Implementation",
-    "startTime": "2025-11-05T23:59:00",
-    "endTime": "2025-11-06T01:00:00",
-    "type": "assignment",
-    "courseCode": "CPCS-211",
-    "section": "all"
-  },
+
   {
     "id": "evt-003",
     "title": "CPCS-214 Assignment Due",
     "description": "Assignment - ALL SECTIONS | Points Possible: 7",
-    "startTime": "2026-03-07T23:59:00",
-    "endTime": "2026-03-08T01:00:00",
+    "startTime": "2026-03-01T23:59:00",
+    "endTime": "2026-03-07T022:59:00",
     "type": "assignment",
     "courseCode": "CPCS-214",
     "section": "all"
