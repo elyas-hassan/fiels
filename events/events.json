@@ -1,39 +1,80 @@
 {
   "events": [
-  {
-    "id": "evt-003",
-    "title": "CPCS-214 Assignment Due",
-    "description": "Assignment | Points Possible: 7",
-    "endTime": "2026-03-07T23:59:00",
-    "type": "assignment",
-    "courseCode": "CPCS-214",
-    "section": "all"
-  },
-  {
-    "id": "evt-004",
-    "title": "STAT-352 Exam (Students 26-49)",
-    "description": "Section CS2 Exam - 12 شوال | Students from 26 to 49",
-    "endTime": "2026-03-31T14:00:00",
-    "type": "exam",
-    "courseCode": "STAT-352",
-    "section": "CS2"
-  },
-  {
-    "id": "evt-005",
-    "title": "STAT-352 Exam (Students 1-25)",
-    "description": "Section CS2 Exam - 14 شوال | Students from 1 to 25",
-    "endTime": "2026-04-02T14:00:00",
-    "type": "exam",
-    "courseCode": "STAT-352",
-    "section": "CS2"
-  },
-  {
-    "id": "evt-006",
-    "title": "CPCS-241 Assignment Due (Rearranged)",
-    "description": "Assignment | Originally 5 March, rearranged to 12 March (Last Chance)",
-    "endTime": "2026-03-12T00:00:00",
-    "type": "assignment",
-    "courseCode": "CPCS-241",
-    "section": "all"
-  }
-]}
+    {
+      "id": "evt-003",
+      "title": "CPCS-214 Assignment Due",
+      "description": "Assignment | Points Possible: 7",
+      "endTime": "2026-03-07T23:59:00",
+      "type": "assignment",
+      "courseCode": "CPCS-214",
+      "section": "all"
+    },
+    {
+      "id": "evt-004",
+      "title": "STAT-352 Exam (Students 26-49)",
+      "description": "Section CS2 Exam - 12 شوال | Students from 26 to 49",
+      "endTime": "2026-03-29T14:00:00",
+      "type": "exam",
+      "courseCode": "STAT-352",
+      "section": "CS2"
+    },
+    {
+      "id": "evt-005",
+      "title": "STAT-352 Exam (Students 1-25)",
+      "description": "Section CS2 Exam - 14 شوال | Students from 1 to 25",
+      "endTime": "2026-03-31T14:00:00",
+      "type": "exam",
+      "courseCode": "STAT-352",
+      "section": "CS2"
+    },
+    {
+      "id": "evt-006",
+      "title": "CPCS-241 Assignment Due (Rearranged)",
+      "description": "Assignment | Originally 5 March, rearranged to 12 March (Last Chance)",
+      "endTime": "2026-03-12T00:00:00",
+      "type": "assignment",
+      "courseCode": "CPCS-241",
+      "section": "all"
+    },
+    {
+      "id": "evt-007",
+      "title": "CPCS-223 Class",
+      "description": "ROOMS: H1-6 + H1-7 | at building A80",
+      "startTime": "2025-04-01T09:00:00",
+      "endTime": "2025-04-01T10:30:00",
+      "type": "class",
+      "courseCode": "CPCS-223",
+      "section": "all"
+    },
+    {
+      "id": "evt-008",
+      "title": "CPCS-214 Class",
+      "description": "ROOMS: H1-3 + H1-6 + H1-7 | at building A80",
+      "startTime": "2025-04-08T11:00:00",
+      "endTime": "2025-04-08T12:30:00",
+      "type": "class",
+      "courseCode": "CPCS-214",
+      "section": "all"
+    },
+    {
+      "id": "evt-009",
+      "title": "CPCS-241 Class",
+      "description": "ROOMS: H2-5 + H2-6 | at building A80",
+      "startTime": "2026-04-12T13:00:00",
+      "endTime": "2026-04-12T14:30:00",
+      "type": "class",
+      "courseCode": "CPCS-241",
+      "section": "all"
+    },
+    {
+      "id": "evt-010",
+      "title": "CPCS-301 Class",
+      "description": "ROOM: H2-6 | at building A80",
+      "startTime": "2026-04-14T13:00:00",
+      "endTime": "2026-04-14T14:30:00",
+      "type": "class",
+      "courseCode": "CPCS-301",
+      "section": "all"
+    }
+  ]
+}
