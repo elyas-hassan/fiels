@@ -1,24 +1,6 @@
 {
   "events": [
     {
-      "id": "evt-003",
-      "title": "CPCS-214 Assignment Due",
-      "description": "Assignment | Points Possible: 7",
-      "endTime": "2026-03-07T23:59:00",
-      "type": "assignment",
-      "courseCode": "CPCS-214",
-      "section": "all"
-    },
-    {
-      "id": "evt-004",
-      "title": "STAT-352 Exam (Students 26-49)",
-      "description": "Section CS2 Exam - 12 شوال | Students from 26 to 49",
-      "endTime": "2026-03-29T14:00:00",
-      "type": "exam",
-      "courseCode": "STAT-352",
-      "section": "CS2"
-    },
-    {
       "id": "evt-005",
       "title": "STAT-352 Exam (Students 1-25)",
       "description": "Section CS2 Exam - 14 شوال | Students from 1 to 25",
@@ -27,53 +9,492 @@
       "courseCode": "STAT-352",
       "section": "CS2"
     },
+
+
+
+    
     {
-      "id": "evt-006",
-      "title": "CPCS-241 Assignment Due (Rearranged)",
-      "description": "Assignment | Originally 5 March, rearranged to 12 March (Last Chance)",
-      "endTime": "2026-03-12T00:00:00",
-      "type": "assignment",
-      "courseCode": "CPCS-241",
-      "section": "all"
-    },
-    {
-      "id": "evt-007",
-      "title": "CPCS-223 Class",
-      "description": "ROOMS: H1-6 + H1-7 | at building A80",
-      "startTime": "2025-04-01T09:00:00",
-      "endTime": "2025-04-01T10:30:00",
-      "type": "class",
+      "id": "evt-011",
+      "title": "CPCS-223 Exam",
+      "description": "Building 80A | Rooms: H1-6 + H1-7",
+      "startTime": "2026-04-01T09:00:00",
+      "endTime": "2026-04-01T10:30:00",
+      "type": "exam",
       "courseCode": "CPCS-223",
       "section": "all"
     },
     {
-      "id": "evt-008",
-      "title": "CPCS-214 Class",
-      "description": "ROOMS: H1-3 + H1-6 + H1-7 | at building A80",
-      "startTime": "2025-04-08T11:00:00",
-      "endTime": "2025-04-08T12:30:00",
-      "type": "class",
+      "id": "evt-012",
+      "title": "CPCS-324 Exam",
+      "description": "Building 80A | Room: H1-8",
+      "startTime": "2026-04-01T09:00:00",
+      "endTime": "2026-04-01T10:30:00",
+      "type": "exam",
+      "courseCode": "CPCS-324",
+      "section": "all"
+    },
+    {
+      "id": "evt-013",
+      "title": "CPCS-425 Exam",
+      "description": "Building 80A | Room: H2-7",
+      "startTime": "2026-04-01T09:00:00",
+      "endTime": "2026-04-01T10:30:00",
+      "type": "exam",
+      "courseCode": "CPCS-425",
+      "section": "all"
+    },
+    {
+      "id": "evt-014",
+      "title": "CPIT-250 Exam",
+      "description": "Building 80A | Rooms: H1-3 + H1-9 + H1-11",
+      "startTime": "2026-04-01T09:00:00",
+      "endTime": "2026-04-01T10:30:00",
+      "type": "exam",
+      "courseCode": "CPIT-250",
+      "section": "all"
+    },
+    {
+      "id": "evt-015",
+      "title": "CPIS-490 Exam",
+      "description": "Building 80A | Room: H2-8",
+      "startTime": "2026-04-01T09:00:00",
+      "endTime": "2026-04-01T10:30:00",
+      "type": "exam",
+      "courseCode": "CPIS-490",
+      "section": "all"
+    },
+    {
+      "id": "evt-016",
+      "title": "CPIS-420 Exam",
+      "description": "Building 80A | Room: H1-8",
+      "startTime": "2026-04-01T11:00:00",
+      "endTime": "2026-04-01T12:30:00",
+      "type": "exam",
+      "courseCode": "CPIS-420",
+      "section": "all"
+    },
+    {
+      "id": "evt-017",
+      "title": "CPIT-252 Exam",
+      "description": "Building 80A | Rooms: H1-3 + H1-6 + H1-7",
+      "startTime": "2026-04-01T11:00:00",
+      "endTime": "2026-04-01T12:30:00",
+      "type": "exam",
+      "courseCode": "CPIT-252",
+      "section": "all"
+    },
+    {
+      "id": "evt-018",
+      "title": "CPIT-405 Exam",
+      "description": "Building 80A | Room: H1-10",
+      "startTime": "2026-04-01T11:00:00",
+      "endTime": "2026-04-01T12:30:00",
+      "type": "exam",
+      "courseCode": "CPIT-405",
+      "section": "all"
+    },
+
+    {
+      "id": "evt-019",
+      "title": "CPIS-320 Exam",
+      "description": "Building 80A | Room: H1-6",
+      "startTime": "2026-04-02T09:00:00",
+      "endTime": "2026-04-02T10:30:00",
+      "type": "exam",
+      "courseCode": "CPIS-320",
+      "section": "all"
+    },
+    {
+      "id": "evt-020",
+      "title": "CPIT-440 Exam",
+      "description": "Building 80A | Room: H2-7",
+      "startTime": "2026-04-02T09:00:00",
+      "endTime": "2026-04-02T10:30:00",
+      "type": "exam",
+      "courseCode": "CPIT-440",
+      "section": "all"
+    },
+    {
+      "id": "evt-021",
+      "title": "CPIT-455 Exam",
+      "description": "Building 80A | Room: H1-10",
+      "startTime": "2026-04-02T09:00:00",
+      "endTime": "2026-04-02T10:30:00",
+      "type": "exam",
+      "courseCode": "CPIT-455",
+      "section": "all"
+    },
+    {
+      "id": "evt-022",
+      "title": "CPIT-475 Exam",
+      "description": "Building 80A | Room: H1-8",
+      "startTime": "2026-04-02T09:00:00",
+      "endTime": "2026-04-02T10:30:00",
+      "type": "exam",
+      "courseCode": "CPIT-475",
+      "section": "all"
+    },
+    {
+      "id": "evt-023",
+      "title": "CS-201 Exam",
+      "description": "Building 80A | Room: H1-3",
+      "startTime": "2026-04-02T09:00:00",
+      "endTime": "2026-04-02T10:30:00",
+      "type": "exam",
+      "courseCode": "CS-201",
+      "section": "all"
+    },
+    {
+      "id": "evt-024",
+      "title": "CPIT-380 Exam",
+      "description": "Building 80A | Rooms: H1-3 + H1-6 + H1-11",
+      "startTime": "2026-04-05T09:00:00",
+      "endTime": "2026-04-05T10:30:00",
+      "type": "exam",
+      "courseCode": "CPIT-380",
+      "section": "all"
+    },
+    {
+      "id": "evt-025",
+      "title": "CPIS-358 Exam",
+      "description": "Building 80A | Room: H1-7",
+      "startTime": "2026-04-05T09:00:00",
+      "endTime": "2026-04-05T10:30:00",
+      "type": "exam",
+      "courseCode": "CPIS-358",
+      "section": "all"
+    },
+    {
+      "id": "evt-026",
+      "title": "CPIS-357 Exam",
+      "description": "Building 80A | Room: H1-10",
+      "startTime": "2026-04-05T09:00:00",
+      "endTime": "2026-04-05T10:30:00",
+      "type": "exam",
+      "courseCode": "CPIS-357",
+      "section": "all"
+    },
+    {
+      "id": "evt-027",
+      "title": "CPCS-202 Exam",
+      "description": "Building 80A | Rooms: H1-8 + H1-9",
+      "startTime": "2026-04-05T09:00:00",
+      "endTime": "2026-04-05T10:30:00",
+      "type": "exam",
+      "courseCode": "CPCS-202",
+      "section": "all"
+    },
+    {
+      "id": "evt-028",
+      "title": "CPCS-203 Exam",
+      "description": "Building 80A | Rooms: H2-4 + H2-5 + H2-6 + H2-7",
+      "startTime": "2026-04-05T09:00:00",
+      "endTime": "2026-04-05T10:30:00",
+      "type": "exam",
+      "courseCode": "CPCS-203",
+      "section": "all"
+    },
+    {
+      "id": "evt-029",
+      "title": "CPCS-204 Exam",
+      "description": "Building 80A | Rooms: H1-3 + H1-6 + H1-7",
+      "startTime": "2026-04-05T11:00:00",
+      "endTime": "2026-04-05T12:30:00",
+      "type": "exam",
+      "courseCode": "CPCS-204",
+      "section": "all"
+    },
+    {
+      "id": "evt-030",
+      "title": "CPIS-240 Exam",
+      "description": "Building 80A | Rooms: H2-4 + H2-5",
+      "startTime": "2026-04-05T11:00:00",
+      "endTime": "2026-04-05T12:30:00",
+      "type": "exam",
+      "courseCode": "CPIS-240",
+      "section": "all"
+    },
+    {
+      "id": "evt-031",
+      "title": "CPCS-403 Exam",
+      "description": "Building 80A | Room: H2-8",
+      "startTime": "2026-04-05T11:00:00",
+      "endTime": "2026-04-05T12:30:00",
+      "type": "exam",
+      "courseCode": "CPCS-403",
+      "section": "all"
+    },
+
+    {
+      "id": "evt-032",
+      "title": "CPCS-302 Exam",
+      "description": "Building 80A | Rooms: H1-3 + H1-6 + H1-7",
+      "startTime": "2026-04-06T09:00:00",
+      "endTime": "2026-04-06T10:30:00",
+      "type": "exam",
+      "courseCode": "CPCS-302",
+      "section": "all"
+    },
+    {
+      "id": "evt-033",
+      "title": "CPIS-380 Exam",
+      "description": "Building 80A | Rooms: H2-4 + H2-5",
+      "startTime": "2026-04-06T09:00:00",
+      "endTime": "2026-04-06T10:30:00",
+      "type": "exam",
+      "courseCode": "CPIS-380",
+      "section": "all"
+    },
+    {
+      "id": "evt-034",
+      "title": "CPIT-456 Exam",
+      "description": "Building 80A | Room: H1-6",
+      "startTime": "2026-04-06T09:00:00",
+      "endTime": "2026-04-06T10:30:00",
+      "type": "exam",
+      "courseCode": "CPIT-456",
+      "section": "all"
+    },
+    {
+      "id": "evt-035",
+      "title": "CPIT-370 Exam",
+      "description": "Building 80A | Room: H1-10",
+      "startTime": "2026-04-06T09:00:00",
+      "endTime": "2026-04-06T10:30:00",
+      "type": "exam",
+      "courseCode": "CPIT-370",
+      "section": "all"
+    },
+
+    {
+      "id": "evt-036",
+      "title": "CPCS-212 Exam",
+      "description": "Building 80A | Room: H1-3",
+      "startTime": "2026-04-07T09:00:00",
+      "endTime": "2026-04-07T10:30:00",
+      "type": "exam",
+      "courseCode": "CPCS-212",
+      "section": "all"
+    },
+    {
+      "id": "evt-037",
+      "title": "CPCS-463 Exam",
+      "description": "Building 80A | Room: H2-7",
+      "startTime": "2026-04-07T09:00:00",
+      "endTime": "2026-04-07T10:30:00",
+      "type": "exam",
+      "courseCode": "CPCS-463",
+      "section": "all"
+    },
+    {
+      "id": "evt-038",
+      "title": "CPIS-342 Exam",
+      "description": "Building 80A | Room: H1-11",
+      "startTime": "2026-04-07T09:00:00",
+      "endTime": "2026-04-07T10:30:00",
+      "type": "exam",
+      "courseCode": "CPIS-342",
+      "section": "all"
+    },
+    {
+      "id": "evt-039",
+      "title": "CPIS-363 Exam",
+      "description": "Building 80A | Room: H2-8",
+      "startTime": "2026-04-07T09:00:00",
+      "endTime": "2026-04-07T10:30:00",
+      "type": "exam",
+      "courseCode": "CPIS-363",
+      "section": "all"
+    },
+    {
+      "id": "evt-040",
+      "title": "CPIS-334 Exam",
+      "description": "Building 80A | Rooms: H2-4 + H2-5 + H2-6 + H2-7",
+      "startTime": "2026-04-07T11:00:00",
+      "endTime": "2026-04-07T12:30:00",
+      "type": "exam",
+      "courseCode": "CPIS-334",
+      "section": "all"
+    }, {
+      "id": "evt-041",
+      "title": "CPCS-222 Exam",
+      "description": "Building 80A | Rooms: H2-4 + H2-5 + H2-6 + H2-7",
+      "startTime": "2026-04-08T09:00:00",
+      "endTime": "2026-04-08T10:30:00",
+      "type": "exam",
+      "courseCode": "CPCS-222",
+      "section": "all"
+    },
+    {
+      "id": "evt-042",
+      "title": "CPIS-354 Exam",
+      "description": "Building 80A | Room: H1-3",
+      "startTime": "2026-04-08T09:00:00",
+      "endTime": "2026-04-08T10:30:00",
+      "type": "exam",
+      "courseCode": "CPIS-354",
+      "section": "all"
+    },
+    {
+      "id": "evt-043",
+      "title": "CPCS-214 Exam",
+      "description": "Building 80A | Rooms: H1-3 + H1-6 + H1-7",
+      "startTime": "2026-04-08T11:00:00",
+      "endTime": "2026-04-08T12:30:00",
+      "type": "exam",
       "courseCode": "CPCS-214",
       "section": "all"
     },
     {
-      "id": "evt-009",
-      "title": "CPCS-241 Class",
-      "description": "ROOMS: H2-5 + H2-6 | at building A80",
+      "id": "evt-044",
+      "title": "CPCS-331 Exam",
+      "description": "Building 80A | Room: H2-4",
+      "startTime": "2026-04-08T11:00:00",
+      "endTime": "2026-04-08T12:30:00",
+      "type": "exam",
+      "courseCode": "CPCS-331",
+      "section": "all"
+    },
+    {
+      "id": "evt-045",
+      "title": "CPIT-260 Exam",
+      "description": "Building 80A | Rooms: H2-5 + H2-6",
+      "startTime": "2026-04-08T11:00:00",
+      "endTime": "2026-04-08T12:30:00",
+      "type": "exam",
+      "courseCode": "CPIT-260",
+      "section": "all"
+    },
+    {
+      "id": "evt-046",
+      "title": "CPIS-382 Exam",
+      "description": "Building 80A | Room: H1-10",
+      "startTime": "2026-04-08T11:00:00",
+      "endTime": "2026-04-08T12:30:00",
+      "type": "exam",
+      "courseCode": "CPIS-382",
+      "section": "all"
+    },
+    {
+      "id": "evt-047",
+      "title": "CPIT-470 Exam",
+      "description": "Building 80A | Room: H1-8",
+      "startTime": "2026-04-08T11:00:00",
+      "endTime": "2026-04-08T12:30:00",
+      "type": "exam",
+      "courseCode": "CPIT-470",
+      "section": "all"
+    },
+
+    {
+      "id": "evt-048",
+      "title": "CPCS-381 Exam",
+      "description": "Building 80A | Rooms: H2-5 + H2-6",
+      "startTime": "2026-04-09T09:00:00",
+      "endTime": "2026-04-09T10:30:00",
+      "type": "exam",
+      "courseCode": "CPCS-381",
+      "section": "all"
+    },
+    {
+      "id": "evt-049",
+      "title": "CPIS-250 Exam",
+      "description": "Building 80A | Rooms: H1-8 + H1-9 + H1-10",
+      "startTime": "2026-04-09T09:00:00",
+      "endTime": "2026-04-09T10:30:00",
+      "type": "exam",
+      "courseCode": "CPIS-250",
+      "section": "all"
+    },
+    {
+      "id": "evt-050",
+      "title": "CPIS-351 Exam",
+      "description": "Building 80A | Room: H2-4",
+      "startTime": "2026-04-09T09:00:00",
+      "endTime": "2026-04-09T10:30:00",
+      "type": "exam",
+      "courseCode": "CPIS-351",
+      "section": "all"
+    },
+    {
+      "id": "evt-051",
+      "title": "CPIT-330 Exam",
+      "description": "Building 80A | Rooms: H1-3 + H1-6 + H1-7",
+      "startTime": "2026-04-09T11:00:00",
+      "endTime": "2026-04-09T12:30:00",
+      "type": "exam",
+      "courseCode": "CPIT-330",
+      "section": "all"
+    },
+    {
+      "id": "evt-052",
+      "title": "CPIS-352 Exam",
+      "description": "Building 80A | Rooms: H2-5 + H2-6",
+      "startTime": "2026-04-09T11:00:00",
+      "endTime": "2026-04-09T12:30:00",
+      "type": "exam",
+      "courseCode": "CPIS-352",
+      "section": "all"
+    },
+    {
+      "id": "evt-053",
+      "title": "CPIT-490 Exam",
+      "description": "Building 80A | Room: H1-10",
+      "startTime": "2026-04-09T11:00:00",
+      "endTime": "2026-04-09T12:30:00",
+      "type": "exam",
+      "courseCode": "CPIT-490",
+      "section": "all"
+    },
+
+    {
+      "id": "evt-054",
+      "title": "CPCS-211 Exam",
+      "description": "Building 80A | Room: H1-3",
       "startTime": "2026-04-12T13:00:00",
       "endTime": "2026-04-12T14:30:00",
-      "type": "class",
+      "type": "exam",
+      "courseCode": "CPCS-211",
+      "section": "all"
+    },
+    {
+      "id": "evt-055",
+      "title": "CPCS-241 Exam",
+      "description": "Building 80A | Rooms: H2-5 + H2-6",
+      "startTime": "2026-04-12T13:00:00",
+      "endTime": "2026-04-12T14:30:00",
+      "type": "exam",
       "courseCode": "CPCS-241",
       "section": "all"
     },
     {
-      "id": "evt-010",
-      "title": "CPCS-301 Class",
-      "description": "ROOM: H2-6 | at building A80",
-      "startTime": "2026-04-14T13:00:00",
-      "endTime": "2026-04-14T14:30:00",
-      "type": "class",
-      "courseCode": "CPCS-301",
+      "id": "evt-056",
+      "title": "CPCS-361 Exam",
+      "description": "Building 80A | Room: H1-6",
+      "startTime": "2026-04-12T13:00:00",
+      "endTime": "2026-04-12T14:30:00",
+      "type": "exam",
+      "courseCode": "CPCS-361",
+      "section": "all"
+    },
+    {
+      "id": "evt-057",
+      "title": "CPIT-210 Exam",
+      "description": "Building 80A | Room: H1-11",
+      "startTime": "2026-04-12T13:00:00",
+      "endTime": "2026-04-12T14:30:00",
+      "type": "exam",
+      "courseCode": "CPIT-210",
+      "section": "all"
+    },
+    {
+      "id": "evt-058",
+      "title": "CPIS-370 Exam",
+      "description": "Building 80A | Rooms: H1-8 + H1-9 + H1-10",
+      "startTime": "2026-04-12T13:00:00",
+      "endTime": "2026-04-12T14:30:00",
+      "type": "exam",
+      "courseCode": "CPIS-370",
       "section": "all"
     }
   ]
