@@ -290,7 +290,7 @@
 
   {
     "id": "evt-086",
-    "title": "April Allowance (Dhu al-Qi'dah)",
+    "title": "April Allowance (ذو القعدة)",
     "description": "",
     "endTime": "2026-04-27T23:59:59",
     "type": "event",
@@ -299,7 +299,7 @@
   },
   {
     "id": "evt-087",
-    "title": "May Allowance (Dhu al-Hijjah)",
+    "title": "May Allowance (ذو الحجة)",
     "description": "",
     "endTime": "2026-05-27T23:59:59",
     "type": "event",
@@ -308,7 +308,7 @@
   },
   {
     "id": "evt-088",
-    "title": "June Allowance (Muharram)",
+    "title": "June Allowance (محرم)",
     "description": "",
     "endTime": "2026-06-28T23:59:59",
     "type": "event",
@@ -317,7 +317,7 @@
   },
   {
     "id": "evt-089",
-    "title": "July Allowance (Safar)",
+    "title": "July Allowance (صفر)",
     "description": "",
     "endTime": "2026-07-27T23:59:59",
     "type": "event",
@@ -326,7 +326,7 @@
   },
   {
     "id": "evt-090",
-    "title": "August Allowance (Rabi' al-Awwal)",
+    "title": "August Allowance (ربيع الاول)",
     "description": "",
     "endTime": "2026-08-27T23:59:59",
     "type": "event",
@@ -335,7 +335,7 @@
   },
   {
     "id": "evt-091",
-    "title": "September Allowance (Rabi' al-Thani)",
+    "title": "September Allowance (ربيع الثاني)",
     "description": "",
     "endTime": "2026-09-27T23:59:59",
     "type": "event",
@@ -344,7 +344,7 @@
   },
   {
     "id": "evt-092",
-    "title": "October Allowance (Jumada al-Awwal)",
+    "title": "October Allowance (جماد الاول)",
     "description": "",
     "endTime": "2026-10-27T23:59:59",
     "type": "event",
