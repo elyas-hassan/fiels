@@ -271,6 +271,15 @@
     "type": "exam",
     "courseCode": "STAT-352",
     "section": "CS2"
-  }
+  },
+    {
+  "id": "evt-084",
+  "title": "CPCS-241 Project Submission",
+  "description": "Final Project Delivery",
+  "endTime": "2026-05-02T23:59:59",
+  "type": "project",
+  "courseCode": "CPCS-241",
+  "section": "ALL"
+}
   ]
 }
