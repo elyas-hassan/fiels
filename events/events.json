@@ -286,6 +286,14 @@
   "type": "assignment",
   "courseCode": "CPCS-223",
   "section": "ALL"
+},
+    {
+    "courseCode": "MONEY",
+    "section": "ALL",
+    "type": "event",
+    "title": "University Stipend Deposit",
+    "date": "2026-04-27T00:00:00", 
+    "description": "Expected time for the monthly deposit."
 }
   ]
 }
