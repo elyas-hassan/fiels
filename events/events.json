@@ -277,6 +277,15 @@
   "type": "project",
   "courseCode": "CPCS-241",
   "section": "ALL"
+},
+    {
+  "id": "evt-085",
+  "title": "CPCS-223 Assignment 02",
+  "description": "Assignment Submission",
+  "endTime": "2026-04-19T10:00:00",
+  "type": "assignment",
+  "courseCode": "CPCS-223",
+  "section": "ALL"
 }
   ]
 }
