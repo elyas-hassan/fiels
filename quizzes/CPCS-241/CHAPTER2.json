@@ -1,0 +1,191 @@
+{
+            "id": "26",
+            "category": "CPCS-241",
+            "title": "CHAPTER_2",
+            "timeLimit": 3000,
+            "questions": [
+  {
+    "type": "multiple-choice",
+    "question": "Which component of a Data Model describes the data types, relationships, and groups such as tables and records?",
+    "options": [
+      "Operations",
+      "Constraints",
+      "Structure",
+      "Instances"
+    ],
+    "answer": "Structure"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Specific business logic actions like 'compute_student_gpa' are categorized as:",
+    "options": [
+      "Basic Operations",
+      "Generic Operations",
+      "User-Defined Operations",
+      "Physical Operations"
+    ],
+    "answer": "User-Defined Operations"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which category of data models is closest to how users perceive data and is often called 'Semantic'?",
+    "options": [
+      "Physical Data Model",
+      "Implementation Data Model",
+      "Conceptual Data Model",
+      "Relational Model"
+    ],
+    "answer": "Conceptual Data Model"
+  },
+  {
+    "type": "true-false",
+    "question": "Physical data models describe how data is stored on the disk and are considered low-level.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The overall description or design of the database that changes very infrequently is called the:",
+    "options": [
+      "Database State",
+      "Snapshot",
+      "Database Schema",
+      "Extension"
+    ],
+    "answer": "Database Schema"
+  },
+  {
+    "type": "true-false",
+    "question": "The Database State is also referred to as the 'Extension' or 'Snapshot' of the database.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "A state where all data follows the structure and rules defined in the schema is known as a:",
+    "options": [
+      "Initial State",
+      "Valid State",
+      "Conceptual State",
+      "Static State"
+    ],
+    "answer": "Valid State"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In the Three-Schema Architecture, which level describes the physical storage structures and access paths?",
+    "options": [
+      "External Schema",
+      "Conceptual Schema",
+      "Internal Schema",
+      "Logical Schema"
+    ],
+    "answer": "Internal Schema"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The capacity to change the Conceptual Schema without changing External Schemas or application programs is called:",
+    "options": [
+      "Physical Data Independence",
+      "Logical Data Independence",
+      "Program-Data Dependence",
+      "Mapping Consistency"
+    ],
+    "answer": "Logical Data Independence"
+  },
+  {
+    "type": "true-false",
+    "question": "Physical Data Independence allows changing the Internal Schema (like adding an index) without affecting the Conceptual Schema.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which language is used by DBAs to specify the database's conceptual schema and structure?",
+    "options": [
+      "DML (Data Manipulation Language)",
+      "DDL (Data Definition Language)",
+      "Host Language",
+      "Scripting Language"
+    ],
+    "answer": "DDL (Data Definition Language)"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "A DML that specifies 'what' data to retrieve without specifying 'how' to retrieve it is called:",
+    "options": [
+      "Procedural DML",
+      "Low-level DML",
+      "High-level (Non-procedural) DML",
+      "Record-at-a-time DML"
+    ],
+    "answer": "High-level (Non-procedural) DML"
+  },
+  {
+    "type": "true-false",
+    "question": "SQL is an example of a high-level, set-oriented (declarative) DML.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which approach to DML integration makes SQL and its data types integral components of the language, such as in PL/SQL?",
+    "options": [
+      "Embedded Approach",
+      "Procedure Call (API) Approach",
+      "Database Programming Language Approach",
+      "Scripting Approach"
+    ],
+    "answer": "Database Programming Language Approach"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Software used to move data from files into the database (including data conversion) is called a:",
+    "options": [
+      "Backup utility",
+      "Loading utility",
+      "Monitoring utility",
+      "Sorting utility"
+    ],
+    "answer": "Loading utility"
+  },
+  {
+    "type": "true-false",
+    "question": "A Data Dictionary stores schema descriptions and is considered 'active' if accessed by both the DBMS software and users.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In a Centralized DBMS architecture, where is the processing performed?",
+    "options": [
+      "At the client's PC",
+      "At the centralized site",
+      "Across multiple distributed nodes",
+      "On the remote terminal hardware"
+    ],
+    "answer": "At the centralized site"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "JDBC and ODBC are examples of which DML integration approach?",
+    "options": [
+      "Embedded SQL",
+      "Procedure Call Approach (APIs)",
+      "Non-procedural approach",
+      "Natural Language approach"
+    ],
+    "answer": "Procedure Call Approach (APIs)"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In a Three-Tier Client-Server Architecture, which tier typically stores the business logic and web connectivity software?",
+    "options": [
+      "Tier 1 (Client)",
+      "Tier 2 (Application/Web Server)",
+      "Tier 3 (Database Server)",
+      "Internal Schema Tier"
+    ],
+    "answer": "Tier 2 (Application/Web Server)"
+  },
+  {
+    "type": "true-false",
+    "question": "A major security advantage of the Three-Tier Architecture is that clients cannot directly access the Database Server.",
+    "answer": "true"
+  }
+]}
