@@ -1,0 +1,208 @@
+{
+            "id": "25",
+            "category": "CPCS-241",
+            "title": "CHAPTER_1",
+            "timeLimit": 3000,
+            "questions": [
+  {
+    "type": "multiple-choice",
+    "question": "Which of the following is considered a 'Traditional' database application?",
+    "options": [
+      "Multimedia databases",
+      "Biological and genome databases",
+      "Numeric and textual databases",
+      "Geographic Information Systems (GIS)"
+    ],
+    "answer": "Numeric and textual databases"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Massive user data such as posts, tweets, and photos are typically managed by:",
+    "options": [
+      "Traditional numeric databases",
+      "Social Networks",
+      "Stand-alone personal databases",
+      "Hierarchical models"
+    ],
+    "answer": "Social Networks"
+  },
+  {
+    "type": "true-false",
+    "question": "NoSQL systems are a type of relational data management technology.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the formal definition of 'Data' in a database context?",
+    "options": [
+      "A collection of related programs",
+      "Known facts that can be recorded and have implicit meaning",
+      "The hardware used to store information",
+      "A set of random characters without meaning"
+    ],
+    "answer": "Known facts that can be recorded and have implicit meaning"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The portion of the real world represented in a database is called the:",
+    "options": [
+      "Metadata",
+      "Mini-world",
+      "Data warehouse",
+      "Cloud storage"
+    ],
+    "answer": "Mini-world"
+  },
+  {
+    "type": "true-false",
+    "question": "A Database System consists of the DBMS software plus the database itself.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the purpose of 'Concurrency Control' in a multi-user database?",
+    "options": [
+      "To prevent the computer from overheating",
+      "To ensure multiple users can update data without errors",
+      "To delete duplicate records automatically",
+      "To speed up the internet connection"
+    ],
+    "answer": "To ensure multiple users can update data without errors"
+  },
+  {
+    "type": "true-false",
+    "question": "Metadata is the description of a particular database stored in the DBMS catalog.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "The ability to change the data structure or storage without changing the access programs is called:",
+    "options": [
+      "Program-data independence",
+      "Data redundancy",
+      "Transaction processing",
+      "Hierarchical modeling"
+    ],
+    "answer": "Program-data independence"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which user category is responsible for authorizing access, monitoring usage, and acquiring resources?",
+    "options": [
+      "Database Designers",
+      "System Analysts",
+      "Database Administrators (DBA)",
+      "Application Programmers"
+    ],
+    "answer": "Database Administrators (DBA)"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Bank tellers and social media users who use 'canned transactions' are categorized as:",
+    "options": [
+      "Casual users",
+      "Naïve / Parametric users",
+      "Sophisticated users",
+      "Stand-alone users"
+    ],
+    "answer": "Naïve / Parametric users"
+  },
+  {
+    "type": "true-false",
+    "question": "Casual end-users access the database occasionally and may need different information each time.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Who is responsible for designing and implementing the DBMS modules and interfaces 'behind the scenes'?",
+    "options": [
+      "System Designers/Implementors",
+      "Tool Developers",
+      "Business Analysts",
+      "Database Designers"
+    ],
+    "answer": "System Designers/Implementors"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the main advantage of 'Redundancy Control'?",
+    "options": [
+      "It allows users to store data in multiple places",
+      "It prevents duplicate data and reduces maintenance effort",
+      "It increases the cost of the database",
+      "It makes the system harder to use"
+    ],
+    "answer": "It prevents duplicate data and reduces maintenance effort"
+  },
+  {
+    "type": "true-false",
+    "question": "Online Transaction Processing (OLTP) supports hundreds of concurrent transactions every second.",
+    "answer": "true"
+  },
+
+  {
+    "type": "multiple-choice",
+    "question": "Which language is commonly used to generate dynamic web pages that interact with databases?",
+    "options": [
+      "Fortran",
+      "Assembly",
+      "PHP or JavaScript",
+      "COBOL"
+    ],
+    "answer": "PHP or JavaScript"
+  },
+  {
+    "type": "true-false",
+    "question": "The Recovery Subsystem ensures that completed transactions are permanently recorded even if the system crashes later.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "A scientist or engineer using a complex software package over a database is considered a:",
+    "options": [
+      "Naïve user",
+      "Sophisticated user",
+      "DBA",
+      "Operator"
+    ],
+    "answer": "Sophisticated user"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "In the University mini-world example, 'STUDENT', 'COURSE', and 'INSTRUCTOR' are examples of:",
+    "options": [
+      "Attributes",
+      "Relationships",
+      "Entities",
+      "Canned Transactions"
+    ],
+    "answer": "Entities"
+  },
+  {
+    "type": "true-false",
+    "question": "Some NoSQL systems are considered self-describing because they store data definitions within the data structure itself.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which feature allows different users to see different subsets of the same database?",
+    "options": [
+      "Data Abstraction",
+      "Support of multiple views",
+      "Concurrency Control",
+      "Normalization"
+    ],
+    "answer": "Support of multiple views"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is the primary role of an Application Programmer?",
+    "options": [
+      "Authorizing new users",
+      "Managing hardware servers",
+      "Implementing and testing applications designed by analysts",
+      "Defining the conceptual data model"
+    ],
+    "answer": "Implementing and testing applications designed by analysts"
+  }
+]}
