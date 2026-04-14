@@ -1,238 +1,94 @@
 {
   "events": [
-
-  {
-    "id": "evt-074",
-    "title": "CPIT-285 Exam",
-    "description": "Location: H2-5",
-    "endTime": "2026-04-15T14:30:00",
-    "type": "exam",
-    "courseCode": "CPIT-285",
-    "section": "all"
-  },
-  {
-    "id": "evt-075",
-    "title": "CPIT-251 Exam",
-    "description": "Location: H1-9",
-    "endTime": "2026-04-15T14:30:00",
-    "type": "exam",
-    "courseCode": "CPIT-251",
-    "section": "all"
-  },
-  {
-    "id": "evt-076",
-    "title": "CPCS-494 Exam",
-    "description": "Location: H1-6",
-    "endTime": "2026-04-15T14:30:00",
-    "type": "exam",
-    "courseCode": "CPCS-494",
-    "section": "all"
-  },
-  {
-    "id": "evt-077",
-    "title": "CPIS-222 Exam",
-    "description": "Location: H2-4 + H2-5",
-    "endTime": "2026-04-15T16:30:00",
-    "type": "exam",
-    "courseCode": "CPIS-222",
-    "section": "all"
-  },
-  {
-    "id": "evt-078",
-    "title": "CPIT-345 Exam",
-    "description": "Location: H1-10",
-    "endTime": "2026-04-15T16:30:00",
-    "type": "exam",
-    "courseCode": "CPIT-345",
-    "section": "all"
-  },
-  {
-    "id": "evt-079",
-    "title": "CPIS-360 Exam",
-    "description": "Location: H1-8",
-    "endTime": "2026-04-16T14:30:00",
-    "type": "exam",
-    "courseCode": "CPIS-360",
-    "section": "all"
-  },
-  {
-    "id": "evt-080",
-    "title": "CPIT-305 Exam",
-    "description": "Location: H2-6 + H2-7",
-    "endTime": "2026-04-16T14:30:00",
-    "type": "exam",
-    "courseCode": "CPIT-305",
-    "section": "all"
-  },
-  {
-    "id": "evt-081",
-    "title": "CPIT-375 Exam",
-    "description": "Location: H1-11",
-    "endTime": "2026-04-16T14:30:00",
-    "type": "exam",
-    "courseCode": "CPIT-375",
-    "section": "all"
-  },
-  {
-    "id": "evt-082",
-    "title": "CPCS-371 Exam",
-    "description": "Location: H2-4",
-    "endTime": "2026-04-16T14:30:00",
-    "type": "exam",
-    "courseCode": "CPCS-371",
-    "section": "all"
-  },
-  {
-    "id": "evt-083",
-    "title": "CPCS-432 Exam",
-    "description": "Location: H1-10",
-    "endTime": "2026-04-16T10:30:00",
-    "type": "exam",
-    "courseCode": "CPCS-432",
-    "section": "all"
-  },
-
-    
     {
-    "id": "evt-060",
-    "title": "STAT-352 Quiz (Students 1-25)",
-    "description": "Section CS2 Quiz",
-    "endTime": "2026-04-21T14:00:00",
-    "type": "quiz",
-    "courseCode": "STAT-352",
-    "section": "CS2"
-  },
-  {
-    "id": "evt-061",
-    "title": "STAT-352 Quiz (Students 26-End)",
-    "description": "Section CS2 Quiz",
-    "endTime": "2026-04-23T14:00:00",
-    "type": "quiz",
-    "courseCode": "STAT-352",
-    "section": "CS2"
-  },
-  {
-    "id": "evt-062",
-    "title": "STAT-352 Exam 2 (Students 1-25)",
-    "description": "Section CS2 Exam",
-    "endTime": "2026-04-26T14:00:00",
-    "type": "exam",
-    "courseCode": "STAT-352",
-    "section": "CS2"
-  },
-  {
-    "id": "evt-063",
-    "title": "STAT-352 Exam 2 (Students 26-End)",
-    "description": "Section CS2 Exam",
-    "endTime": "2026-04-28T14:00:00",
-    "type": "exam",
-    "courseCode": "STAT-352",
-    "section": "CS2"
-  },
-    {
-  "id": "evt-084",
-  "title": "CPCS-241 Project Submission",
-  "description": "Final Project Delivery",
-  "endTime": "2026-05-02T23:59:59",
-  "type": "project",
-  "courseCode": "CPCS-241",
-  "section": "ALL"
-},
-    {
-  "id": "evt-085",
-  "title": "CPCS-223 Assignment 02",
-  "description": "Assignment Submission",
-  "endTime": "2026-04-19T10:00:00",
-  "type": "assignment",
-  "courseCode": "CPCS-223",
-  "section": "ALL"
-},
-
-
-
-
-
-    
-  {
-    "id": "evt-086",
-    "title": "April  (ذو القعدة)",
-    "description": "",
-    "endTime": "2026-04-26T23:59:59",
-    "type": "event",
-    "courseCode": "MONEY",
-    "section": "ALL"
-  },
-  {
-    "id": "evt-087",
-    "title": "May  (ذو الحجة)",
-    "description": "",
-    "endTime": "2026-05-27T23:59:59",
-    "type": "event",
-    "courseCode": "MONEY",
-    "section": "ALL"
-  },
-  {
-    "id": "evt-088",
-    "title": "June  (محرم)",
-    "description": "",
-    "endTime": "2026-06-28T23:59:59",
-    "type": "event",
-    "courseCode": "MONEY",
-    "section": "ALL"
-  },
-  {
-    "id": "evt-089",
-    "title": "July  (صفر)",
-    "description": "",
-    "endTime": "2026-07-27T23:59:59",
-    "type": "event",
-    "courseCode": "MONEY",
-    "section": "ALL"
-  },
-  {
-    "id": "evt-090",
-    "title": "August  (ربيع الاول)",
-    "description": "",
-    "endTime": "2026-08-27T23:59:59",
-    "type": "event",
-    "courseCode": "MONEY",
-    "section": "ALL"
-  },
-  {
-    "id": "evt-091",
-    "title": "September  (ربيع الثاني)",
-    "description": "",
-    "endTime": "2026-09-27T23:59:59",
-    "type": "event",
-    "courseCode": "MONEY",
-    "section": "ALL"
-  },
-  {
-    "id": "evt-092",
-    "title": "October  (جماد الاول)",
-    "description": "",
-    "endTime": "2026-10-27T23:59:59",
-    "type": "event",
-    "courseCode": "MONEY",
-    "section": "ALL"
-  },
-     {
-      "id": "evt-093",
-      "title": "CPCS-301 Quiz 2",
-      "description": "Quiz 2 (details not confirmed)",
-      "endTime": "2026-04-20T16:00:00",
-      "type": "quiz",
-      "courseCode": "CPCS-301",
+      "id": "evt-074",
+      "title": "CPIT-285 Exam",
+      "description": "Location: H2-5",
+      "endTime": "2026-04-15T14:30:00",
+      "type": "exam",
+      "courseCode": "CPIT-285",
       "section": "all"
     },
     {
-      "id": "evt-094",
-      "title": "CPCS-241 Lab Due",
-      "description": "Lab submission deadline",
-      "endTime": "2026-04-18T23:59:00",
-      "type": "LAB",
-      "courseCode": "CPCS-241",
-      "section": "CS2"
+      "id": "evt-075",
+      "title": "CPIT-251 Exam",
+      "description": "Location: H1-9",
+      "endTime": "2026-04-15T14:30:00",
+      "type": "exam",
+      "courseCode": "CPIT-251",
+      "section": "all"
+    },
+    {
+      "id": "evt-076",
+      "title": "CPCS-494 Exam",
+      "description": "Location: H1-6",
+      "endTime": "2026-04-15T14:30:00",
+      "type": "exam",
+      "courseCode": "CPCS-494",
+      "section": "all"
+    },
+    {
+      "id": "evt-077",
+      "title": "CPIS-222 Exam",
+      "description": "Location: H2-4 + H2-5",
+      "endTime": "2026-04-15T16:30:00",
+      "type": "exam",
+      "courseCode": "CPIS-222",
+      "section": "all"
+    },
+    {
+      "id": "evt-078",
+      "title": "CPIT-345 Exam",
+      "description": "Location: H1-10",
+      "endTime": "2026-04-15T16:30:00",
+      "type": "exam",
+      "courseCode": "CPIT-345",
+      "section": "all"
+    },
+    {
+      "id": "evt-079",
+      "title": "CPIS-360 Exam",
+      "description": "Location: H1-8",
+      "endTime": "2026-04-16T14:30:00",
+      "type": "exam",
+      "courseCode": "CPIS-360",
+      "section": "all"
+    },
+    {
+      "id": "evt-080",
+      "title": "CPIT-305 Exam",
+      "description": "Location: H2-6 + H2-7",
+      "endTime": "2026-04-16T14:30:00",
+      "type": "exam",
+      "courseCode": "CPIT-305",
+      "section": "all"
+    },
+    {
+      "id": "evt-081",
+      "title": "CPIT-375 Exam",
+      "description": "Location: H1-11",
+      "endTime": "2026-04-16T14:30:00",
+      "type": "exam",
+      "courseCode": "CPIT-375",
+      "section": "all"
+    },
+    {
+      "id": "evt-082",
+      "title": "CPCS-371 Exam",
+      "description": "Location: H2-4",
+      "endTime": "2026-04-16T14:30:00",
+      "type": "exam",
+      "courseCode": "CPCS-371",
+      "section": "all"
+    },
+    {
+      "id": "evt-083",
+      "title": "CPCS-432 Exam",
+      "description": "Location: H1-10",
+      "endTime": "2026-04-16T10:30:00",
+      "type": "exam",
+      "courseCode": "CPCS-432",
+      "section": "all"
     },
     {
       "id": "evt-095",
@@ -244,6 +100,51 @@
       "section": "CS2"
     },
     {
+      "id": "evt-094",
+      "title": "CPCS-241 Lab Due",
+      "description": "Lab submission deadline",
+      "endTime": "2026-04-18T23:59:00",
+      "type": "LAB",
+      "courseCode": "CPCS-241",
+      "section": "CS2"
+    },
+    {
+      "id": "evt-085",
+      "title": "CPCS-223 Assignment 02",
+      "description": "Assignment Submission",
+      "endTime": "2026-04-19T10:00:00",
+      "type": "assignment",
+      "courseCode": "CPCS-223",
+      "section": "ALL"
+    },
+    {
+      "id": "evt-093",
+      "title": "CPCS-301 Quiz 2",
+      "description": "Quiz 2 (details not confirmed)",
+      "endTime": "2026-04-20T16:00:00",
+      "type": "quiz",
+      "courseCode": "CPCS-301",
+      "section": "all"
+    },
+    {
+      "id": "evt-060",
+      "title": "STAT-352 Quiz (Students 1-25)",
+      "description": "Section CS2 Quiz",
+      "endTime": "2026-04-21T14:00:00",
+      "type": "quiz",
+      "courseCode": "STAT-352",
+      "section": "CS2"
+    },
+    {
+      "id": "evt-061",
+      "title": "STAT-352 Quiz (Students 26-End)",
+      "description": "Section CS2 Quiz",
+      "endTime": "2026-04-23T14:00:00",
+      "type": "quiz",
+      "courseCode": "STAT-352",
+      "section": "CS2"
+    },
+    {
       "id": "evt-096",
       "title": "CPCS-214 Lab #08 Due",
       "description": "Lab #08 Due Date",
@@ -251,6 +152,96 @@
       "type": "LAB",
       "courseCode": "CPCS-214",
       "section": "CS2"
+    },
+    {
+      "id": "evt-062",
+      "title": "STAT-352 Exam 2 (Students 1-25)",
+      "description": "Section CS2 Exam",
+      "endTime": "2026-04-26T14:00:00",
+      "type": "exam",
+      "courseCode": "STAT-352",
+      "section": "CS2"
+    },
+    {
+      "id": "evt-086",
+      "title": "April  (ذو القعدة)",
+      "description": "",
+      "endTime": "2026-04-26T23:59:59",
+      "type": "event",
+      "courseCode": "MONEY",
+      "section": "ALL"
+    },
+    {
+      "id": "evt-063",
+      "title": "STAT-352 Exam 2 (Students 26-End)",
+      "description": "Section CS2 Exam",
+      "endTime": "2026-04-28T14:00:00",
+      "type": "exam",
+      "courseCode": "STAT-352",
+      "section": "CS2"
+    },
+    {
+      "id": "evt-084",
+      "title": "CPCS-241 Project Submission",
+      "description": "Final Project Delivery",
+      "endTime": "2026-05-02T23:59:59",
+      "type": "project",
+      "courseCode": "CPCS-241",
+      "section": "ALL"
+    },
+    {
+      "id": "evt-087",
+      "title": "May  (ذو الحجة)",
+      "description": "",
+      "endTime": "2026-05-27T23:59:59",
+      "type": "event",
+      "courseCode": "MONEY",
+      "section": "ALL"
+    },
+    {
+      "id": "evt-088",
+      "title": "June  (محرم)",
+      "description": "",
+      "endTime": "2026-06-28T23:59:59",
+      "type": "event",
+      "courseCode": "MONEY",
+      "section": "ALL"
+    },
+    {
+      "id": "evt-089",
+      "title": "July  (صفر)",
+      "description": "",
+      "endTime": "2026-07-27T23:59:59",
+      "type": "event",
+      "courseCode": "MONEY",
+      "section": "ALL"
+    },
+    {
+      "id": "evt-090",
+      "title": "August  (ربيع الاول)",
+      "description": "",
+      "endTime": "2026-08-27T23:59:59",
+      "type": "event",
+      "courseCode": "MONEY",
+      "section": "ALL"
+    },
+    {
+      "id": "evt-091",
+      "title": "September  (ربيع الثاني)",
+      "description": "",
+      "endTime": "2026-09-27T23:59:59",
+      "type": "event",
+      "courseCode": "MONEY",
+      "section": "ALL"
+    },
+    {
+      "id": "evt-092",
+      "title": "October  (جماد الاول)",
+      "description": "",
+      "endTime": "2026-10-27T23:59:59",
+      "type": "event",
+      "courseCode": "MONEY",
+      "section": "ALL"
     }
   ]
 }
