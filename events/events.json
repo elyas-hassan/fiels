@@ -1,104 +1,6 @@
 {
   "events": [
-    {
-      "id": "evt-074",
-      "title": "CPIT-285 Exam",
-      "description": "Location: H2-5",
-      "endTime": "2026-04-15T14:30:00",
-      "type": "exam",
-      "courseCode": "CPIT-285",
-      "section": "all"
-    },
-    {
-      "id": "evt-075",
-      "title": "CPIT-251 Exam",
-      "description": "Location: H1-9",
-      "endTime": "2026-04-15T14:30:00",
-      "type": "exam",
-      "courseCode": "CPIT-251",
-      "section": "all"
-    },
-    {
-      "id": "evt-076",
-      "title": "CPCS-494 Exam",
-      "description": "Location: H1-6",
-      "endTime": "2026-04-15T14:30:00",
-      "type": "exam",
-      "courseCode": "CPCS-494",
-      "section": "all"
-    },
-    {
-      "id": "evt-077",
-      "title": "CPIS-222 Exam",
-      "description": "Location: H2-4 + H2-5",
-      "endTime": "2026-04-15T16:30:00",
-      "type": "exam",
-      "courseCode": "CPIS-222",
-      "section": "all"
-    },
-    {
-      "id": "evt-078",
-      "title": "CPIT-345 Exam",
-      "description": "Location: H1-10",
-      "endTime": "2026-04-15T16:30:00",
-      "type": "exam",
-      "courseCode": "CPIT-345",
-      "section": "all"
-    },
-    {
-      "id": "evt-079",
-      "title": "CPIS-360 Exam",
-      "description": "Location: H1-8",
-      "endTime": "2026-04-16T14:30:00",
-      "type": "exam",
-      "courseCode": "CPIS-360",
-      "section": "all"
-    },
-    {
-      "id": "evt-080",
-      "title": "CPIT-305 Exam",
-      "description": "Location: H2-6 + H2-7",
-      "endTime": "2026-04-16T14:30:00",
-      "type": "exam",
-      "courseCode": "CPIT-305",
-      "section": "all"
-    },
-    {
-      "id": "evt-081",
-      "title": "CPIT-375 Exam",
-      "description": "Location: H1-11",
-      "endTime": "2026-04-16T14:30:00",
-      "type": "exam",
-      "courseCode": "CPIT-375",
-      "section": "all"
-    },
-    {
-      "id": "evt-082",
-      "title": "CPCS-371 Exam",
-      "description": "Location: H2-4",
-      "endTime": "2026-04-16T14:30:00",
-      "type": "exam",
-      "courseCode": "CPCS-371",
-      "section": "all"
-    },
-    {
-      "id": "evt-083",
-      "title": "CPCS-432 Exam",
-      "description": "Location: H1-10",
-      "endTime": "2026-04-16T10:30:00",
-      "type": "exam",
-      "courseCode": "CPCS-432",
-      "section": "all"
-    },
-    {
-      "id": "evt-095",
-      "title": "CPCS-214 Lab #07 Due",
-      "description": "Lab #07 Due Date",
-      "endTime": "2026-04-16T23:59:00",
-      "type": "LAB",
-      "courseCode": "CPCS-214",
-      "section": "CS2"
-    },
+  
     {
       "id": "evt-094",
       "title": "CPCS-241 Lab Due",
@@ -171,6 +73,15 @@
       "courseCode": "MONEY",
       "section": "ALL"
     },
+    {
+  "id": "evt-097",
+  "title": "CPCS-301 Lab Exam 1",
+  "description": "Lab Exam 1 (5 marks) during scheduled lab | No make-up session",
+  "endTime": "2026-04-27T21:00:00",
+  "type": "exam",
+  "courseCode": "CPCS-301",
+  "section": "all"
+},
     {
       "id": "evt-063",
       "title": "STAT-352 Exam 2 (Students 26-End)",
