@@ -1,33 +1,7 @@
 {
   "events": [
   
-    {
-      "id": "evt-094",
-      "title": "CPCS-241 Lab Due",
-      "description": "Lab submission deadline",
-      "endTime": "2026-04-18T23:59:00",
-      "type": "LAB",
-      "courseCode": "CPCS-241",
-      "section": "CS2"
-    },
-    {
-      "id": "evt-085",
-      "title": "CPCS-223 Assignment 02",
-      "description": "Assignment Submission",
-      "endTime": "2026-04-19T10:00:00",
-      "type": "assignment",
-      "courseCode": "CPCS-223",
-      "section": "ALL"
-    },
-    {
-      "id": "evt-093",
-      "title": "CPCS-301 Quiz 2",
-      "description": "Quiz 2 (details not confirmed)",
-      "endTime": "2026-04-20T16:00:00",
-      "type": "quiz",
-      "courseCode": "CPCS-301",
-      "section": "all"
-    },
+   
     {
       "id": "evt-060",
       "title": "STAT-352 Quiz (Students 1-25)",
