@@ -1,16 +1,6 @@
 {
   "events": [
-  
-   
-    {
-      "id": "evt-060",
-      "title": "STAT-352 Quiz (Students 1-25)",
-      "description": "Section CS2 Quiz",
-      "endTime": "2026-04-21T14:00:00",
-      "type": "quiz",
-      "courseCode": "STAT-352",
-      "section": "CS2"
-    },
+
     {
       "id": "evt-061",
       "title": "STAT-352 Quiz (Students 26-End)",
@@ -127,6 +117,33 @@
       "type": "event",
       "courseCode": "MONEY",
       "section": "ALL"
+    },
+    {
+      "id": "evt-098",
+      "title": "CPCS-241 Lab 8 Due",
+      "description": "Lab 8 submission deadline",
+      "endTime": "2026-04-26T23:59:00",
+      "type": "assignment",
+      "courseCode": "CPCS-241",
+      "section": "CS2"
+    },
+    {
+      "id": "evt-099",
+      "title": "CPCS-301 Group Project Form Due",
+      "description": "Group project (20%) form submission deadline",
+      "endTime": "2026-05-20T23:59:00",
+      "type": "assignment",
+      "courseCode": "CPCS-301",
+      "section": "all"
+    },
+    {
+      "id": "evt-100",
+      "title": "CPCS-214 Lab Simulation",
+      "description": "Practice / simulation for final lab exam",
+      "endTime": "2026-04-29T18:00:00",
+      "type": "exam",
+      "courseCode": "CPCS-214",
+      "section": "CS2"
     }
   ]
 }
