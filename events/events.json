@@ -56,6 +56,15 @@
       "section": "CS2"
     },
     {
+  "id": "evt-101",
+  "title": "CPCS-214 Assignment #2 Due",
+  "description": "Assignment #2 submission deadline",
+  "endTime": "2026-05-02T23:59:00",
+  "type": "assignment",
+  "courseCode": "CPCS-214",
+  "section": "all"
+},
+    {
       "id": "evt-084",
       "title": "CPCS-241 Project Submission",
       "description": "Final Project Delivery",
