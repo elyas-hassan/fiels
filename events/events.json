@@ -2,15 +2,6 @@
   "events": [
 
     {
-      "id": "evt-061",
-      "title": "STAT-352 Quiz (Students 26-End)",
-      "description": "Section CS2 Quiz",
-      "endTime": "2026-04-23T14:00:00",
-      "type": "quiz",
-      "courseCode": "STAT-352",
-      "section": "CS2"
-    },
-    {
       "id": "evt-096",
       "title": "CPCS-214 Lab #08 Due",
       "description": "Lab #08 Due Date",
@@ -21,7 +12,7 @@
     },
     {
       "id": "evt-062",
-      "title": "STAT-352 Exam 2 (Students 1-25)",
+      "title": "STAT-352 Exam 2 (Students 26-end)",
       "description": "Section CS2 Exam",
       "endTime": "2026-04-26T14:00:00",
       "type": "exam",
@@ -48,7 +39,7 @@
 },
     {
       "id": "evt-063",
-      "title": "STAT-352 Exam 2 (Students 26-End)",
+      "title": "STAT-352 Exam 2 (Students 1-25)",
       "description": "Section CS2 Exam",
       "endTime": "2026-04-28T14:00:00",
       "type": "exam",
