@@ -1,33 +1,7 @@
 {
   "events": [
 
-    {
-      "id": "evt-096",
-      "title": "CPCS-214 Lab #08 Due",
-      "description": "Lab #08 Due Date",
-      "endTime": "2026-04-23T23:59:00",
-      "type": "LAB",
-      "courseCode": "CPCS-214",
-      "section": "CS2"
-    },
-    {
-      "id": "evt-062",
-      "title": "STAT-352 Exam 2 (Students 26-end)",
-      "description": "Section CS2 Exam",
-      "endTime": "2026-04-26T14:00:00",
-      "type": "exam",
-      "courseCode": "STAT-352",
-      "section": "CS2"
-    },
-    {
-      "id": "evt-086",
-      "title": "April  (ذو القعدة)",
-      "description": "",
-      "endTime": "2026-04-26T23:59:59",
-      "type": "event",
-      "courseCode": "MONEY",
-      "section": "ALL"
-    },
+
     {
   "id": "evt-097",
   "title": "CPCS-301 Lab Exam 1",
