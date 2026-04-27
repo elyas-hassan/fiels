@@ -1,5 +1,14 @@
 {
   "events": [
+        {
+      "id": "evt-087",
+      "title": "May  (ذو الحجة)",
+      "description": "",
+      "endTime": "2026-05-27T23:59:59",
+      "type": "event",
+      "courseCode": "MONEY",
+      "section": "ALL"
+    },
 
 
     {
@@ -47,15 +56,7 @@
       "courseCode": "CPCS-241",
       "section": "ALL"
     },
-    {
-      "id": "evt-087",
-      "title": "May  (ذو الحجة)",
-      "description": "",
-      "endTime": "2026-05-27T23:59:59",
-      "type": "event",
-      "courseCode": "MONEY",
-      "section": "ALL"
-    },
+
     {
       "id": "evt-088",
       "title": "June  (محرم)",
