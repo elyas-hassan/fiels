@@ -26,7 +26,7 @@
   "id": "evt-101",
   "title": "CPCS-214 Assignment #2 Due",
   "description": "Assignment #2 submission deadline",
-  "endTime": "2026-05-02T23:59:00",
+  "endTime": "2026-05-04T23:59:00",
   "type": "assignment",
   "courseCode": "CPCS-214",
   "section": "all"
@@ -148,6 +148,15 @@
       "type": "quiz",
       "courseCode": "STAT-352",
       "section": "CS4"
-    }
+    },
+    {
+  "id": "evt-107",
+  "title": "CPCS-241 Lab 9 Due",
+  "description": "Lab 9 submission deadline",
+  "endTime": "2026-05-03T23:59:00",
+  "type": "assignment",
+  "courseCode": "CPCS-241",
+  "section": "CS2"
+}
   ]
 }
