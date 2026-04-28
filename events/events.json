@@ -11,24 +11,8 @@
     },
 
 
-    {
-  "id": "evt-097",
-  "title": "CPCS-301 Lab Exam 1",
-  "description": "Lab Exam 1 (5 marks) during scheduled lab | No make-up session",
-  "endTime": "2026-04-27T21:00:00",
-  "type": "exam",
-  "courseCode": "CPCS-301",
-  "section": "all"
-},
-    {
-      "id": "evt-063",
-      "title": "STAT-352 Exam 2 (Students 1-25)",
-      "description": "Section CS2 Exam",
-      "endTime": "2026-04-28T14:00:00",
-      "type": "exam",
-      "courseCode": "STAT-352",
-      "section": "CS2"
-    },
+
+
     {
   "id": "evt-102",
   "title": "CPCS-223 Assignment 03 Due",
@@ -128,6 +112,42 @@
       "type": "exam",
       "courseCode": "CPCS-214",
       "section": "CS2"
+    },
+    {
+      "id": "evt-103",
+      "title": "CPCS-223 Quiz 2",
+      "description": "Online via Blackboard | Duration: 20 min | Topics: Brute Force, Exhaustive Search, Decrease-and-Conquer",
+      "endTime": "2026-05-04T21:50:00",
+      "type": "quiz",
+      "courseCode": "CPCS-223",
+      "section": "all"
+    },
+    {
+      "id": "evt-104",
+      "title": "CPCS-223 Group Project Due",
+      "description": "Group project submission deadline",
+      "endTime": "2026-05-12T23:59:00",
+      "type": "assignment",
+      "courseCode": "CPCS-223",
+      "section": "all"
+    },
+    {
+      "id": "evt-105",
+      "title": "STAT-352 Quiz (Group 1)",
+      "description": "Section CS4 Quiz",
+      "endTime": "2026-05-05T14:00:00",
+      "type": "quiz",
+      "courseCode": "STAT-352",
+      "section": "CS4"
+    },
+    {
+      "id": "evt-106",
+      "title": "STAT-352 Quiz (Group 2)",
+      "description": "Section CS4 Quiz",
+      "endTime": "2026-05-07T14:00:00",
+      "type": "quiz",
+      "courseCode": "STAT-352",
+      "section": "CS4"
     }
   ]
 }
