@@ -1,33 +1,6 @@
 {
   "events": [
     {
-      "id": "evt-098",
-      "title": "CPCS-241 Lab 8 Due",
-      "description": "Lab 8 submission deadline",
-      "endTime": "2026-04-26T23:59:00",
-      "type": "assignment",
-      "courseCode": "CPCS-241",
-      "section": "CS2"
-    },
-    {
-      "id": "evt-100",
-      "title": "CPCS-214 Lab Simulation",
-      "description": "Practice / simulation for final lab exam",
-      "endTime": "2026-04-29T18:00:00",
-      "type": "exam",
-      "courseCode": "CPCS-214",
-      "section": "CS2"
-    },
-    {
-      "id": "evt-102",
-      "title": "CPCS-223 Assignment 03 Due",
-      "description": "Assignment 03 submission deadline - Spring 2026",
-      "endTime": "2026-04-30T10:00:00",
-      "type": "assignment",
-      "courseCode": "CPCS-223",
-      "section": "all"
-    },
-    {
       "id": "evt-084",
       "title": "CPCS-241 Project Submission",
       "description": "Final Project Delivery",
@@ -72,6 +45,15 @@
       "courseCode": "STAT-352",
       "section": "CS4"
     },
+    {
+  "id": "evt-108",
+  "title": "CPCS-301 Quiz 2",
+  "description": "Online via Blackboard | Chapters 5–8 | No makeup quiz",
+  "endTime": "2026-05-07T21:00:00",
+  "type": "quiz",
+  "courseCode": "CPCS-301",
+  "section": "all"
+},
     {
       "id": "evt-106",
       "title": "STAT-352 Quiz (Group 2)",
