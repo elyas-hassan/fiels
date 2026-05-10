@@ -1,60 +1,7 @@
 {
   "events": [
 
-    {
-      "id": "evt-107",
-      "title": "CPCS-241 Lab 9 Due",
-      "description": "Lab 9 submission deadline",
-      "endTime": "2026-05-03T23:59:00",
-      "type": "assignment",
-      "courseCode": "CPCS-241",
-      "section": "CS2"
-    },
-    {
-      "id": "evt-101",
-      "title": "CPCS-214 Assignment #2 Due",
-      "description": "Assignment #2 submission deadline",
-      "endTime": "2026-05-09T23:59:00",
-      "type": "assignment",
-      "courseCode": "CPCS-214",
-      "section": "all"
-    },
-    {
-      "id": "evt-103",
-      "title": "CPCS-223 Quiz 2",
-      "description": "Online via Blackboard | Duration: 20 min | Topics: Brute Force, Exhaustive Search, Decrease-and-Conquer",
-      "endTime": "2026-05-04T21:30:00",
-      "type": "quiz",
-      "courseCode": "CPCS-223",
-      "section": "all"
-    },
-    {
-      "id": "evt-105",
-      "title": "STAT-352 Quiz (Group 1)",
-      "description": "Section CS4 Quiz",
-      "endTime": "2026-05-05T14:00:00",
-      "type": "quiz",
-      "courseCode": "STAT-352",
-      "section": "CS4"
-    },
-    {
-  "id": "evt-108",
-  "title": "CPCS-301 Quiz 2",
-  "description": "Online via Blackboard | Chapters 5–8 | No makeup quiz",
-  "endTime": "2026-05-07T21:00:00",
-  "type": "quiz",
-  "courseCode": "CPCS-301",
-  "section": "all"
-},
-    {
-      "id": "evt-106",
-      "title": "STAT-352 Quiz (Group 2)",
-      "description": "Section CS4 Quiz",
-      "endTime": "2026-05-07T14:00:00",
-      "type": "quiz",
-      "courseCode": "STAT-352",
-      "section": "CS4"
-    },
+
     {
       "id": "evt-104",
       "title": "CPCS-223 Group Project Due",
@@ -64,6 +11,15 @@
       "courseCode": "CPCS-223",
       "section": "all"
     },
+    {
+  "id": "evt-109",
+  "title": "CPCS-241 Assignment 2 Due",
+  "description": "Assignment 2 submission deadline",
+  "endTime": "2026-05-16T23:59:00",
+  "type": "assignment",
+  "courseCode": "CPCS-241",
+  "section": "all"
+},
     {
       "id": "evt-099",
       "title": "CPCS-301 Group Project Form Due",
