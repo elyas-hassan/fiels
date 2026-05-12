@@ -21,6 +21,24 @@
   "section": "all"
 },
     {
+      "id": "evt-110",
+      "title": "CPCS-301 Final Lab Exam",
+      "description": "Final Lab Exam (15%) via Blackboard | Covers Labs 1–12",
+      "endTime": "2026-05-18T22:30:00",
+      "type": "exam",
+      "courseCode": "CPCS-301",
+      "section": "all"
+    },
+    {
+      "id": "evt-111",
+      "title": "CPCS-301 Group Project Presentation",
+      "description": "Online via Blackboard during class time | 7-minute presentation per group",
+      "endTime": "2026-05-19T12:00:00",
+      "type": "presentation",
+      "courseCode": "CPCS-301",
+      "section": "all"
+    }
+    {
       "id": "evt-099",
       "title": "CPCS-301 Group Project Form Due",
       "description": "Group project (20%) form submission deadline",
