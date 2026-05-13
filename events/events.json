@@ -22,10 +22,10 @@
     },
     {
       "id": "evt-114",
-      "title": "CPCS-214 Final Lab (Tentative)",
+      "title": "CPCS-214 Final Lab (not sure yet)",
       "description": "Final lab exam (not fully confirmed schedule)",
-      "startTime": "2026-05-20T10:00:00",
-      "endTime": "2026-05-20T12:00:00",
+      "startTime": "2026-05-18T10:00:00",
+      "endTime": "2026-05-18T12:00:00",
       "type": "exam",
       "courseCode": "CPCS-214",
       "section": "all"
