@@ -126,6 +126,16 @@
       "section": "all"
     },
 
+    {
+  "id": "evt-208",
+  "title": "STAT-352 Final Exam",
+  "description": "04:30 - 06:30",
+  "endTime": "2026-06-02T18:30:00",
+  "type": "exam",
+  "courseCode": "STAT-352",
+  "section": "CS4"
+}
+
 
 
     {
