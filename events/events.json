@@ -1,15 +1,6 @@
 {
   "events": [
-    {
-      "id": "evt-112",
-      "title": "CPCS-223 Group Project Presentations Day 1",
-      "description": "Mon 18/05/2026 | Slots: 09:15, 09:30, 09:45, 10:00, 10:15",
-      "startTime": "2026-05-18T09:15:00",
-      "endTime": "2026-05-18T10:15:00",
-      "type": "presentation",
-      "courseCode": "CPCS-223",
-      "section": "all"
-    },
+
     {
       "id": "evt-113",
       "title": "CPCS-223 Group Project Presentations Day 2",
@@ -20,36 +11,8 @@
       "courseCode": "CPCS-223",
       "section": "all"
     },
-{
-  "id": "evt-114",
-  "title": "CPCS-214 Final Lab Exam",
-  "description": "from 11:00am to 12:20pm | Building 471 | Labs 311 & 317 | Students must use lab PCs | Covers regular labs, theory, and assignments | Phones, smart devices, and GenAI/LLM tools are prohibited",
-  "startTime": "2026-05-18T11:00:00",
-  "endTime": "2026-05-18T12:20:00",
-  "type": "exam",
-  "courseCode": "CPCS-214",
-  "section": "all"
-},
 
 
-    {
-      "id": "evt-104",
-      "title": "CPCS-223 Group Project Due",
-      "description": "Group project submission deadline",
-      "endTime": "2026-05-14T23:59:00",
-      "type": "assignment",
-      "courseCode": "CPCS-223",
-      "section": "all"
-    },
-    {
-  "id": "evt-109",
-  "title": "CPCS-241 Assignment 2 Due",
-  "description": "Assignment 2 submission deadline",
-  "endTime": "2026-05-16T23:59:00",
-  "type": "assignment",
-  "courseCode": "CPCS-241",
-  "section": "all"
-},
     {
       "id": "evt-110",
       "title": "CPCS-301 Final Lab Exam",
@@ -117,15 +80,6 @@
       "section": "all"
     },
     {
-      "id": "evt-133",
-      "title": "CPIS-312 Exam",
-      "description": "11:00 - 13:00",
-      "endTime": "2026-06-02T13:00:00",
-      "type": "exam",
-      "courseCode": "CPIS-312",
-      "section": "all"
-    },
-    {
       "id": "evt-134",
       "title": "CPIS-241 Exam",
       "description": "11:00 - 13:00",
@@ -159,6 +113,16 @@
       "endTime": "2026-06-02T15:30:00",
       "type": "exam",
       "courseCode": "CPIT-221",
+      "section": "all"
+    },
+    
+    {
+      "id": "evt-133",
+      "title": "CPIS-312 Exam",
+      "description": "13:30 - 15:30",
+      "endTime": "2026-06-02T15:30:00",
+      "type": "exam",
+      "courseCode": "CPIS-312",
       "section": "all"
     },
 
@@ -318,6 +282,15 @@
       "section": "all"
     },
     {
+      "id": "evt-159",
+      "title": "CPIS-250 Exam",
+     "description": "08:30 - 10:30",
+      "endTime": "2026-06-07T10:30:00",
+      "type": "exam",
+      "courseCode": "CPIS-250",
+      "section": "all"
+    },
+    {
       "id": "evt-154",
       "title": "CPIT-240 Exam",
       "description": "11:00 - 13:00",
@@ -347,12 +320,14 @@
     {
       "id": "evt-157",
       "title": "CPIS-351 Exam",
-      "description": "13:30 - 15:30",
-      "endTime": "2026-06-07T15:30:00",
+      "description": "11:00 - 13:00",
+      "endTime": "2026-06-07T13:00:00",
       "type": "exam",
       "courseCode": "CPIS-351",
       "section": "all"
     },
+
+    
     {
       "id": "evt-158",
       "title": "CPIS-352 Exam",
@@ -362,15 +337,7 @@
       "courseCode": "CPIS-352",
       "section": "all"
     },
-    {
-      "id": "evt-159",
-      "title": "CPIS-250 Exam",
-      "description": "13:30 - 15:30",
-      "endTime": "2026-06-07T15:30:00",
-      "type": "exam",
-      "courseCode": "CPIS-250",
-      "section": "all"
-    },
+
     {
       "id": "evt-160",
       "title": "CPIT-280 Exam",
@@ -383,6 +350,7 @@
 
 
 
+    
     {
       "id": "evt-161",
       "title": "CPIT-435 Exam",
@@ -395,25 +363,18 @@
 
 
 
-
-       {
-      "id": "evt-162",
-      "title": "CPIS-434 Exam",
-      "description": "08:30 - 10:30",
-      "endTime": "2026-06-09T10:30:00",
-      "type": "exam",
-      "courseCode": "CPIS-434",
-      "section": "all"
-    },
+    
     {
       "id": "evt-163",
       "title": "CPCS-361 Exam",
-      "description": "11:00 - 13:00",
-      "endTime": "2026-06-09T13:00:00",
+      "description": "08:30 - 10:30",
+      "endTime": "2026-06-09T10:30:00",
       "type": "exam",
       "courseCode": "CPCS-361",
       "section": "all"
     },
+
+    
     {
       "id": "evt-164",
       "title": "CPCS-405 Exam",
@@ -432,6 +393,8 @@
       "courseCode": "CPIT-330",
       "section": "all"
     },
+
+    
     {
       "id": "evt-166",
       "title": "CPCS-241 Exam",
@@ -450,7 +413,15 @@
       "courseCode": "CPIS-220",
       "section": "all"
     },
-
+    {
+      "id": "evt-162",
+      "title": "CPIS-434 Exam",
+      "description": "13:30 - 15:30",
+      "endTime": "2026-06-09T15:30:00",
+      "type": "exam",
+      "courseCode": "CPIS-434",
+      "section": "all"
+    },
 
 
 
@@ -464,6 +435,8 @@
       "courseCode": "CPIT-201",
       "section": "all"
     },
+
+    
     {
       "id": "evt-169",
       "title": "CPIT-490 Exam",
@@ -530,6 +503,9 @@
       "courseCode": "CPIT-345",
       "section": "all"
     },
+
+
+    
     {
       "id": "evt-176",
       "title": "CPCS-335 Final Lab",
@@ -539,6 +515,9 @@
       "courseCode": "CPCS-335",
       "section": "all"
     },
+
+
+    
     {
       "id": "evt-177",
       "title": "CPCS-211 Exam",
@@ -600,6 +579,8 @@
       "courseCode": "CPIS-320",
       "section": "all"
     },
+
+    
     {
       "id": "evt-183",
       "title": "CPIS-334 Exam",
@@ -618,6 +599,9 @@
       "courseCode": "CPCS-336",
       "section": "all"
     },
+
+
+    
     {
       "id": "evt-185",
       "title": "CPCS-463 Exam",
@@ -660,6 +644,9 @@
       "courseCode": "CPIT-380",
       "section": "all"
     },
+
+
+    
     {
       "id": "evt-189",
       "title": "CPIS-222 Exam",
@@ -671,6 +658,8 @@
     },
 
 
+
+    
     {
       "id": "evt-190",
       "title": "CPCS-432 Exam",
@@ -707,6 +696,9 @@
       "courseCode": "CPIT-470",
       "section": "all"
     },
+
+
+    
     {
       "id": "evt-194",
       "title": "CPCS-425 Exam",
@@ -725,6 +717,9 @@
       "courseCode": "CPIS-360",
       "section": "all"
     },
+
+
+    
     {
       "id": "evt-196",
       "title": "CPCS-324 Exam",
@@ -794,6 +789,9 @@
       "courseCode": "CPIT-475",
       "section": "all"
     },
+
+
+    
     {
       "id": "evt-202",
       "title": "CPIS-382 Exam",
@@ -812,6 +810,9 @@
       "courseCode": "CPIT-440",
       "section": "all"
     },
+
+    
+    
     {
       "id": "evt-204",
       "title": "CPCS-222 Exam",
