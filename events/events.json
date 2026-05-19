@@ -1,36 +1,18 @@
 {
   "events": [
 
-    {
-      "id": "evt-113",
-      "title": "CPCS-223 Group Project Presentations Day 2",
-      "description": "Tue 19/05/2026 | Slots: 08:00, 08:15, 08:30, 08:45, 09:00, 09:15, 09:30, 11:00, 11:15, 11:30",
-      "startTime": "2026-05-19T08:00:00",
-      "endTime": "2026-05-19T11:30:00",
-      "type": "presentation",
-      "courseCode": "CPCS-223",
-      "section": "all"
-    },
 
 
     {
       "id": "evt-110",
       "title": "CPCS-301 Final Lab Exam",
       "description": "Final Lab Exam (15%) via Blackboard | Covers Labs 1–12",
-      "endTime": "2026-05-18T22:30:00",
+      "endTime": "2026-05-20T22:30:00",
       "type": "exam",
       "courseCode": "CPCS-301",
       "section": "all"
     },
-    {
-      "id": "evt-111",
-      "title": "CPCS-301 Group Project Presentation",
-      "description": "Online via Blackboard during class time | 7-minute presentation per group",
-      "endTime": "2026-05-19T12:00:00",
-      "type": "presentation",
-      "courseCode": "CPCS-301",
-      "section": "all"
-    },
+
     {
       "id": "evt-099",
       "title": "CPCS-301 Group Project Form Due",
