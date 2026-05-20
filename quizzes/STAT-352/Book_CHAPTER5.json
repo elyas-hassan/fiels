@@ -1,0 +1,229 @@
+{
+  "id": "5",
+  "category": "STAT-352",
+  "title": "STAT-352: Chapter 5",
+  "timeLimit": 3000,
+  "questions": [
+    {
+  "type": "multiple-choice",
+  "question": "The joint PMF of two discrete random variables X and Y is given by pXY(x,y) = kxy for x = 1,2,3 and y = 1,2,3. What is the value of the constant k?",
+  "options": [
+    "1/36",
+    "1/18",
+    "1/9",
+    "1/6"
+  ],
+  "answer": "1/36"
+},{
+  "type": "multiple-choice",
+  "question": "The joint PMF of two discrete random variables X and Y is given by pXY(x,y) = (1/36)xy for x = 1,2,3 and y = 1,2,3. What is the marginal PMF of X?",
+  "options": [
+    "pX(x) = x/6 for x = 1,2,3",
+    "pX(x) = x/3 for x = 1,2,3",
+    "pX(x) = x/12 for x = 1,2,3",
+    "pX(x) = x/18 for x = 1,2,3"
+  ],
+  "answer": "pX(x) = x/6 for x = 1,2,3"
+},
+    {
+  "type": "multiple-choice",
+  "question": "The joint PMF of two discrete random variables X and Y is given by pXY(x,y) = (1/36)xy for x = 1,2,3 and y = 1,2,3. What is the probability P(1 ≤ X ≤ 2, Y ≤ 2)?",
+  "options": [
+    "1/4",
+    "1/9",
+    "1/16",
+    "1/36"
+  ],
+  "answer": "1/4"
+},
+    {
+  "type": "multiple-choice",
+  "question": "A fair coin is tossed three times. Let X be the number of heads in the first two tosses, and let Y be the number of heads in the third toss. What is the joint PMF pXY(1,1)?",
+  "options": [
+    "1/8",
+    "1/4",
+    "3/8",
+    "1/2"
+  ],
+  "answer": "1/4"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Two random variables X and Y have the joint PMF: pXY(1,1)=0.10, pXY(2,2)=0.35, pXY(3,3)=0.05, and pXY(4,4)=0.50. What is the value of the joint CDF FXY(2,2)?",
+  "options": [
+    "0.10",
+    "0.35",
+    "0.45",
+    "0.50"
+  ],
+  "answer": "0.45"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Two random variables X and Y have the joint PMF: pXY(1,1)=0.10, pXY(2,2)=0.35, pXY(3,3)=0.05, and pXY(4,4)=0.50. What is P(1 ≤ X ≤ 2, Y ≤ 2)?",
+  "options": [
+    "0.10",
+    "0.35",
+    "0.45",
+    "0.50"
+  ],
+  "answer": "0.45"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Two random variables X and Y have the joint PMF: pXY(1,1)=0.10, pXY(2,2)=0.35, pXY(3,3)=0.05, and pXY(4,4)=0.50. What is the value of the joint CDF FXY(1,2)?(من عندي)",
+  "options": [
+    "0",
+    "0.10",
+    "0.35",
+    "0.45"
+  ],
+  "answer": "0.10"
+},
+{
+  "type": "multiple-choice",
+  "question": "Two discrete random variables X and Y have the joint CDF values: FXY(0,0)=1/12, FXY(0,1)=1/3, FXY(0,2)=2/3, FXY(1,0)=1/6, FXY(1,1)=7/12, and FXY(1,2)=1. What is P(0 < X < 2, 0 < Y < 2)?",
+  "options": [
+    "1/12",
+    "1/6",
+    "1/4",
+    "1/3"
+  ],
+  "answer": "1/6"
+},{
+  "type": "multiple-choice",
+  "question": "Two discrete random variables X and Y have the joint CDF values: FXY(0,0)=1/12, FXY(0,1)=1/3, FXY(0,2)=2/3, FXY(1,0)=1/6, FXY(1,1)=7/12, and FXY(1,2)=1. What is the marginal CDF FX(1)?",
+  "options": [
+    "1/6",
+    "7/12",
+    "2/3",
+    "1"
+  ],
+  "answer": "1"
+},{
+  "type": "multiple-choice",
+  "question": "Two discrete random variables X and Y have the joint CDF values: FXY(0,0)=1/12, FXY(0,1)=1/3, FXY(0,2)=2/3, FXY(1,0)=1/6, FXY(1,1)=7/12, and FXY(1,2)=1. What is P(X=1,Y=1)?",
+  "options": [
+    "1/12",
+    "1/6",
+    "1/4",
+    "1/3"
+  ],
+  "answer": "1/6"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Two discrete random variables X and Y have the joint PMF: p(1,1)=1/12, p(1,2)=1/6, p(1,3)=1/12, p(2,1)=1/6, p(2,2)=1/4, p(2,3)=1/12, p(3,1)=1/12, and all other values are 0. What is the marginal PMF pX(1)?",
+  "options": [
+    "1/6",
+    "1/4",
+    "1/3",
+    "5/12"
+  ],
+  "answer": "1/3"
+},{
+  "type": "multiple-choice",
+  "question": "Two discrete random variables X and Y have the joint PMF: p(1,1)=1/12, p(1,2)=1/6, p(1,3)=1/12, p(2,1)=1/6, p(2,2)=1/4, p(2,3)=1/12, p(3,1)=1/12, and all other values are 0. What is P(X < 2.5)?",
+  "options": [
+    "1/3",
+    "2/3",
+    "5/6",
+    "1"
+  ],
+  "answer": "5/6"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Two discrete random variables X and Y have the joint PMF: p(1,1)=1/12, p(1,2)=1/6, p(1,3)=1/12, p(2,1)=1/6, p(2,2)=1/4, p(2,3)=1/12, p(3,1)=1/12, and all other values are 0. What is the probability that Y is odd?",
+  "options": [
+    "1/4",
+    "1/2",
+    "2/3",
+    "3/4"
+  ],
+  "answer": "1/2"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Two discrete random variables X and Y have the joint PMF: p(1,1)=0.2, p(1,2)=0.1, p(2,1)=0.1, p(2,2)=0.2, p(3,1)=0.1, and p(3,2)=0.3. What is the marginal PMF pX(2)?",
+  "options": [
+    "0.1",
+    "0.2",
+    "0.3",
+    "0.4"
+  ],
+  "answer": "0.3"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Two discrete random variables X and Y have the joint PMF: p(1,1)=0.2, p(1,2)=0.1, p(2,1)=0.1, p(2,2)=0.2, p(3,1)=0.1, and p(3,2)=0.3. What is the conditional probability pX|Y(1|2)?",
+  "options": [
+    "1/6",
+    "1/3",
+    "1/2",
+    "2/3"
+  ],
+  "answer": "1/6"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Two discrete random variables X and Y have the joint PMF: p(1,1)=0.2, p(1,2)=0.1, p(2,1)=0.1, p(2,2)=0.2, p(3,1)=0.1, and p(3,2)=0.3. Are X and Y independent?",
+  "options": [
+    "Yes, because pXY(x,y)=pX(x)+pY(y)",
+    "Yes, because pXY(x,y)=pX(x)pY(y) for all x and y",
+    "No, because pXY(x,y)≠pX(x)pY(y) for all x and y",
+    "No, because X and Y have different ranges"
+  ],
+  "answer": "No, because pXY(x,y)≠pX(x)pY(y) for all x and y"
+},
+    {
+  "type": "multiple-choice",
+  "question": "The joint PDF of two continuous random variables X and Y is fXY(x,y) = kx for 0 < y ≤ x < 1 and 0 otherwise. What is the value of k?",
+  "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "answer": "3"
+},
+    {
+  "type": "multiple-choice",
+  "question": "The joint PDF of two continuous random variables X and Y is fXY(x,y) = 3x for 0 < y ≤ x < 1. What is the marginal PDF fX(x)?",
+  "options": [
+    "fX(x) = 3x^2",
+    "fX(x) = 3x",
+    "fX(x) = x^2",
+    "fX(x) = 2x"
+  ],
+  "answer": "fX(x) = 3x^2"
+},
+    {
+  "type": "multiple-choice",
+  "question": "The joint CDF of two continuous random variables is FXY(x,y) = 1 − e^(−ax)e^(−by) + e^(−(ax+by)) for x ≥ 0, y ≥ 0. What is the marginal PDF of X?",
+  "options": [
+    "fX(x) = a e^(−ax)",
+    "fX(x) = b e^(−by)",
+    "fX(x) = (a + b)e^(−(a+b)x)",
+    "fX(x) = a b e^(−(a+b)x)"
+  ],
+  "answer": "fX(x) = a e^(−ax)"
+},
+    {
+  "type": "multiple-choice",
+  "question": "The joint CDF is FXY(x,y) = 1 − e^(−ax)e^(−by). What is the marginal PDF of Y?",
+  "options": [
+    "fY(y) = b e^(−by)",
+    "fY(y) = a e^(−ax)",
+    "fY(y) = (a + b)e^(−(a+b)y)",
+    "fY(y) = ab e^(−(a+b)y)"
+  ],
+  "answer": "fY(y) = b e^(−by)"
+}
+
+
+
+
+
+  ]
+}
