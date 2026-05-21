@@ -219,7 +219,510 @@
     "fY(y) = ab e^(−(a+b)y)"
   ],
   "answer": "fY(y) = b e^(−by)"
-}
+},
+    {
+  "type": "multiple-choice",
+  "question": "Two continuous random variables X and Y have the joint PDF fXY(x,y) = k e^{-(2x+3y)} for x ≥ 0 and y ≥ 0. What value of k makes fXY(x,y) a valid joint PDF?",
+  "options": [
+    "1",
+    "2",
+    "3",
+    "6"
+  ],
+  "answer": "6"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Given the joint PDF fXY(x,y) = 6 e^{-(2x+3y)} for x ≥ 0 and y ≥ 0, what is the marginal PDF of X?",
+  "options": [
+    "fX(x) = 2e^{-2x}",
+    "fX(x) = 3e^{-3x}",
+    "fX(x) = 6e^{-2x}",
+    "fX(x) = e^{-2x}"
+  ],
+  "answer": "fX(x) = 2e^{-2x}"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Given the joint PDF fXY(x,y) = 6 e^{-(2x+3y)} for x ≥ 0 and y ≥ 0, what is the marginal PDF of Y?",
+  "options": [
+    "fY(y) = 3e^{-3y}",
+    "fY(y) = 2e^{-2y}",
+    "fY(y) = e^{-3y}",
+    "fY(y) = 6e^{-3y}"
+  ],
+  "answer": "fY(y) = 3e^{-3y}"
+},{
+  "type": "multiple-choice",
+  "question": "Given the joint PDF fXY(x,y) = 6 e^{-(2x+3y)} for x ≥ 0 and y ≥ 0, what is P(X < 1, Y < 0.5)?",
+  "options": [
+    "1 - e^{-2} - e^{-1.5} + e^{-3.5}",
+    "(1 - e^{-2})(1 - e^{-1.5})",
+    "e^{-2}e^{-1.5}",
+    "1 - e^{-3.5}"
+  ],
+  "answer": "(1 - e^{-2})(1 - e^{-1.5})"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Two continuous random variables X and Y have the joint PDF fXY(x,y) = k(1 − x^2y) for 0 ≤ x ≤ 1 and 0 ≤ y ≤ 1. What value of k makes fXY(x,y) a valid joint PDF?",
+  "options": [
+    "2",
+    "3",
+    "12/5",
+    "5/2"
+  ],
+  "answer": "6/5"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Given fXY(x,y) = (6/5)(1 − x^2y) for 0 ≤ x ≤ 1 and 0 ≤ y ≤ 1, what is the conditional PDF fX|Y(x|y)?",
+  "options": [
+    "fX|Y(x|y) = (1 − x^2y)/(1 − y/3)",
+    "fX|Y(x|y) = (6/5)(1 − x^2y)",
+    "fX|Y(x|y) = (1 − x^2y)/(1 − x/3)",
+    "fX|Y(x|y) = 1 − x^2y"
+  ],
+  "answer": "fX|Y(x|y) = (1 − x^2y)/(1 − y/3)"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Given fXY(x,y) = (6/5)(1 − x^2y) for 0 ≤ x ≤ 1 and 0 ≤ y ≤ 1, what is the conditional PDF fY|X(y|x)?",
+  "options": [
+    "fY|X(y|x) = (1 − x^2y)/(1 − x^2/2)",
+    "fY|X(y|x) = (1 − x^2y)/(1 − y/3)",
+    "fY|X(y|x) = 1 − x^2y",
+    "fY|X(y|x) = (6/5)(1 − x^2y)"
+  ],
+  "answer": "fY|X(y|x) = (1 − x^2y)/(1 − x^2/2)"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Two continuous random variables X and Y have joint PDF fXY(x,y) = (6/7)(x^2 + xy/2) for 0 < x < 1 and 0 < y < 2. What is the CDF FX(x) of X for 0 < x < 1?",
+  "options": [
+    "FX(x) = x^3",
+    "FX(x) = (4x^3 + 3x^2)/7",
+    "FX(x) = (2x^3 + x^2)/7",
+    "FX(x) = x^2"
+  ],
+  "answer": "FX(x) = (4x^3 + 3x^2)/7"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Given the joint PDF fXY(x,y) = (6/7)(x^2 + xy/2) for 0 < x < 1 and 0 < y < 2, what is P(X > Y)?",
+  "options": [
+    "1/7",
+    "2/7",
+    "15/56",
+    "4/7"
+  ],
+  "answer": "15/56"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Given the joint PDF fXY(x,y) = (6/7)(x^2 + xy/2) for 0 < x < 1 and 0 < y < 2, what is P(Y > 1/2 | X < 1/2)?",
+  "options": [
+    "17/32",
+    "15/32",
+    "1/2",
+    "3/4"
+  ],
+  "answer": "17/32"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Two continuous random variables X and Y have the joint PDF fXY(x,y) = k e^{-(x+y)} for x ≥ 0 and y ≥ x. What value of k makes fXY(x,y) a valid joint PDF?",
+  "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "answer": "2"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Given the joint PDF fXY(x,y) = 2e^{-(x+y)} for x ≥ 0 and y ≥ x, what is P(Y < 2X)?",
+  "options": [
+    "1/4",
+    "1/3",
+    "1/2",
+    "3/4"
+  ],
+  "answer": "1/3"
+},
+    {
+  "type": "multiple-choice",
+  "question": "The joint PDF is fXY(x,y) = (6x/7) on the region 1 ≤ x + y ≤ 2, x ≥ 0, y ≥ 0. Which integral correctly represents P(Y > X/2)?(not in the exam 85%)",
+  "options": [
+    "∫(0→4/3) ∫(max(1−x, x/2) → 2−x) (6x/7) dy dx",
+    "∫(0→2) ∫(0→x/2) (6x/7) dy dx",
+    "∫(0→1) ∫(1−x → x/2) (6x/7) dy dx",
+    "∫(0→2) ∫(1−x → 2−x) (6x/7) dy dx"
+  ],
+  "answer": "∫(0→4/3) ∫(max(1−x, x/2) → 2−x) (6x/7) dy dx"
+},
+{
+  "type": "multiple-choice",
+  "question": "The joint PDF is fXY(x,y) = (6x/7) on the region 1 ≤ x + y ≤ 2, x ≥ 0, y ≥ 0. What is the exact value of P(X > Y)?",
+  "options": [
+    "1/2",
+    "5/28",
+    "4/7",
+    "6/7"
+  ],
+  "answer": "5/28"
+},
+    {
+  "type": "multiple-choice",
+  "question": "The joint PDF is fXY(x,y) = (6x/7) on the region 1 ≤ x + y ≤ 2, x ≥ 0, y ≥ 0. What is the exact value of P(X > Y)?",
+  "options": [
+    "1/2",
+    "5/28",
+    "4/7",
+    "6/7"
+  ],
+  "answer": "5/28"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Two continuous random variables X and Y have the joint PDF fXY(x,y) = (1/2)e^{-2y} for 0 ≤ x ≤ 4 and y ≥ 0. What is the marginal PDF fX(x)?",
+  "options": [
+    "fX(x) = 1/4",
+    "fX(x) = 1/2",
+    "fX(x) = e^{-2x}",
+    "fX(x) = 2e^{-2x}"
+  ],
+  "answer": "fX(x) = 1/4"
+},
+    {
+  "type": "multiple-choice",
+  "question": "A box contains 3 red balls and 2 green balls. A ball is selected, observed, replaced, and then another ball is selected. Let X=1 if the first ball is red and X=0 if green. Let Y=1 if the second ball is red and Y=0 if green. What is P(X=1,Y=1)?",
+  "options": [
+    "9/25",
+    "6/25",
+    "3/5",
+    "2/5"
+  ],
+  "answer": "9/25"
+},
+    {
+  "type": "multiple-choice",
+  "question": "A box contains 3 red balls and 2 green balls with replacement after each draw. What is the joint PMF pXY(x,y)?",
+  "options": [
+    "p(1,1)=9/25, p(1,0)=6/25, p(0,1)=6/25, p(0,0)=4/25",
+    "p(1,1)=3/5, p(1,0)=2/5, p(0,1)=2/5, p(0,0)=3/5",
+    "p(1,1)=1/2, p(1,0)=1/4, p(0,1)=1/4, p(0,0)=0",
+    "All outcomes have probability 1/4"
+  ],
+  "answer": "p(1,1)=9/25, p(1,0)=6/25, p(0,1)=6/25, p(0,0)=4/25"
+},
+    {
+  "type": "multiple-choice",
+  "question": "A box contains 3 red balls and 2 green balls with replacement after each draw, what is the conditional PMF P(X=1 | Y=1)?",
+  "options": [
+    "3/5",
+    "2/5",
+    "9/25",
+    "1/2"
+  ],
+  "answer": "3/5"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Given the joint PDF fXY(x,y)=2e^{-(x+2y)} for x≥0 and y≥0, what is E[X|Y=y]?",
+  "options": [
+    "1",
+    "1/2",
+    "y",
+    "2"
+  ],
+  "answer": "1"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Given the joint PDF fXY(x,y)=2e^{-(x+2y)} for x≥0 and y≥0, what is E[Y|X=x]?",
+  "options": [
+    "1/2",
+    "1",
+    "2",
+    "x"
+  ],
+  "answer": "1/2"
+},
+    {
+  "type": "multiple-choice",
+  "question": "A fair coin is tossed four times. Let X be the number of heads in the first two tosses and Y be the number of heads in the last two tosses. What is P(X=1,Y=1)?",
+  "options": [
+    "1/16",
+    "1/8",
+    "1/4",
+    "1/2"
+  ],
+  "answer": "1/4"
+},
+    {
+  "type": "multiple-choice",
+  "question": "A fair coin is tossed four times. Let X be the number of heads in the first two tosses and Y be the number of heads in the last two tosses,Why are X and Y independent in the four-coin experiment?",
+  "options": [
+    "Because X and Y count heads from different tosses",
+    "Because X=Y always",
+    "Because both variables are continuous",
+    "Because probabilities add to 1"
+  ],
+  "answer": "Because X and Y count heads from different tosses"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Given the joint PDF fXY(x,y)=xye^{-y^2/4} for 0≤x≤1 and y≥0, what is the marginal PDF fX(x)?",
+  "options": [
+    "fX(x)=2x",
+    "fX(x)=x",
+    "fX(x)=xe^{-x^2/4}",
+    "fX(x)=1"
+  ],
+  "answer": "fX(x)=2x"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Given the joint PDF fXY(x,y)=xye^{-y^2/4} for 0≤x≤1 and y≥0, what is the marginal PDF fY(y)?",
+  "options": [
+    "fY(y)=ye^{-y^2/4}/2",
+    "fY(y)=2ye^{-y^2/4}",
+    "fY(y)=e^{-y^2/4}",
+    "fY(y)=y^2e^{-y^2/4}"
+  ],
+  "answer": "fY(y)=ye^{-y^2/4}/2"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Given the joint PDF fXY(x,y)=xye^{-y^2/4} for 0≤x≤1 and y≥0, Are X and Y independent?",
+  "options": [
+    "Yes, because fXY(x,y)=fX(x)fY(y)",
+    "No, because the PDF contains x and y together",
+    "No, because y≥0",
+    "Yes, because both marginals exist"
+  ],
+  "answer": "Yes, because fXY(x,y)=fX(x)fY(y)"
+},
+    {
+  "type": "multiple-choice",
+  "question": "A joint PDF is fXY(x,y) = (6/7)x for 1 ≤ x + y ≤ 2, x ≥ 0, y ≥ 0. What is the marginal PDF fX(x)?",
+  "options": [
+    "fX(x) = (6/7)x(1−x)",
+    "fX(x) = (6/7)x(2−x)",
+    "fX(x) = (6/7)x",
+    "fX(x) = x(1−x)/7"
+  ],
+  "answer": "fX(x) = (6/7)x(1−x)"
+},
+    {
+  "type": "multiple-choice",
+  "question": "A joint PDF is fXY(x,y) = (6/7)x for 1 ≤ x + y ≤ 2, x ≥ 0, y ≥ 0. What is the marginal PDF fX(x)?(not coming 95%)",
+  "options": [
+    "fX(x) = (6/7)x(1−x)",
+    "fX(x) = (6/7)x(2−x)",
+    "fX(x) = (6/7)x",
+    "fX(x) = x(1−x)/7"
+  ],
+  "answer": "fX(x) = (6/7)x(1−x)"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Two discrete random variables X and Y have the joint PMF given by: P(X=-1,Y=0)=0, P(X=-1,Y=1)=1/3, P(X=0,Y=0)=1/3, P(X=0,Y=1)=0, P(X=1,Y=0)=0, P(X=1,Y=1)=1/3. Are X and Y independent, and what is Cov(X,Y)?",
+  "options": [
+    "Independent and Cov(X,Y)=1/9",
+    "Not independent and Cov(X,Y)=0",
+    "Independent and Cov(X,Y)=0",
+    "Not independent and Cov(X,Y)=-1/9"
+  ],
+  "answer": "Not independent and Cov(X,Y)=0"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Two events A and B satisfy P(A)=1/4, P(B|A)=1/2, and P(A|B)=1/4. Define X=1 if A occurs and 0 otherwise, and Y=1 if B occurs and 0 otherwise. What are E[X], Var(X), E[Y], and Var(Y)?",
+  "options": [
+    "E[X]=1/4, Var(X)=3/16, E[Y]=1/2, Var(Y)=1/4",
+    "E[X]=1/4, Var(X)=3/16, E[Y]=1/8, Var(Y)=7/64",
+    "E[X]=1/2, Var(X)=1/4, E[Y]=1/4, Var(Y)=3/16",
+    "E[X]=3/4, Var(X)=1/16, E[Y]=1/2, Var(Y)=1/2"
+  ],
+  "answer": "E[X]=1/4, Var(X)=3/16, E[Y]=1/8, Var(Y)=7/64"
+},
+    {
+  "type": "multiple-choice",
+  "question": "Given P(A)=1/4, P(B|A)=1/2, P(A|B)=1/4, define X=1 if A occurs and 0 otherwise, and Y=1 if B occurs and 0 otherwise. What is the correlation ρXY and are X and Y uncorrelated?",
+  "options": [
+    "ρXY = 1/2 and X,Y are not uncorrelated",
+    "ρXY = 1/3 and X,Y are uncorrelated",
+    "ρXY = 1/2 and X,Y are uncorrelated",
+    "ρXY = 0 and X,Y are uncorrelated"
+  ],
+  "answer": "ρXY = 1/3 and X,Y are not uncorrelated"
+},
+    {
+  "type": "multiple-choice",
+  "question": "A fair die is tossed three times. Let X be the number of 1's obtained and Y be the number of 3's obtained. What is the correlation coefficient ρXY?",
+  "options": [
+    "0",
+    "-1/2",
+    "1/2",
+    "-1/3"
+  ],
+  "answer": "0"
+},
+    {
+  "type": "multiple-choice",
+  "question": "A box contains 10 chips from A, 16 chips from B, and 14 chips from C. A chip is drawn 20 times with replacement. What is the probability that A is drawn exactly 5 times and C is drawn exactly 6 times?",
+  "options": [
+    "0.022",
+    "0.036",
+    "0.051",
+    "0.074"
+  ],
+  "answer": "0.036"
+},
+    {
+  "type": "multiple-choice",
+  "question": "A box contains 10 chips from A, 16 chips from B, and 14 chips from C. A chip is drawn 20 times with replacement. What is the probability that a chip from vendor B is drawn exactly 9 times?",
+  "options": [
+    "0.132",
+    "0.160",
+    "0.184",
+    "0.205"
+  ],
+  "answer": "0.160"
+},
+  {
+    "type": "multiple-choice",
+    "question": "A college professor rating system has probabilities: Excellent = 0.2, Good = 0.5, Fair = 0.2, Bad = 0.1. If 12 professors are randomly selected, what is the probability that exactly 6 are Excellent, 4 are Good, 1 is Fair, and 1 is Bad?",
+    "options": [
+      "0.0012",
+      "0.0022",
+      "0.0024",
+      "0.031"
+    ],
+    "answer": "0.0022"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "A college professor rating system has probabilities: Excellent = 0.2, Good = 0.5, Fair = 0.2, Bad = 0.1. If 12 professors are randomly selected, what is the probability that exactly 6 are Excellent, 4 are Good, and 2 are Fair?",
+    "options": [
+      "0.003254",
+      "0.0022176",
+      "0.0021289",
+      "0.00103"
+    ],
+    "answer": "0.0022176"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "A college professor rating system has probabilities: Excellent = 0.2, Good = 0.5, Fair = 0.2, Bad = 0.1. If 12 professors are randomly selected, what is the probability that exactly 6 are Excellent and 6 are Good?",
+    "options": [
+      "0.00115",
+      "0.000924",
+      "0.00928",
+      "0.000834"
+    ],
+    "answer": "0.000924"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "A college professor rating system has probabilities: Excellent = 0.2, Good = 0.5, Fair = 0.2, Bad = 0.1. If 12 professors are randomly selected, what is the probability that exactly 4 are Excellent and 3 are Good?",
+    "options": [
+      "0.013472",
+      "0.016356",
+      "0.068231",
+      "0.012349"
+    ],
+    "answer": "0.013472"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "A college professor rating system has probabilities: Excellent = 0.2, Good = 0.5, Fair = 0.2, Bad = 0.1. If 12 professors are randomly selected, what is the probability that exactly 4 are Bad?",
+    "options": [
+      "0.021",
+      "0.033",
+      "0.046",
+      "0.058"
+    ],
+    "answer": "0.021"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "A college professor rating system has probabilities: Excellent = 0.2, Good = 0.5, Fair = 0.2, Bad = 0.1. If 12 professors are randomly selected, what is the probability that none are Bad?",
+    "options": [
+      "0.254",
+      "0.282",
+      "0.305",
+      "0.329"
+    ],
+    "answer": "0.282"
+  },
+    {
+    "type": "multiple-choice",
+    "question": "Studies on the toasters made by a company indicate that 50% are good, 35% are fair, 10% burn the toast, and 5% catch fire. If a store has 40 of these toasters in stock, what is the probability that exactly 30 are good, 5 are fair, 3 burn the toast, and 2 catch fire?",
+    "options": [
+      "0.000026",
+      "0.000174",
+      "0.001148",
+      "0.002612"
+    ],
+    "answer": "0.000026"
+  },
+    {
+    "type": "multiple-choice",
+    "question": "Studies on the toasters made by a company indicate that 50% are good, 35% are fair, 10% burn the toast, and 5% catch fire. If a store has 40 of these toasters in stock, what is the probability that exactly 30 are good and 4 are fair?",
+    "options": [
+      "0.0000142",
+      "0.0000283",
+      "0.0058100",
+      "0.0134718"
+    ],
+    "answer": "0.0000283"
+  },{
+    "type": "multiple-choice",
+    "question": "Studies on the toasters made by a company indicate that 50% are good, 35% are fair, 10% burn the toast, and 5% catch fire. If a store has 40 of these toasters in stock, what is the probability that none catches fire?",
+    "options": [
+      "0.1042",
+      "0.1285",
+      "0.1561",
+      "0.1844"
+    ],
+    "answer": "0.1285"
+  },{
+    "type": "multiple-choice",
+    "question": "Studies on the toasters made by a company indicate that 50% are good, 35% are fair, 10% burn the toast, and 5% catch fire. If a store has 40 of these toasters in stock, what is the probability that none burns the toast and none catches fire?",
+    "options": [
+      "0.00150",
+      "0.00231",
+      "0.00374",
+      "0.00482"
+    ],
+    "answer": "0.00150"
+  },
+    {
+    "type": "multiple-choice",
+    "question": "Ten pieces of candy are given out at random to a group that consists of 8 boys, 7 girls, and 5 adults. If anyone can get more than one piece of candy, what is the probability that exactly 4 pieces go to the girls and 2 pieces go to the adults?",
+    "options": [
+      "0.04251",
+      "0.07563",
+      "0.11975",
+      "0.13254"
+    ],
+    "answer": "0.07563"
+  },{
+    "type": "multiple-choice",
+    "question": "Ten pieces of candy are given out at random to a group that consists of 8 boys, 7 girls, and 5 adults. If anyone can get more than one piece of candy, what is the probability that exactly 5 pieces go to the boys?",
+    "options": [
+      "0.16542",
+      "0.18621",
+      "0.20066",
+      "0.24613"
+    ],
+    "answer": "0.20066"
+  }
+
 
 
 
