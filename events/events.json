@@ -2,38 +2,6 @@
   "events": [
 
 
-
-    {
-      "id": "evt-110",
-      "title": "CPCS-301 Final Lab Exam",
-      "description": "Final Lab Exam (15%) via Blackboard | Covers Labs 1–12",
-      "endTime": "2026-05-20T22:30:00",
-      "type": "exam",
-      "courseCode": "CPCS-301",
-      "section": "all"
-    },
-
-    {
-      "id": "evt-099",
-      "title": "CPCS-301 Group Project Form Due",
-      "description": "Group project (20%) form submission deadline",
-      "endTime": "2026-05-20T23:59:00",
-      "type": "assignment",
-      "courseCode": "CPCS-301",
-      "section": "all"
-    },
-    {
-      "id": "evt-087",
-      "title": "May  (ذو الحجة)",
-      "description": "",
-      "endTime": "2026-05-26T23:59:59",
-      "type": "event",
-      "courseCode": "MONEY",
-      "section": "ALL"
-    },
-
-
-
     {
       "id": "evt-130",
       "title": "CPIS-210 Exam",
