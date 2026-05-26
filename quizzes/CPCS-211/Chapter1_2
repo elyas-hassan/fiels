@@ -6,7 +6,7 @@
   "questions": [
     {
       "type": "multiple-choice",
-       "question": "What is the decimal equivalent of the hexadecimal number (2B.C)₁₆? [cite: 137]",
+       "question": "What is the decimal equivalent of the hexadecimal number (2B.C)₁₆? ",
       "options": [
         "43.75",
         "43.12",
@@ -17,12 +17,12 @@
     },
     {
       "type": "true-false",
-       "question": "The property a + (b + c) = (a + b) + c is known as the Commutative property in switching algebra. [cite: 1737, 1742]",
+       "question": "The property a + (b + c) = (a + b) + c is known as the Commutative property in switching algebra.",
       "answer": "false"
     },
     {
       "type": "multiple-choice",
-       "question": "When subtracting N from M using 2's complement, if there is no end carry, what must be done to the result? [cite: 862]",
+       "question": "When subtracting N from M using 2's complement, if there is no end carry, what must be done to the result? ",
       "options": [
         "The result is correct as is.",
         "Add 1 to the result.",
@@ -33,7 +33,7 @@
     },
     {
       "type": "multiple-choice",
-       "question": "What is the dual of the switching algebra property a(b+c) = ab + ac? [cite: 1770, 1771, 1777]",
+       "question": "What is the dual of the switching algebra property a(b+c) = ab + ac? ",
       "options": [
         "a + bc = (a+b)(a+c)",
         "a'(b'+c') = a'+b'c'",
@@ -44,7 +44,7 @@
     },
     {
       "type": "multiple-choice",
-       "question": "What is the primary characteristic of a Gray code? [cite: 957]",
+       "question": "What is the primary characteristic of a Gray code? ",
       "options": [
         "It is a weighted code.",
         "It directly represents decimal digits.",
@@ -55,12 +55,12 @@
     },
     {
       "type": "true-false",
-       "question": "Any logic function can be implemented using only XOR gates. [cite: 2527]",
+       "question": "Any logic function can be implemented using only XOR gates. ",
       "answer": "false"
     },
     {
       "type": "multiple-choice",
-      "question": "Perform the binary addition of the 4-bit signed numbers 0110 (+6) and 0101 (+5) in 2's complement.  What is the result and does overflow occur? [cite: 944, 946]",
+      "question": "Perform the binary addition of the 4-bit signed numbers 0110 (+6) and 0101 (+5) in 2's complement.  What is the result and does overflow occur?",
       "options": [
         "Result is 1011, no overflow occurs.",
         "Result is 1011, overflow occurs.",
@@ -71,7 +71,7 @@
     },
     {
       "type": "multiple-choice",
-       "question": "A switching function is defined by the truth table where f(A,B,C) is 1 for inputs 010, 011, and 110. What is its canonical sum (sum of minterms) expression? [cite: 2401]",
+       "question": "A switching function is defined by the truth table where f(A,B,C) is 1 for inputs 010, 011, and 110. What is its canonical sum (sum of minterms) expression? ",
       "options": [
         "f = ∑m(2, 3, 6)",
         "f = ∑m(1, 2, 7)",
@@ -82,7 +82,7 @@
     },
     {
       "type": "multiple-choice",
-       "question": "What is the 8421 BCD representation of the decimal number 92? [cite: 950]",
+       "question": "What is the 8421 BCD representation of the decimal number 92? ",
       "options": [
         "10010010",
         "01011100",
@@ -93,12 +93,12 @@
     },
     {
       "type": "true-false",
-       "question": "The expression (a+b')(a'+c) is in a standard Product of Sums (POS) form. [cite: 1912]",
+       "question": "The expression (a+b')(a'+c) is in a standard Product of Sums (POS) form.",
       "answer": "true"
     },
     {
       "type": "multiple-choice",
-       "question": "Simplify the boolean expression: (x + y)(x + y'). [cite: 1887]",
+       "question": "Simplify the boolean expression: (x + y)(x + y'). ",
       "options": [
         "x",
         "y",
@@ -120,12 +120,12 @@
     },
     {
       "type": "true-false",
-       "question": "A 'literal' is defined as the appearance of a variable, but not its complement. [cite: 1824]",
+       "question": "A 'literal' is defined as the appearance of a variable, but not its complement.",
       "answer": "false"
     },
     {
       "type": "multiple-choice",
-       "question": "What is the binary representation of the octal number (572.1)₈? [cite: 565]",
+       "question": "What is the binary representation of the octal number (572.1)₈? ",
       "options": [
         "101111010.001",
         "101110010.100",
@@ -147,7 +147,7 @@
     },
     {
       "type": "multiple-choice",
-       "question": "What is the minimum number of 2-input NAND gates required to implement the function F = a'b + ab' (XOR)? [cite: 2570]",
+       "question": "What is the minimum number of 2-input NAND gates required to implement the function F = a'b + ab' (XOR)?",
       "options": [
         "3",
         "4",
@@ -158,7 +158,7 @@
     },
     {
       "type": "true-false",
-       "question": "In a 4-bit two's complement system, the range of representable decimal integers is -8 to +7. [cite: 940]",
+       "question": "In a 4-bit two's complement system, the range of representable decimal integers is -8 to +7. ",
       "answer": "true"
     },
     {
@@ -174,7 +174,7 @@
     },
     {
       "type": "multiple-choice",
-       "question": "How many literals are in the expression w'xyz' + wx'y'z' + wxy'z? [cite: 1853]",
+       "question": "How many literals are in the expression w'xyz' + wx'y'z' + wxy'z? ",
       "options": [
         "8",
         "10",
@@ -185,12 +185,12 @@
     },
     {
       "type": "true-false",
-       "question": "When implementing a Sum of Products (SOP) expression, the first level of gates is OR gates and the second level is an AND gate. [cite: 2065, 2067]",
+       "question": "When implementing a Sum of Products (SOP) expression, the first level of gates is OR gates and the second level is an AND gate.",
       "answer": "false"
     },
     {
       "type": "multiple-choice",
-       "question": "What is the 1's complement of (10110100)₂? [cite: 835]",
+       "question": "What is the 1's complement of (10110100)₂?",
       "options": [
         "01001011",
         "01001100",
@@ -201,7 +201,7 @@
     },
     {
         "type": "multiple-choice",
-         "question": "The TTL Integrated Circuit '7408' contains what type of gates? [cite: 2172]",
+         "question": "The TTL Integrated Circuit '7408' contains what type of gates? ",
         "options": [
             "Quad 2-input NOR gates",
             "Hex inverters (NOT gates)",
@@ -212,7 +212,7 @@
     },
     {
         "type": "true-false",
-         "question": "The expression a + ab = a is an example of the Adjacency property. [cite: 1888, 1966]",
+         "question": "The expression a + ab = a is an example of the Adjacency property.",
         "answer": "false"
     },
     {
