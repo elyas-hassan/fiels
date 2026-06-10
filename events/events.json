@@ -1,66 +1,6 @@
 {
   "events": [
 
-    
-    {
-      "id": "evt-163",
-      "title": "CPCS-361 Exam",
-      "description": "08:30 - 10:30",
-      "endTime": "2026-06-09T10:30:00",
-      "type": "exam",
-      "courseCode": "CPCS-361",
-      "section": "all"
-    },
-
-    
-    {
-      "id": "evt-164",
-      "title": "CPCS-405 Exam",
-      "description": "11:00 - 13:00",
-      "endTime": "2026-06-09T13:00:00",
-      "type": "exam",
-      "courseCode": "CPCS-405",
-      "section": "all"
-    },
-    {
-      "id": "evt-165",
-      "title": "CPIT-330 Exam",
-      "description": "11:00 - 13:00",
-      "endTime": "2026-06-09T13:00:00",
-      "type": "exam",
-      "courseCode": "CPIT-330",
-      "section": "all"
-    },
-
-    
-    {
-      "id": "evt-166",
-      "title": "CPCS-241 Exam",
-      "description": "13:30 - 15:30",
-      "endTime": "2026-06-09T15:30:00",
-      "type": "exam",
-      "courseCode": "CPCS-241",
-      "section": "all"
-    },
-    {
-      "id": "evt-167",
-      "title": "CPIS-220 Exam",
-      "description": "13:30 - 15:30",
-      "endTime": "2026-06-09T15:30:00",
-      "type": "exam",
-      "courseCode": "CPIS-220",
-      "section": "all"
-    },
-    {
-      "id": "evt-162",
-      "title": "CPIS-434 Exam",
-      "description": "13:30 - 15:30",
-      "endTime": "2026-06-09T15:30:00",
-      "type": "exam",
-      "courseCode": "CPIS-434",
-      "section": "all"
-    },
-
 
 
 
