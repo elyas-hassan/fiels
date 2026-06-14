@@ -4,147 +4,6 @@
 
 
 
-    {
-      "id": "evt-168",
-      "title": "CPIT-201 Exam",
-      "description": "11:00 - 13:00",
-      "endTime": "2026-06-10T13:00:00",
-      "type": "exam",
-      "courseCode": "CPIT-201",
-      "section": "all"
-    },
-
-    
-    {
-      "id": "evt-169",
-      "title": "CPIT-490 Exam",
-      "description": "13:30 - 15:30",
-      "endTime": "2026-06-10T15:30:00",
-      "type": "exam",
-      "courseCode": "CPIT-490",
-      "section": "all"
-    },
-    {
-      "id": "evt-170",
-      "title": "CS-201 Exam",
-      "description": "13:30 - 15:30",
-      "endTime": "2026-06-10T15:30:00",
-      "type": "exam",
-      "courseCode": "CS-201",
-      "section": "all"
-    },
-
-
-
-    {
-      "id": "evt-171",
-      "title": "CPCS-433 Exam",
-      "description": "08:30 - 10:30",
-      "endTime": "2026-06-11T10:30:00",
-      "type": "exam",
-      "courseCode": "CPCS-433",
-      "section": "all"
-    },
-    {
-      "id": "evt-172",
-      "title": "CPIT-250 Exam",
-      "description": "08:30 - 10:30",
-      "endTime": "2026-06-11T10:30:00",
-      "type": "exam",
-      "courseCode": "CPIT-250",
-      "section": "all"
-    },
-    {
-      "id": "evt-173",
-      "title": "CPIT-251 Exam",
-      "description": "08:30 - 10:30",
-      "endTime": "2026-06-11T10:30:00",
-      "type": "exam",
-      "courseCode": "CPIT-251",
-      "section": "all"
-    },
-    {
-      "id": "evt-174",
-      "title": "CPIT-252 Exam",
-      "description": "08:30 - 10:30",
-      "endTime": "2026-06-11T10:30:00",
-      "type": "exam",
-      "courseCode": "CPIT-252",
-      "section": "all"
-    },
-    {
-      "id": "evt-175",
-      "title": "CPIT-345 Exam",
-      "description": "08:30 - 10:30",
-      "endTime": "2026-06-11T10:30:00",
-      "type": "exam",
-      "courseCode": "CPIT-345",
-      "section": "all"
-    },
-
-
-    
-    {
-      "id": "evt-176",
-      "title": "CPCS-335 Final Lab",
-      "description": "ALL LABS | 11:00 - 13:00",
-      "endTime": "2026-06-11T13:00:00",
-      "type": "exam",
-      "courseCode": "CPCS-335",
-      "section": "all"
-    },
-
-
-    
-    {
-      "id": "evt-177",
-      "title": "CPCS-211 Exam",
-      "description": "13:30 - 15:30",
-      "endTime": "2026-06-11T15:30:00",
-      "type": "exam",
-      "courseCode": "CPCS-211",
-      "section": "all"
-    },
-    {
-      "id": "evt-178",
-      "title": "CPCS-214 Exam",
-      "description": "13:30 - 15:30",
-      "endTime": "2026-06-11T15:30:00",
-      "type": "exam",
-      "courseCode": "CPCS-214",
-      "section": "all"
-    },
-    {
-      "id": "evt-179",
-      "title": "CPCS-331 Exam",
-      "description": "13:30 - 15:30",
-      "endTime": "2026-06-11T15:30:00",
-      "type": "exam",
-      "courseCode": "CPCS-331",
-      "section": "all"
-    },
-    {
-      "id": "evt-180",
-      "title": "CPIS-358 Exam",
-      "description": "13:30 - 15:30",
-      "endTime": "2026-06-11T15:30:00",
-      "type": "exam",
-      "courseCode": "CPIS-358",
-      "section": "all"
-    },
-    {
-      "id": "evt-181",
-      "title": "CPIS-380 Exam",
-      "description": "13:30 - 15:30",
-      "endTime": "2026-06-11T15:30:00",
-      "type": "exam",
-      "courseCode": "CPIS-380",
-      "section": "all"
-    },
-
-
-
-
 
 
 
@@ -236,13 +95,11 @@
     },
 
 
-
-    
-    {
+{
       "id": "evt-190",
       "title": "CPCS-432 Exam",
-      "description": "08:30 - 10:30",
-      "endTime": "2026-06-16T10:30:00",
+      "description": "11:00 - 13:00",
+      "endTime": "2026-06-16T13:00:00",
       "type": "exam",
       "courseCode": "CPCS-432",
       "section": "all"
@@ -250,8 +107,8 @@
     {
       "id": "evt-191",
       "title": "CPIS-354 Exam",
-      "description": "08:30 - 10:30",
-      "endTime": "2026-06-16T10:30:00",
+      "description": "11:00 - 13:00",
+      "endTime": "2026-06-16T13:00:00",
       "type": "exam",
       "courseCode": "CPIS-354",
       "section": "all"
@@ -259,8 +116,8 @@
     {
       "id": "evt-192",
       "title": "CPIS-363 Exam",
-      "description": "08:30 - 10:30",
-      "endTime": "2026-06-16T10:30:00",
+      "description": "11:00 - 13:00",
+      "endTime": "2026-06-16T13:00:00",
       "type": "exam",
       "courseCode": "CPIS-363",
       "section": "all"
@@ -268,20 +125,19 @@
     {
       "id": "evt-193",
       "title": "CPIT-470 Exam",
-      "description": "08:30 - 10:30",
-      "endTime": "2026-06-16T10:30:00",
+      "description": "11:00 - 13:00",
+      "endTime": "2026-06-16T13:00:00",
       "type": "exam",
       "courseCode": "CPIT-470",
       "section": "all"
     },
 
-
     
     {
       "id": "evt-194",
       "title": "CPCS-425 Exam",
-      "description": "11:00 - 13:00",
-      "endTime": "2026-06-16T13:00:00",
+      "description": "13:30 - 15:30",
+      "endTime": "2026-06-16T15:30:00",
       "type": "exam",
       "courseCode": "CPCS-425",
       "section": "all"
@@ -289,20 +145,19 @@
     {
       "id": "evt-195",
       "title": "CPIS-360 Exam",
-      "description": "11:00 - 13:00",
-      "endTime": "2026-06-16T13:00:00",
+      "description": "13:30 - 15:30",
+      "endTime": "2026-06-16T15:30:00",
       "type": "exam",
       "courseCode": "CPIS-360",
       "section": "all"
     },
 
-
     
     {
       "id": "evt-196",
       "title": "CPCS-324 Exam",
-      "description": "13:30 - 15:30",
-      "endTime": "2026-06-16T15:30:00",
+      "description": "16:30 - 18:30",
+      "endTime": "2026-06-16T18:30:00",
       "type": "exam",
       "courseCode": "CPCS-324",
       "section": "all"
@@ -310,13 +165,12 @@
     {
       "id": "evt-197",
       "title": "CPIT-285 Exam",
-      "description": "13:30 - 15:30",
-      "endTime": "2026-06-16T15:30:00",
+      "description": "16:30 - 18:30",
+      "endTime": "2026-06-16T18:30:00",
       "type": "exam",
       "courseCode": "CPIT-285",
       "section": "all"
     },
-
 
 
 
@@ -441,7 +295,7 @@
       "id": "evt-088",
       "title": "June  (محرم)",
       "description": "",
-      "endTime": "2026-06-28T23:59:59",
+      "endTime": "2026-06-27T23:59:59",
       "type": "event",
       "courseCode": "MONEY",
       "section": "ALL"
