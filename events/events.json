@@ -4,7 +4,7 @@
       "id": "evt-090",
       "title": "August (ربيع الأول)",
       "description": "موعد المكافأة لشهر ربيع الأول (مكافئة شهر أغسطس)",
-      "endTime": "2026-08-27T23:59:59",
+      "endTime": "2026-08-26T23:59:59",
       "type": "event",
       "courseCode": "MONEY",
       "section": "ALL"
@@ -13,7 +13,7 @@
       "id": "evt-091",
       "title": "September (ربيع الثاني)",
       "description": "موعد المكافأة لشهر ربيع الثاني (مكافئة شهر سبتمبر)",
-      "endTime": "2026-09-27T23:59:59",
+      "endTime": "2026-09-26T23:59:59",
       "type": "event",
       "courseCode": "MONEY",
       "section": "ALL"
@@ -22,7 +22,7 @@
       "id": "evt-092",
       "title": "October (جمادى الأولى)",
       "description": "موعد المكافأة لشهر جمادى الأولى (مكافئة شهر أكتوبر)",
-      "endTime": "2026-10-27T23:59:59",
+      "endTime": "2026-10-26T23:59:59",
       "type": "event",
       "courseCode": "MONEY",
       "section": "ALL"
@@ -31,7 +31,7 @@
       "id": "evt-093",
       "title": "November (جمادى الآخرة)",
       "description": "موعد المكافأة لشهر جمادى الآخرة (مكافئة شهر نوفمبر)",
-      "endTime": "2026-11-26T23:59:59",
+      "endTime": "2026-11-25T23:59:59",
       "type": "event",
       "courseCode": "MONEY",
       "section": "ALL"
@@ -40,7 +40,7 @@
       "id": "evt-094",
       "title": "December (رجب)",
       "description": "موعد المكافأة لشهر رجب (مكافئة شهر ديسمبر)",
-      "endTime": "2026-12-27T23:59:59",
+      "endTime": "2026-12-26T23:59:59",
       "type": "event",
       "courseCode": "MONEY",
       "section": "ALL"
@@ -49,7 +49,7 @@
       "id": "evt-095",
       "title": "January (شعبان)",
       "description": "موعد المكافأة لشهر شعبان (مكافئة شهر يناير)",
-      "endTime": "2027-01-27T23:59:59",
+      "endTime": "2027-01-26T23:59:59",
       "type": "event",
       "courseCode": "MONEY",
       "section": "ALL"
@@ -58,7 +58,7 @@
       "id": "evt-096",
       "title": "February (رمضان)",
       "description": "موعد المكافأة لشهر رمضان (مكافئة شهر فبراير)",
-      "endTime": "2027-02-28T23:59:59",
+      "endTime": "2027-02-27T23:59:59",
       "type": "event",
       "courseCode": "MONEY",
       "section": "ALL"
