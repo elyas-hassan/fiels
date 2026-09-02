@@ -1,12 +1,30 @@
 {
   "events": [
+        {
+      "id": "evt-099",
+      "title": "قروب بوجيكت 1",
+      "description": "",
+      "endTime": "2026-09-10T23:59:59",
+      "type": "presentation",
+      "courseCode": "CPCS351",
+      "section": "CS1"
+    },
     {
-      "id": "evt-090",
-      "title": "August (ربيع الأول)",
-      "description": "موعد المكافأة لشهر ربيع الأول (مكافئة شهر أغسطس)",
-      "endTime": "2026-08-26T23:59:59",
+      "id": "evt-097",
+      "title": "اجازة",
+      "description": "اجازة اليوم الوطني",
+      "endTime": "2026-09-23T23:59:59",
       "type": "event",
-      "courseCode": "MONEY",
+      "courseCode": "vacation",
+      "section": "ALL"
+    },
+        {
+      "id": "evt-098",
+      "title": "اجازة",
+      "description": "اجازة اليوم الوطني",
+      "endTime": "2026-09-24T23:59:59",
+      "type": "event",
+      "courseCode": "vacation",
       "section": "ALL"
     },
     {
