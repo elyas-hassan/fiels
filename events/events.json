@@ -1,31 +1,40 @@
 {
   "events": [
-        {
-      "id": "evt-099",
-      "title": "قروب بوجيكت 1",
-      "description": "",
-      "endTime": "2026-09-10T23:59:59",
-      "type": "presentation",
-      "courseCode": "CPCS-351",
+{
+      "id": "evt-209",
+      "title": "CPCS-361 Lab 2 Due",
+      "description": "Lab 2 | Maximum Points: 3 | 11:59 PM",
+      "endTime": "2026-09-22T23:59:00",
+      "type": "assignment",
+      "courseCode": "CPCS-361",
       "section": "CS1"
     },
     {
-      "id": "evt-097",
-      "title": "اجازة",
-      "description": "اجازة اليوم الوطني",
-      "endTime": "2026-09-23T23:59:59",
-      "type": "event",
-      "courseCode": "vacation",
-      "section": "ALL"
+      "id": "evt-210",
+      "title": "CPCS-371 Lab 1 Due",
+      "description": "Lab 1 | 11:59 PM",
+      "endTime": "2026-09-29T23:59:00",
+      "type": "assignment",
+      "courseCode": "CPCS-371",
+      "section": "CS1"
     },
-        {
-      "id": "evt-098",
-      "title": "اجازة",
-      "description": "اجازة اليوم الوطني",
-      "endTime": "2026-09-24T23:59:59",
-      "type": "event",
-      "courseCode": "vacation",
-      "section": "ALL"
+    {
+      "id": "evt-211",
+      "title": "CPCS-371 Lab 2 Due",
+      "description": "Lab 2 | 11:59 PM",
+      "endTime": "2026-09-29T23:59:00",
+      "type": "assignment",
+      "courseCode": "CPCS-371",
+      "section": "CS1"
+    },
+    {
+      "id": "evt-212",
+      "title": "CPCS-371 Lab 3 Due",
+      "description": "Lab 3 | 11:59 PM",
+      "endTime": "2026-09-29T23:59:00",
+      "type": "assignment",
+      "courseCode": "CPCS-371",
+      "section": "CS1"
     },
     {
       "id": "evt-091",
