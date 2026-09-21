@@ -58,7 +58,7 @@
   "description": "CPCS331 – Artificial Intelligence-I | Assignment 01 - Problem Formulation and Uninformed Search | Announced: Thursday, September 17, 2026 | Due: Thursday, October 01, 2026"
 },
 
-    [
+    
   {
     "id": "evt-210",
     "title": "CPCS324 – Assignment I",
@@ -85,8 +85,7 @@
     "type": "project",
     "courseCode": "CPCS331",
     "section": "all"
-  }
-]
+  },
     {
       "id": "evt-092",
       "title": "October (جمادى الأولى)",
