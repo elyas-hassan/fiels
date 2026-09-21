@@ -36,6 +36,9 @@
       "courseCode": "CPCS-371",
       "section": "CS1"
     },
+
+
+    
     {
       "id": "evt-091",
       "title": "September (ربيع الثاني)",
@@ -54,6 +57,36 @@
   "section": "all",
   "description": "CPCS331 – Artificial Intelligence-I | Assignment 01 - Problem Formulation and Uninformed Search | Announced: Thursday, September 17, 2026 | Due: Thursday, October 01, 2026"
 },
+
+    [
+  {
+    "id": "evt-210",
+    "title": "CPCS324 – Assignment I",
+    "description": "Assignment I is now available on Blackboard. Assigned on Monday, September 21, 2026. Due date: Thursday, October 1, 2026.",
+    "endTime": "2026-10-01T23:59:00+03:00",
+    "type": "assignment",
+    "courseCode": "CPCS324",
+    "section": "all"
+  },
+  {
+    "id": "evt-211",
+    "title": "CPCS331 – Assignment 01",
+    "description": "Assignment 01 - Problem Formulation and Uninformed Search. Due Thursday, October 1, 2026 at 11:59 PM.",
+    "endTime": "2026-10-01T23:59:00+03:00",
+    "type": "assignment",
+    "courseCode": "CPCS331",
+    "section": "all"
+  },
+  {
+    "id": "evt-212",
+    "title": "CPCS331 – Group Project",
+    "description": "The Group Project has been uploaded on Blackboard. Project Period: Week 4 (September 20–24, 2026) through Week 15 (December 13–17, 2026).",
+    "endTime": "2026-12-17T23:59:00+03:00",
+    "type": "project",
+    "courseCode": "CPCS331",
+    "section": "all"
+  }
+]
     {
       "id": "evt-092",
       "title": "October (جمادى الأولى)",
