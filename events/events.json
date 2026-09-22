@@ -50,29 +50,29 @@
     },
 {
   "id": "evt-209",
-  "title": "CPCS331 – Assignment 01 Due",
+  "title": "CPCS-331 – Assignment 01 Due",
   "description": "Assignment 01 - Problem Formulation and Uninformed Search | 11:59 PM",
   "endTime": "2026-10-01T23:59:00",
   "type": "assignment",
-  "courseCode": "CPCS331",
+  "courseCode": "CPCS-331",
   "section": "ALL"
 },
 {
   "id": "evt-210",
-  "title": "CPCS324 – Assignment I Due",
+  "title": "CPCS-324 – Assignment I Due",
   "description": "Assignment I | 11:59 PM",
   "endTime": "2026-10-01T23:59:00",
   "type": "assignment",
-  "courseCode": "CPCS324",
+  "courseCode": "CPCS-324",
   "section": "ALL"
 },
 {
   "id": "evt-211",
-  "title": "CPCS331 – Assignment 01 Due",
+  "title": "CPCS-331 – Assignment 01 Due",
   "description": "Assignment 01 - Problem Formulation and Uninformed Search | 11:59 PM",
   "endTime": "2026-10-01T23:59:00",
   "type": "assignment",
-  "courseCode": "CPCS331",
+  "courseCode": "CPCS-331",
   "section": "ALL"
 },
 {
@@ -81,7 +81,7 @@
   "description": "Group Project | Project Period: Week 4 (September 20–24) – Week 15 (December 13–17) | 11:59 PM",
   "endTime": "2026-12-17T23:59:00",
   "type": "project",
-  "courseCode": "CPCS331",
+  "courseCode": "CPCS-331",
   "section": "ALL"
 },
     {
