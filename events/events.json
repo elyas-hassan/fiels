@@ -1,14 +1,5 @@
 {
   "events": [
-{
-      "id": "evt-209",
-      "title": "CPCS-361 Lab 2 Due",
-      "description": "Lab 2 | Maximum Points: 3 | 11:59 PM",
-      "endTime": "2026-09-22T23:59:00",
-      "type": "assignment",
-      "courseCode": "CPCS-361",
-      "section": "CS1"
-    },
     {
       "id": "evt-210",
       "title": "CPCS-371 Lab 1 Due",
@@ -66,15 +57,7 @@
   "courseCode": "CPCS-324",
   "section": "ALL"
 },
-{
-  "id": "evt-211",
-  "title": "CPCS-331 – Assignment 01 Due",
-  "description": "Assignment 01 - Problem Formulation and Uninformed Search | 11:59 PM",
-  "endTime": "2026-10-01T23:59:00",
-  "type": "assignment",
-  "courseCode": "CPCS-331",
-  "section": "ALL"
-},
+
 {
   "id": "evt-212",
   "title": "CPCS331 – Group Project Due",
@@ -120,6 +103,46 @@
       "courseCode": "MONEY",
       "section": "ALL"
     },
+
+{
+  "id": "evt-213",
+  "title": "CPCS351 – Phase2",
+  "description": "Group Project | Phase2 | 11:59 PM",
+  "endTime": "2026-10-18T23:59:00",
+  "type": "project",
+  "courseCode": "CPCS-351",
+  "section": "CS1"
+},
+{
+  "id": "evt-214",
+  "title": "CPCS351 – Phase3",
+  "description": "Group Project | Phase3 | 11:59 PM",
+  "endTime": "2026-11-22T23:59:00",
+  "type": "project",
+  "courseCode": "CPCS-351",
+  "section": "CS1"
+},
+{
+  "id": "evt-215",
+  "title": "CPCS351 – Phase4",
+  "description": "Group Project | Phase4 | 11:59 PM",
+  "endTime": "2026-12-20T23:59:00",
+  "type": "project",
+  "courseCode": "CPCS-351",
+  "section": "CS1"
+},
+{
+  "id": "evt-216",
+  "title": "CPCS351 – Final Submission",
+  "description": "Group Project | Final Submission [Presentation 2 + Complete Project Document] | 11:59 PM",
+  "endTime": "2026-12-27T23:59:00",
+  "type": "project",
+  "courseCode": "CPCS-351",
+  "section": "CS1"
+},
+
+
+    
     {
       "id": "evt-096",
       "title": "February (رمضان)",
