@@ -1,6 +1,16 @@
 {
   "events": [
     {
+  "id": "evt-217",
+  "title": "CPCS361 – Quiz 1",
+  "description": "Quiz 1 | Covers Chapters 1, 2, 3, 4 & 5 | 15 minutes | Online via Blackboard using a laptop | Deadline: Saturday, October 3, 2026 | 11:59 PM",
+  "endTime": "2026-10-03T23:59:00",
+  "type": "quiz",
+  "courseCode": "CPCS-361",
+  "section": "CS1"
+},
+    
+    {
       "id": "evt-210",
       "title": "CPCS-371 Lab 1 Due",
       "description": "Lab 1 | 11:59 PM",
