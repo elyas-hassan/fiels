@@ -1,6 +1,17 @@
 {
   "events": [
     {
+  "id": "evt-218",
+  "title": "Lab 4 - 6",
+  "description": "Lab 4 - 6 | Due Tuesday, October 13, 2026 | 11:59 PM",
+  "endTime": "2026-10-13T23:59:00",
+  "type": "LAB",
+  "courseCode": "CPCS-371",
+  "section": "CS1"
+},
+
+    
+    {
   "id": "evt-217",
   "title": "CPCS361 – Quiz 1",
   "description": "Quiz 1 | Covers Chapters 1, 2, 3, 4 & 5 | 15 minutes | Online via Blackboard using a laptop | Deadline: Saturday, October 3, 2026 | 11:59 PM",
@@ -10,45 +21,12 @@
   "section": "CS1"
 },
     
-    {
-      "id": "evt-210",
-      "title": "CPCS-371 Lab 1 Due",
-      "description": "Lab 1 | 11:59 PM",
-      "endTime": "2026-09-29T23:59:00",
-      "type": "assignment",
-      "courseCode": "CPCS-371",
-      "section": "CS1"
-    },
-    {
-      "id": "evt-211",
-      "title": "CPCS-371 Lab 2 Due",
-      "description": "Lab 2 | 11:59 PM",
-      "endTime": "2026-09-29T23:59:00",
-      "type": "assignment",
-      "courseCode": "CPCS-371",
-      "section": "CS1"
-    },
-    {
-      "id": "evt-212",
-      "title": "CPCS-371 Lab 3 Due",
-      "description": "Lab 3 | 11:59 PM",
-      "endTime": "2026-09-29T23:59:00",
-      "type": "assignment",
-      "courseCode": "CPCS-371",
-      "section": "CS1"
-    },
+
+
 
 
     
-    {
-      "id": "evt-091",
-      "title": "September (ربيع الثاني)",
-      "description": "موعد المكافأة لشهر ربيع الثاني (مكافئة شهر سبتمبر)",
-      "endTime": "2026-09-26T23:59:59",
-      "type": "event",
-      "courseCode": "MONEY",
-      "section": "ALL"
-    },
+
 {
   "id": "evt-209",
   "title": "CPCS-331 – Assignment 01 Due",
@@ -58,6 +36,8 @@
   "courseCode": "CPCS-331",
   "section": "ALL"
 },
+
+    
 {
   "id": "evt-210",
   "title": "CPCS-324 – Assignment I Due",
