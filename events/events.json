@@ -1,6 +1,42 @@
 {
   "events": [
     {
+  "id": "evt-219",
+  "title": "CPCS351 – Lab 1",
+  "description": "Lab Assignment | Individual work | Due October 4, 2026 | 11:59 PM",
+  "endTime": "2026-10-04T23:59:00",
+  "type": "assignment",
+  "courseCode": "CPCS-351",
+  "section": "CS1"
+},
+{
+  "id": "evt-220",
+  "title": "CPCS351 – Lab 2",
+  "description": "Lab Assignment | Individual work | Due October 18, 2026 | 11:59 PM",
+  "endTime": "2026-10-18T23:59:00",
+  "type": "assignment",
+  "courseCode": "CPCS-351",
+  "section": "CS1"
+},
+{
+  "id": "evt-221",
+  "title": "CPCS351 – Lab 3 – Graded Lab",
+  "description": "Lab Assignment | Individual work | Due November 8, 2026 | 11:59 PM",
+  "endTime": "2026-11-08T23:59:00",
+  "type": "assignment",
+  "courseCode": "CPCS-351",
+  "section": "CS1"
+},
+{
+  "id": "evt-222",
+  "title": "CPCS351 – Lab 4 – Graded Lab",
+  "description": "Lab Assignment | Individual work | Due November 29, 2026 | 11:59 PM",
+  "endTime": "2026-11-29T23:59:00",
+  "type": "assignment",
+  "courseCode": "CPCS-351",
+  "section": "CS1"
+},
+    {
   "id": "evt-218",
   "title": "Lab 4 - 6",
   "description": "Lab 4 - 6 | Due Tuesday, October 13, 2026 | 11:59 PM",
