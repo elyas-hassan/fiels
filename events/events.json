@@ -1,14 +1,5 @@
 {
   "events": [
-    {
-  "id": "evt-223",
-  "title": "CPCS361 – Lab 3",
-  "description": "Lab 3 | 11:59 PM",
-  "endTime": "2026-10-06T23:59:00",
-  "type": "assignment",
-  "courseCode": "CPCS-361",
-  "section": "CS1"
-},
 {
   "id": "evt-220",
   "title": "CPCS351 – Lab 2",
