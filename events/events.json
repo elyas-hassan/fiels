@@ -36,6 +36,15 @@
   "courseCode": "CPCS-371",
   "section": "CS1"
 },
+    {
+  "id": "evt-224",
+  "title": "CPCS361 – Lab 4",
+  "description": "Lab 4 | 11:59 PM",
+  "endTime": "2026-10-13T23:59:00",
+  "type": "assignment",
+  "courseCode": "CPCS-361",
+  "section": "CS1"
+},
 
 {
   "id": "evt-212",
