@@ -56,6 +56,15 @@
   "section": "ALL"
 },
     {
+  "id": "evt-225",
+  "title": "CPCS371 – Lab 07",
+  "description": "Lab 07 | 8.2.1.4 Packet Tracer - Designing and Implementing a VLSM Addressing Scheme | 9.3.1.2 Packet Tracer Simulation - Exploration of TCP and UDP Communication | 11:59 PM",
+  "endTime": "2026-10-27T23:59:00",
+  "type": "assignment",
+  "courseCode": "CPCS-371",
+  "section": "CS1"
+},
+    {
       "id": "evt-092",
       "title": "October (جمادى الأولى)",
       "description": "موعد المكافأة لشهر جمادى الأولى (مكافئة شهر أكتوبر)",
