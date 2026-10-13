@@ -1,0 +1,219 @@
+{
+    "id": "3",
+    "category": "Stakeholder Management",
+    "title": "Project Stakeholder Management Processes and Engagement",
+    "timeLimit": 2400,
+    "questions": [
+        {
+            "type": "multiple-choice",
+            "question": "Stakeholder management borrows heavily from which two project management areas?",
+            "options": [
+                "Scope Management and Time Management",
+                "Communications Management and Human Resource Management",
+                "Cost Management and Risk Management",
+                "Integration Management and Procurement Management"
+            ],
+            "answer": "Communications Management and Human Resource Management"
+        },
+        {
+            "type": "true-false",
+            "question": "The primary goal of stakeholder management is for project managers to maintain an active dialogue with stakeholders to address concerns early and resolve issues.",
+            "answer": "true"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Measuring project success involves meeting the triple constraint (scope, time, cost). Which of the following is ALSO a key measure of project success?",
+            "options": [
+                "Achieving the projected Return on Investment (ROI)",
+                "Eliminating all external stakeholders",
+                "Completing the project without a stakeholder register",
+                "Ensuring the project stays entirely within the Initiating phase"
+            ],
+            "answer": "Achieving the projected Return on Investment (ROI)"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which stakeholder management process occurs during the Initiating phase of the project lifecycle?",
+            "options": [
+                "Planning Stakeholder Management",
+                "Managing Stakeholder Engagement",
+                "Identifying Stakeholders",
+                "Controlling Stakeholder Engagement"
+            ],
+            "answer": "Identifying Stakeholders"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Developing strategies to effectively engage stakeholders based on their needs is the core action of which process?",
+            "options": [
+                "Identifying Stakeholders",
+                "Planning Stakeholder Management",
+                "Managing Stakeholder Engagement",
+                "Controlling Stakeholder Engagement"
+            ],
+            "answer": "Planning Stakeholder Management"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which process group does 'Managing Stakeholder Engagement' belong to?",
+            "options": [
+                "Initiating",
+                "Planning",
+                "Executing",
+                "Monitoring & Controlling"
+            ],
+            "answer": "Executing"
+        },
+        {
+            "type": "true-false",
+            "question": "Controlling Stakeholder Engagement involves monitoring relationships and adjusting engagement strategies as needed, and it occurs during the Monitoring & Controlling phase.",
+            "answer": "true"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which of the following is considered an INTERNAL stakeholder?",
+            "options": [
+                "Competitors",
+                "Government Officials",
+                "Suppliers & Vendors",
+                "Functional Managers"
+            ],
+            "answer": "Functional Managers"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which of the following is considered an EXTERNAL stakeholder?",
+            "options": [
+                "Project Sponsor",
+                "Top Management",
+                "Government Regulators",
+                "Support / Admin Staff"
+            ],
+            "answer": "Government Regulators"
+        },
+        {
+            "type": "true-false",
+            "question": "Internal customers and project team members are both classified as external stakeholders.",
+            "answer": "false"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "What is the main deliverable or output of the Identifying Stakeholders process?",
+            "options": [
+                "Project Charter",
+                "Stakeholder Register",
+                "Stakeholder Management Plan",
+                "Communications Management Plan"
+            ],
+            "answer": "Stakeholder Register"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "In a Stakeholder Register, a stakeholder's name, title, department, and contact details fall under which category?",
+            "options": [
+                "Assessment Information",
+                "Stakeholder Classification",
+                "Identification Information",
+                "Engagement Levels"
+            ],
+            "answer": "Identification Information"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Major requirements, main expectations, potential influence, and phase of highest interest are documented in the Stakeholder Register as:",
+            "options": [
+                "Identification Information",
+                "Assessment Information",
+                "Classification Data",
+                "Interpersonal Skills"
+            ],
+            "answer": "Assessment Information"
+        },
+        {
+            "type": "true-false",
+            "question": "Stakeholder Classification can involve categorizing a stakeholder as supporter, neutral, or resister, as well as by their power and interest.",
+            "answer": "true"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "A stakeholder who is aware of the project but opposes it due to feared negative outcomes is classified as:",
+            "options": [
+                "Unaware",
+                "Neutral",
+                "Resistant",
+                "Supportive"
+            ],
+            "answer": "Resistant"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "A stakeholder who is aware of the project and actively pushing to ensure its success is classified as:",
+            "options": [
+                "Leading",
+                "Supportive",
+                "Neutral",
+                "Resistant"
+            ],
+            "answer": "Leading"
+        },
+        {
+            "type": "true-false",
+            "question": "A 'Neutral' stakeholder is completely unaware of the project and its potential impact.",
+            "answer": "false"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "The primary purpose of Planning Stakeholder Management is to create a plan that maps out:",
+            "options": [
+                "Only the financial budget for stakeholder meetings",
+                "Current versus desired engagement levels of stakeholders",
+                "The technical software architecture",
+                "How to eliminate resistant stakeholders from the company"
+            ],
+            "answer": "Current versus desired engagement levels of stakeholders"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which of the following is a key component included in the Stakeholder Management Plan?",
+            "options": [
+                "Source code repositories",
+                "Detailed technical blueprints",
+                "Communication requirements (who needs what info, format, and frequency)",
+                "The project's final approved budget limits"
+            ],
+            "answer": "Communication requirements (who needs what info, format, and frequency)"
+        },
+        {
+            "type": "true-false",
+            "question": "The Stakeholder Management Plan must always be highly formal; it can never be an informal document.",
+            "answer": "false"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Direct communication, active listening, open dialogue, and resolving conflicts before they escalate are core tasks of:",
+            "options": [
+                "Identifying Stakeholders",
+                "Managing Stakeholder Engagement",
+                "Planning Stakeholder Management",
+                "Closing the Project"
+            ],
+            "answer": "Managing Stakeholder Engagement"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which of the following represents the 'Core Truth' of Controlling Stakeholder Engagement?",
+            "options": [
+                "You can control stakeholders, but you cannot control their engagement.",
+                "You cannot control stakeholders, but you can control their level of engagement.",
+                "Stakeholder engagement requires a one-way command structure.",
+                "Once an engagement strategy is set, it should never be adjusted."
+            ],
+            "answer": "You cannot control stakeholders, but you can control their level of engagement."
+        },
+        {
+            "type": "true-false",
+            "question": "Controlling Stakeholder Engagement involves continuously monitoring relationships, measuring sentiment, and tweaking engagement strategies.",
+            "answer": "true"
+        }
+    ]
+}
