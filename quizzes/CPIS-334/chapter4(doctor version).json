@@ -1,1 +1,133 @@
-
+{
+    "id": "4",
+    "category": "Stakeholder Management",
+    "title": "Chapter 4: Stakeholder Management Review",
+    "timeLimit": 1800,
+    "questions": [
+        {
+            "type": "multiple-choice",
+            "question": "Which statement best defines a project stakeholder?",
+            "options": [
+                "Only someone who finances the project",
+                "An individual, group, or organization that may affect or be affected by the project",
+                "Only a member of the project team",
+                "Anyone who supports the project, excluding opponents"
+            ],
+            "answer": "An individual, group, or organization that may affect or be affected by the project"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "What information does a stakeholder register contain?",
+            "options": [
+                "Project costs, deadlines, and technical specifications",
+                "Only stakeholder names and telephone numbers",
+                "Identification information, assessment information, and stakeholder classification",
+                "Only stakeholder complaints and suggested solutions"
+            ],
+            "answer": "Identification information, assessment information, and stakeholder classification"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "A stakeholder knows about the project but neither supports nor resists it. What is their engagement level?",
+            "options": [
+                "Unaware",
+                "Resistant",
+                "Supportive",
+                "Neutral"
+            ],
+            "answer": "Neutral"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which activity belongs to managing stakeholder engagement?",
+            "options": [
+                "Communicating with stakeholders and resolving their issues",
+                "Recording only the project’s financial transactions",
+                "Avoiding stakeholders who oppose the project",
+                "Postponing communication until project completion"
+            ],
+            "answer": "Communicating with stakeholders and resolving their issues"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "What is the main purpose of controlling stakeholder engagement?",
+            "options": [
+                "Replacing stakeholders who disagree with project decisions",
+                "Preventing changes to the stakeholder management plan",
+                "Monitoring stakeholder relationships and adjusting engagement strategies",
+                "Ensuring all stakeholders have identical expectations"
+            ],
+            "answer": "Monitoring stakeholder relationships and adjusting engagement strategies"
+        },
+        {
+            "type": "true-false",
+            "question": "Stakeholder management is only critical during the initiation phase of a project.",
+            "answer": "false"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Why is regular dialogue and prompt issue resolution with stakeholders critical for a project manager?",
+            "options": [
+                "It helps ensure overall stakeholder satisfaction throughout the project's life.",
+                "It guarantees that the project budget will never be exceeded.",
+                "It eliminates the need for a Project Charter.",
+                "It prevents stakeholders from asking questions during execution."
+            ],
+            "answer": "It helps ensure overall stakeholder satisfaction throughout the project's life."
+        },
+        {
+            "type": "multiple-choice",
+            "question": "When identifying stakeholders, a project team must carefully consider and evaluate their:",
+            "options": [
+                "Salary history and personal background",
+                "Needs, interests, and potential influence on the project",
+                "Technical coding abilities only",
+                "Availability to work full-time on the project team"
+            ],
+            "answer": "Needs, interests, and potential influence on the project"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which stakeholder engagement level describes someone who understands the project and its potential impacts, and actively helps it succeed?",
+            "options": [
+                "Supportive",
+                "Leading",
+                "Neutral",
+                "Unaware"
+            ],
+            "answer": "Leading"
+        },
+        {
+            "type": "true-false",
+            "question": "A 'Resistant' stakeholder is someone who does not know about the project or its impact.",
+            "answer": "false"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which of the following is typically included in a Stakeholder Management Plan?",
+            "options": [
+                "The actual source code for software deliverables",
+                "Stakeholders' current and desired engagement levels, relationships, and communication requirements",
+                "The daily timesheets of the support and admin staff",
+                "The finalized technical blueprints of the system architecture"
+            ],
+            "answer": "Stakeholders' current and desired engagement levels, relationships, and communication requirements"
+        },
+        {
+            "type": "true-false",
+            "question": "A comprehensive Stakeholder Management Plan should explain the methods for how the plan itself will be updated.",
+            "answer": "true"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Beyond meeting scope, time, and cost goals, how else can project success be measured?",
+            "options": [
+                "By ensuring the project team worked overtime every week",
+                "By keeping all stakeholders at a 'Neutral' engagement level",
+                "By satisfying the customer/sponsor, meeting quality expectations, and achieving ROI projections",
+                "By rejecting all change requests regardless of their value"
+            ],
+            "answer": "By satisfying the customer/sponsor, meeting quality expectations, and achieving ROI projections"
+        }
+    ]
+}
