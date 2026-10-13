@@ -1,0 +1,424 @@
+{
+    "id": "2",
+    "category": "Software Development & PM Process Groups",
+    "title": "Section 1 & 2: SDLC and Project Management Process Groups",
+    "timeLimit": 3600,
+    "questions": [
+        {
+            "type": "multiple-choice",
+            "question": "A collection of project phases that defines what work will be performed, deliverables produced, and who is involved is known as the:",
+            "options": [
+                "Software Development Life Cycle",
+                "Project Life Cycle",
+                "Project Charter",
+                "Product Backlog"
+            ],
+            "answer": "Project Life Cycle"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "A tangible or intangible product or service produced as part of a project (e.g., a training session, a module of code) is called a:",
+            "options": [
+                "Deliverable",
+                "Sprint",
+                "Constraint",
+                "Business Case"
+            ],
+            "answer": "Deliverable"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "During which project phase is uncertainty and risk at their highest, while resource needs are at their lowest?",
+            "options": [
+                "Early Phase",
+                "Middle Phase",
+                "Final Phase",
+                "Maintenance Phase"
+            ],
+            "answer": "Early Phase"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "In which project phase do stakeholders have the greatest opportunity to influence the project's direction?",
+            "options": [
+                "Early Phase",
+                "Middle Phase",
+                "Final Phase",
+                "Testing Phase"
+            ],
+            "answer": "Early Phase"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "As a project moves into the Middle Phases, what happens to certainty and resource requirements?",
+            "options": [
+                "Certainty decreases, resources spike",
+                "Certainty improves, resources spike significantly",
+                "Certainty improves, resources drop drastically",
+                "Certainty decreases, resources remain low"
+            ],
+            "answer": "Certainty improves, resources spike significantly"
+        },
+        {
+            "type": "true-false",
+            "question": "Making major changes to a project during the Final Phase is generally inexpensive and easy to implement.",
+            "answer": "false"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which phase of the SDLC focuses on requirements gathering and identifying system goals?",
+            "options": [
+                "Analysis",
+                "Design",
+                "Implementation",
+                "Testing"
+            ],
+            "answer": "Analysis"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "During the SDLC, writing actual code and configuring systems occurs in which phase?",
+            "options": [
+                "Analysis",
+                "Design",
+                "Implementation",
+                "Support"
+            ],
+            "answer": "Implementation"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "If an organization uses the 'Purchase New Software' acquisition method, which SDLC phase is entirely skipped?",
+            "options": [
+                "Analysis",
+                "Design/Development",
+                "Support",
+                "Research"
+            ],
+            "answer": "Design/Development"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "When a project's scope is clearly articulated and schedule/cost can be accurately estimated up front, which development life cycle is best?",
+            "options": [
+                "Adaptive Life Cycle",
+                "Predictive Life Cycle",
+                "Agile Life Cycle",
+                "Scrum Life Cycle"
+            ],
+            "answer": "Predictive Life Cycle"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which SDLC model is characterized by being linear, rigid, and assuming requirements remain stable after definition?",
+            "options": [
+                "Spiral Model",
+                "Incremental Model",
+                "Waterfall Model",
+                "Agile Model"
+            ],
+            "answer": "Waterfall Model"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which SDLC model uses an iterative approach that heavily incorporates risk analysis at each cycle?",
+            "options": [
+                "Waterfall Model",
+                "Spiral Model",
+                "Prototyping Model",
+                "RAD Model"
+            ],
+            "answer": "Spiral Model"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Delivering software in operational builds or versions (e.g., Release 1.0, Build 2.0) based on customer urgency is a characteristic of the:",
+            "options": [
+                "Spiral Model",
+                "Prototyping Model",
+                "Incremental Build Model",
+                "Waterfall Model"
+            ],
+            "answer": "Incremental Build Model"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "If a project involves heavy UI/UX design or converting manual workflows to digital, which SDLC model is ideal to help users clarify requirements?",
+            "options": [
+                "Prototyping Model",
+                "Waterfall Model",
+                "Spiral Model",
+                "RAD Model"
+            ],
+            "answer": "Prototyping Model"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which model focuses on high-speed code generation using automated tools like CASE, JRP, and JAD?",
+            "options": [
+                "Spiral Model",
+                "Agile Model",
+                "RAD (Rapid Application Development) Model",
+                "Incremental Model"
+            ],
+            "answer": "RAD (Rapid Application Development) Model"
+        },
+        {
+            "type": "true-false",
+            "question": "Agile Software Development relies on setting time and cost boundaries while leaving the scope flexible.",
+            "answer": "true"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "In the Scrum Framework, the prioritized list of all features and requirements desired in the final product is called the:",
+            "options": [
+                "Sprint Backlog",
+                "Product Backlog",
+                "Project Charter",
+                "Work Breakdown Structure"
+            ],
+            "answer": "Product Backlog"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "A Sprint in Agile/Scrum is a short time-boxed period where a working software increment is created. How long is a typical Sprint?",
+            "options": [
+                "24 hours",
+                "1 to 3 days",
+                "2 to 4 weeks",
+                "6 months"
+            ],
+            "answer": "2 to 4 weeks"
+        },
+        {
+            "type": "true-false",
+            "question": "The daily scrum meeting lasts for 24 hours.",
+            "answer": "false"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "A series of actions directed toward a particular result, represented by 'Inputs → {Process {Tools & Techniques}} → Outputs', defines a:",
+            "options": [
+                "Phase",
+                "Deliverable",
+                "Process",
+                "Framework"
+            ],
+            "answer": "Process"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which of the 5 Project Management Process Groups involves formalizing acceptance of the project and bringing it to an orderly finish?",
+            "options": [
+                "Initiating",
+                "Executing",
+                "Monitoring & Controlling",
+                "Closing"
+            ],
+            "answer": "Closing"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which Project Management Process Group runs concurrently and overlaps all other process groups throughout the project life cycle?",
+            "options": [
+                "Planning",
+                "Executing",
+                "Monitoring & Controlling",
+                "Closing"
+            ],
+            "answer": "Monitoring & Controlling"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Establishing feasibility, justification, and key leadership before spending real project budget takes place during the:",
+            "options": [
+                "Execution Phase",
+                "Closing Phase",
+                "Pre-Initiation Phase",
+                "Monitoring Phase"
+            ],
+            "answer": "Pre-Initiation Phase"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "During Pre-Initiation, senior management develops a formal document justifying why the project should happen (e.g., ROI, strategic value). This is called the:",
+            "options": [
+                "Project Charter",
+                "Business Case",
+                "Stakeholder Register",
+                "Scope Statement"
+            ],
+            "answer": "Business Case"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "The official launch of the project, where money can be spent and team members assigned, happens in which process group?",
+            "options": [
+                "Initiating",
+                "Planning",
+                "Executing",
+                "Monitoring & Controlling"
+            ],
+            "answer": "Initiating"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "A short, formal document signed by the sponsor that grants the PM authority to use organizational resources is called the:",
+            "options": [
+                "Stakeholder Register",
+                "Project Charter",
+                "Gantt Chart",
+                "Risk Register"
+            ],
+            "answer": "Project Charter"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "The first official meeting where stakeholders align on goals, review the charter, and outline next steps is known as the:",
+            "options": [
+                "Sprint Retrospective",
+                "Daily Stand-up",
+                "Kick-off Meeting",
+                "Lessons-Learned Session"
+            ],
+            "answer": "Kick-off Meeting"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "If you fail to plan, you plan to fail. The primary purpose of the Planning Process Group is to:",
+            "options": [
+                "Archive project records",
+                "Guide execution",
+                "Approve the Project Charter",
+                "Create a working software increment"
+            ],
+            "answer": "Guide execution"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which of the following is NOT an output of the Planning Process Group?",
+            "options": [
+                "WBS (Work Breakdown Structure)",
+                "Team Contract",
+                "Change Requests",
+                "Risk Register"
+            ],
+            "answer": "Change Requests"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which Process Group is where the actual work happens and consumes the vast majority of time and resources?",
+            "options": [
+                "Planning",
+                "Executing",
+                "Monitoring & Controlling",
+                "Initiating"
+            ],
+            "answer": "Executing"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Performance & Status Reports, Change Requests, and Project Plan Updates are key outputs of which Process Group?",
+            "options": [
+                "Initiating",
+                "Executing",
+                "Monitoring & Controlling",
+                "Closing"
+            ],
+            "answer": "Monitoring & Controlling"
+        },
+        {
+            "type": "true-false",
+            "question": "If a project fails or is canceled before completion, it does not need to go through the formal Closing process.",
+            "answer": "false"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "During the Closing phase, asking 'What went well?' and 'What went wrong?' occurs during the:",
+            "options": [
+                "Kick-off Meeting",
+                "Lessons-Learned Sessions",
+                "Sprint Planning",
+                "Pre-Initiation Phase"
+            ],
+            "answer": "Lessons-Learned Sessions"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Where are project records archived for future reference during the Closing phase?",
+            "options": [
+                "Sprint Backlog",
+                "Change Requests",
+                "Organizational Process Assets (OPAs)",
+                "The Project Charter"
+            ],
+            "answer": "Organizational Process Assets (OPAs)"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which PM Knowledge Area answers the practical question: 'What work is required—and what is excluded?'",
+            "options": [
+                "Integration",
+                "Scope",
+                "Risk",
+                "Quality"
+            ],
+            "answer": "Scope"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which PM Knowledge Area answers the practical question: 'How do we bring all parts together into a cohesive system?'",
+            "options": [
+                "Integration",
+                "Communications",
+                "Procurement",
+                "Time"
+            ],
+            "answer": "Integration"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which PM Knowledge Area answers the practical question: 'What needs to be purchased or contracted externally?'",
+            "options": [
+                "Human Resources",
+                "Cost",
+                "Procurement",
+                "Stakeholder"
+            ],
+            "answer": "Procurement"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which PM Knowledge Area answers the practical question: 'Does it meet stakeholder expectations & standards?'",
+            "options": [
+                "Quality",
+                "Risk",
+                "Scope",
+                "Time"
+            ],
+            "answer": "Quality"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which PM Knowledge Area answers the practical question: 'Who needs what information, and how often?'",
+            "options": [
+                "Stakeholder",
+                "Human Resources",
+                "Communications",
+                "Integration"
+            ],
+            "answer": "Communications"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which PM Knowledge Area answers the practical question: 'What could go wrong, and how do we prepare?'",
+            "options": [
+                "Cost",
+                "Risk",
+                "Quality",
+                "Scope"
+            ],
+            "answer": "Risk"
+        }
+    ]
+}
