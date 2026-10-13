@@ -1,0 +1,133 @@
+{
+    "id": "7",
+    "category": "Project Scope Management",
+    "title": "Chapter 5: Scope Management Review Questions",
+    "timeLimit": 2400,
+    "questions": [
+        {
+            "type": "multiple-choice",
+            "question": "What does project scope refer to?",
+            "options": [
+                "Only the project’s budget",
+                "All the work involved in creating products or services and the processes to create them",
+                "Only the project’s schedule",
+                "The number of project team members"
+            ],
+            "answer": "All the work involved in creating products or services and the processes to create them"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "What are the two main outputs of planning scope management?",
+            "options": [
+                "Project charter and project schedule",
+                "WBS and accepted deliverables",
+                "Scope management plan and requirements management plan",
+                "Cost baseline and risk register"
+            ],
+            "answer": "Scope management plan and requirements management plan"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which technique collects requirements by watching users perform their work?",
+            "options": [
+                "Observation",
+                "Benchmarking",
+                "Brainstorming",
+                "Prototyping"
+            ],
+            "answer": "Observation"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "What is a task at the lowest level of the Work Breakdown Structure (WBS) called?",
+            "options": [
+                "Project phase",
+                "Scope statement",
+                "Milestone",
+                "Work package"
+            ],
+            "answer": "Work package"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which project management process involves the formal acceptance of completed project deliverables?",
+            "options": [
+                "Defining scope",
+                "Controlling scope",
+                "Validating scope",
+                "Collecting requirements"
+            ],
+            "answer": "Validating scope"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which of the following correctly lists all six processes of project scope management?",
+            "options": [
+                "Plan scope management, collect requirements, define scope, create the WBS, validate scope, and control scope",
+                "Initiate project, plan scope, define scope, execute scope, validate scope, close scope",
+                "Plan scope, collect requirements, build schedule, estimate costs, validate scope, control scope",
+                "Collect requirements, define scope, create WBS, build prototypes, test deliverables, control scope"
+            ],
+            "answer": "Plan scope management, collect requirements, define scope, create the WBS, validate scope, and control scope"
+        },
+        {
+            "type": "true-false",
+            "question": "Collecting requirements and defining scope are two of the six official processes of project scope management.",
+            "answer": "true"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "At a minimum, what should a project scope statement include?",
+            "options": [
+                "The project manager's resume, the project sponsor's contact info, and team salaries",
+                "A product scope description, product user acceptance criteria, and detailed information about all project deliverables",
+                "Only the boundaries and constraints of what is excluded from the project",
+                "The Work Breakdown Structure and the project schedule"
+            ],
+            "answer": "A product scope description, product user acceptance criteria, and detailed information about all project deliverables"
+        },
+        {
+            "type": "true-false",
+            "question": "A project scope statement only needs to include the project schedule and cost baseline.",
+            "answer": "false"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Why is the Work Breakdown Structure (WBS) considered a critical tool in project management?",
+            "options": [
+                "It serves as the formal contract between the vendor and the client.",
+                "It lists all the stakeholders and their current engagement levels.",
+                "It divides major deliverables into manageable components, defines the total project scope, and supports planning schedules and costs.",
+                "It tracks the daily attendance and performance of the project team members."
+            ],
+            "answer": "It divides major deliverables into manageable components, defines the total project scope, and supports planning schedules and costs."
+        },
+        {
+            "type": "multiple-choice",
+            "question": "In the context of scope control, what is the primary purpose of variance analysis?",
+            "options": [
+                "To brainstorm new features to add to the project scope.",
+                "To compare planned performance against actual performance to identify differences and support decisions about controlling scope.",
+                "To write the code for automated testing software.",
+                "To officially sign off and accept the final deliverables from the project team."
+            ],
+            "answer": "To compare planned performance against actual performance to identify differences and support decisions about controlling scope."
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which of the following is considered a best practice for avoiding scope problems in a project?",
+            "options": [
+                "Avoid involving users until the final testing phase.",
+                "Accept all scope changes without adjusting time or budget to please the client.",
+                "Keep the scope realistic, involve users in scope management, and follow good project management processes.",
+                "Build all technology from scratch instead of using Commercial-Off-The-Shelf (COTS) software."
+            ],
+            "answer": "Keep the scope realistic, involve users in scope management, and follow good project management processes."
+        },
+        {
+            "type": "true-false",
+            "question": "Involving users actively in scope management and keeping project goals realistic are proven ways to avoid scope problems.",
+            "answer": "true"
+        }
+    ]
+}
