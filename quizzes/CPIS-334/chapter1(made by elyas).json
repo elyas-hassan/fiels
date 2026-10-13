@@ -219,17 +219,7 @@
             "question": "One of the reasons projects fail is the inability to manage changing scope or requirements.",
             "answer": "true"
         },
-        {
-            "type": "multiple-choice",
-            "question": "According to research, what percentage of successful projects are led by experienced project managers?",
-            "options": [
-                "50%",
-                "75%",
-                "89%",
-                "97%"
-            ],
-            "answer": "97%"
-        },
+    
         {
             "type": "multiple-choice",
             "question": "While 'Management' deals with day-to-day operational execution, 'Leadership' focuses on:",
@@ -305,17 +295,17 @@
             "question": "The application of knowledge, skills, tools, and techniques to project activities to meet project requirements is the definition of Project Management.",
             "answer": "true"
         },
-        {
-            "type": "multiple-choice",
-            "question": "ما هي معايير النجاح الأساسية للمشروع؟ (What are the basic success criteria for a project?)",
-            "options": [
-                "تحقيق الأهداف ضمن الوقت والميزانية المحددين فقط",
-                "رضا العميل وتحقيق العائد الاستثماري المتوقع",
-                "تحقيق الأهداف ضمن الوقت والميزانية + رضا العميل + تحقيق العائد الاستثماري",
-                "إكمال المشروع في أسرع وقت بغض النظر عن الجودة والميزانية"
-            ],
-            "answer": "تحقيق الأهداف ضمن الوقت والميزانية + رضا العميل + تحقيق العائد الاستثماري"
-        },
+{
+    "type": "multiple-choice",
+    "question": "What is the core focus of Portfolio Management?",
+    "options": [
+        "Tactical execution (Doing things right)",
+        "Coordination (Linking related projects)",
+        "Strategic alignment (Doing the right things)",
+        "Single endeavor (Producing a specific result)"
+    ],
+    "answer": "Strategic alignment (Doing the right things)"
+},
         {
             "type": "true-false",
             "question": "The tool/technique known as 'Earned Value' is utilized within the Project Cost Knowledge Area.",
