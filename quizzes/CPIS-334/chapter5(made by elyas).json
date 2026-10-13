@@ -1,0 +1,340 @@
+{
+    "id": "5",
+    "category": "Project Scope Management",
+    "title": "Chapter 5: Introduction to Project Scope Management",
+    "timeLimit": 3600,
+    "questions": [
+        {
+            "type": "multiple-choice",
+            "question": "Which of the following best defines 'Scope' in project management?",
+            "options": [
+                "Only the physical products produced by the project team",
+                "All the work involved in creating the project's products or services, as well as the processes used to build them",
+                "The financial budget and time constraints of the project",
+                "The documented list of team members and their responsibilities"
+            ],
+            "answer": "All the work involved in creating the project's products or services, as well as the processes used to build them"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Project Scope Management ensures that the project includes:",
+            "options": [
+                "As much work as possible to impress the client",
+                "All the work required, and ONLY the work required, to complete the project successfully",
+                "Only the work that the project team prefers to do",
+                "Additional features requested by external stakeholders during execution"
+            ],
+            "answer": "All the work required, and ONLY the work required, to complete the project successfully"
+        },
+        {
+            "type": "true-false",
+            "question": "Product Scope refers to what products or services the project will produce, whereas Project Scope refers to what processes will be used to build them.",
+            "answer": "true"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "How many distinct processes make up Project Scope Management?",
+            "options": [
+                "4",
+                "5",
+                "6",
+                "10"
+            ],
+            "answer": "6"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which two Project Scope Management processes belong to the Monitoring & Controlling (M&C) process group?",
+            "options": [
+                "Plan Scope Management and Collect Requirements",
+                "Define Scope and Create WBS",
+                "Validate Scope and Control Scope",
+                "Collect Requirements and Validate Scope"
+            ],
+            "answer": "Validate Scope and Control Scope"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "What is the core deliverable or output of the 'Define Scope' process?",
+            "options": [
+                "Requirements Traceability Matrix (RTM)",
+                "Project Scope Statement",
+                "Scope Baseline",
+                "Accepted Deliverables"
+            ],
+            "answer": "Project Scope Statement"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "What is the core deliverable or output of the 'Create WBS' process?",
+            "options": [
+                "Scope Baseline (WBS, Dictionary, Scope Statement)",
+                "Scope Management Plan",
+                "Change Requests",
+                "Requirements Documentation"
+            ],
+            "answer": "Scope Baseline (WBS, Dictionary, Scope Statement)"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "The 'Plan Scope Management' process utilizes which of the following as its main tools?",
+            "options": [
+                "Variance Analysis and Inspection",
+                "Expert Judgment and Meetings",
+                "Brainstorming and Prototyping",
+                "Word Processors and Spreadsheets"
+            ],
+            "answer": "Expert Judgment and Meetings"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which document describes how requirements will be collected, analyzed, prioritized, tracked, and managed across iterative cycles?",
+            "options": [
+                "Scope Management Plan",
+                "Requirements Management Plan",
+                "WBS Dictionary",
+                "Project Charter"
+            ],
+            "answer": "Requirements Management Plan"
+        },
+        {
+            "type": "true-false",
+            "question": "The PMBOK describes requirements as conditions or capabilities that must be met by the project or present in the product to satisfy an agreement.",
+            "answer": "true"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which requirements elicitation method involves shadowing users to see their actual operational workflows?",
+            "options": [
+                "Interviewing",
+                "Brainstorming",
+                "Observation",
+                "Benchmarking"
+            ],
+            "answer": "Observation"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Comparing your project practices or product specs against industry best practices or competitors is a method known as:",
+            "options": [
+                "Prototyping",
+                "Benchmarking",
+                "Focus Groups",
+                "Questionnaires"
+            ],
+            "answer": "Benchmarking"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which method involves building mock-ups or working models to iterate user feedback?",
+            "options": [
+                "Prototyping",
+                "Observation",
+                "Brainstorming",
+                "Surveys"
+            ],
+            "answer": "Prototyping"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "What is a Requirements Traceability Matrix (RTM)?",
+            "options": [
+                "A financial model used to calculate ROI",
+                "A grid table linking product requirements from their origin to the deliverables that satisfy them",
+                "A visual diagram of the project team's hierarchy",
+                "A detailed technical manual for software installation"
+            ],
+            "answer": "A grid table linking product requirements from their origin to the deliverables that satisfy them"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which of the following is NOT a component of the Project Scope Statement?",
+            "options": [
+                "Product Scope Description",
+                "Product User Acceptance Criteria",
+                "Gantt Chart Schedules",
+                "Boundaries, Constraints, & Assumptions"
+            ],
+            "answer": "Gantt Chart Schedules"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Clear statements in the Scope Statement regarding what IS NOT included in the project are designed to prevent:",
+            "options": [
+                "Scope Creep",
+                "Decomposition",
+                "Variance Analysis",
+                "Benchmarking"
+            ],
+            "answer": "Scope Creep"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "How is 'Scope Creep' defined in project management?",
+            "options": [
+                "The deliberate reduction of project scope to save money",
+                "The uncontrolled expansion of project scope without time or cost adjustments",
+                "The process of breaking down large tasks into smaller ones",
+                "The formal acceptance of completed deliverables"
+            ],
+            "answer": "The uncontrolled expansion of project scope without time or cost adjustments"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "The process of subdividing major project deliverables into smaller, more manageable components is known as:",
+            "options": [
+                "Integration",
+                "Decomposition",
+                "Prototyping",
+                "Validation"
+            ],
+            "answer": "Decomposition"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "What is the lowest level task entry in a Work Breakdown Structure (WBS)?",
+            "options": [
+                "Scope Baseline",
+                "Deliverable",
+                "Work Package",
+                "Task Dictionary"
+            ],
+            "answer": "Work Package"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which document explains detailed specifics for each WBS code item, such as task responsibility, cost estimates, and resources needed?",
+            "options": [
+                "Scope Statement",
+                "Requirements Document",
+                "WBS Dictionary",
+                "RTM"
+            ],
+            "answer": "WBS Dictionary"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "The Scope Baseline is formed by combining which three documents?",
+            "options": [
+                "Scope Statement + WBS + WBS Dictionary",
+                "Project Charter + WBS + RTM",
+                "Scope Statement + RTM + Requirements Document",
+                "Scope Management Plan + Gantt Chart + WBS"
+            ],
+            "answer": "Scope Statement + WBS + WBS Dictionary"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which approach to building a WBS involves reviewing a WBS from similar past projects and customizing it?",
+            "options": [
+                "Top-Down Approach",
+                "Bottom-Up Approach",
+                "Analogy Approach",
+                "Guidelines Approach"
+            ],
+            "answer": "Analogy Approach"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which approach to building a WBS starts with the main project outcomes and decomposes downwards?",
+            "options": [
+                "Bottom-Up Approach",
+                "Top-Down Approach",
+                "Analogy Approach",
+                "Prototyping Approach"
+            ],
+            "answer": "Top-Down Approach"
+        },
+        {
+            "type": "true-false",
+            "question": "According to the 100% Rule, a unit of work must appear in only one place in the WBS, and the sum of child items equals 100% of the parent item.",
+            "answer": "true"
+        },
+        {
+            "type": "true-false",
+            "question": "In a WBS, a single item can have multiple individuals assigned with primary responsibility.",
+            "answer": "false"
+        },
+        {
+            "type": "true-false",
+            "question": "Project team members should be involved in developing the WBS to ensure consistency and team buy-in.",
+            "answer": "true"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "The process of formalizing acceptance of completed deliverables through customer inspection and sign-off is called:",
+            "options": [
+                "Control Scope",
+                "Define Scope",
+                "Validate Scope",
+                "Plan Scope Management"
+            ],
+            "answer": "Validate Scope"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "During the 'Validate Scope' process, what happens if a customer inspects a deliverable and finds it unsatisfactory?",
+            "options": [
+                "The project is instantly canceled",
+                "Formal change requests are issued",
+                "The deliverable is accepted anyway",
+                "The Scope Baseline is permanently locked"
+            ],
+            "answer": "Formal change requests are issued"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "The primary mechanism used in 'Control Scope' to compare planned performance (Scope Baseline) against actual progress is called:",
+            "options": [
+                "Variance Analysis",
+                "Decomposition",
+                "Observation",
+                "Benchmarking"
+            ],
+            "answer": "Variance Analysis"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which of the following is a key objective of the Control Scope process?",
+            "options": [
+                "To collect initial requirements from stakeholders",
+                "To build mock-ups and working models",
+                "To ensure changes are processed through the Integrated Change Control system",
+                "To obtain formal sign-off on the final product"
+            ],
+            "answer": "To ensure changes are processed through the Integrated Change Control system"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "As a best practice to prevent scope problems, what does the acronym COTS stand for when advising teams to use existing technology before building custom solutions?",
+            "options": [
+                "Custom-Order-Technology-Software",
+                "Commercial-Off-The-Shelf",
+                "Code-Oriented-Task-System",
+                "Centralized-Operations-Tracking-System"
+            ],
+            "answer": "Commercial-Off-The-Shelf"
+        },
+        {
+            "type": "true-false",
+            "question": "A best practice for scope management is maintaining 'Realism' by breaking large projects into smaller, more manageable ones.",
+            "answer": "true"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which software tool is most commonly used for creating WBS layouts and converting WBS tasks into Gantt Chart schedules?",
+            "options": [
+                "Word Processors",
+                "Spreadsheets",
+                "Project Management Software (e.g., MS Project)",
+                "Accounting Software"
+            ],
+            "answer": "Project Management Software (e.g., MS Project)"
+        },
+        {
+            "type": "true-false",
+            "question": "Spreadsheets are often used in Scope Management for financial models, scoring matrices, and requirements traceability matrices.",
+            "answer": "true"
+        }
+    ]
+}
