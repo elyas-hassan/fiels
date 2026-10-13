@@ -1,0 +1,160 @@
+{
+    "id": "8",
+    "category": "Project Cost Management",
+    "title": "Chapter 7: Project Cost Management Review",
+    "timeLimit": 2400,
+    "questions": [
+        {
+            "type": "multiple-choice",
+            "question": "What is the main purpose of project cost management?",
+            "options": [
+                "To increase the project scope",
+                "To complete the project within the approved budget",
+                "To eliminate all project risks",
+                "To reduce the number of stakeholders"
+            ],
+            "answer": "To complete the project within the approved budget"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which process allocates the overall cost estimate to individual work items?",
+            "options": [
+                "Planning cost management",
+                "Estimating costs",
+                "Determining the budget",
+                "Controlling costs"
+            ],
+            "answer": "Determining the budget"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "According to the slides, what is the accuracy range of a definitive estimate?",
+            "options": [
+                "-5% to +10%",
+                "-10% to +25%",
+                "-50% to +100%",
+                "-25% to +50%"
+            ],
+            "answer": "-5% to +10%"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Earned Value Management (EVM) integrates which three types of data?",
+            "options": [
+                "Quality, risk, and resources",
+                "Cost, communication, and procurement",
+                "Scope, quality, and risk",
+                "Scope, time, and cost"
+            ],
+            "answer": "Scope, time, and cost"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "If earned value (EV) is $300 and actual cost (AC) is $400, what is the cost performance index (CPI), and what does it indicate?",
+            "options": [
+                "1.33, indicating the project is under budget",
+                "0.75, indicating the project is over budget",
+                "1.00, indicating the project is on budget",
+                "0.75, indicating the project is under budget"
+            ],
+            "answer": "0.75, indicating the project is over budget"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which of the following represents common causes of cost overruns in IT projects?",
+            "options": [
+                "Detailed historical data and overestimating the budget",
+                "Rushed estimates, lack of estimating experience, and a tendency to underestimate costs like testing",
+                "Using commercial off-the-shelf software and highly experienced accountants",
+                "Excessive management reserves and rigorous variance analysis"
+            ],
+            "answer": "Rushed estimates, lack of estimating experience, and a tendency to underestimate costs like testing"
+        },
+        {
+            "type": "true-false",
+            "question": "A tendency to underestimate 'hidden' costs, such as software testing and user training, is a major reason why IT projects experience cost overruns.",
+            "answer": "true"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "What document describes how project costs and cost variances will be managed, including accuracy guidelines, control thresholds, and reporting formats?",
+            "options": [
+                "Cost Baseline",
+                "Cost Management Plan",
+                "Work Breakdown Structure",
+                "Project Charter"
+            ],
+            "answer": "Cost Management Plan"
+        },
+        {
+            "type": "true-false",
+            "question": "The cost management plan establishes the rules for measuring project cost performance and the formats for cost reporting.",
+            "answer": "true"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "What is a time-phased budget used to determine project funding requirements and monitor cost performance called?",
+            "options": [
+                "Cost Baseline",
+                "Cost Variance",
+                "Earned Value (EV)",
+                "Definitive Estimate"
+            ],
+            "answer": "Cost Baseline"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "In Earned Value Management, what does Planned Value (PV) mean?",
+            "options": [
+                "The actual cost incurred in performing the work",
+                "The budgeted value of work actually completed",
+                "The budgeted cost of work scheduled to be completed by a certain date",
+                "The final estimate of the project's total cost"
+            ],
+            "answer": "The budgeted cost of work scheduled to be completed by a certain date"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which term in Earned Value Management (EVM) represents the budgeted value of the work that has ACTUALLY been completed?",
+            "options": [
+                "Planned Value (PV)",
+                "Actual Cost (AC)",
+                "Earned Value (EV)",
+                "Cost Variance (CV)"
+            ],
+            "answer": "Earned Value (EV)"
+        },
+        {
+            "type": "true-false",
+            "question": "Actual Cost (AC) refers strictly to the actual costs incurred in performing the work on a project.",
+            "answer": "true"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "How is Cost Variance (CV) calculated, and what does a negative value indicate?",
+            "options": [
+                "CV = EV - AC. A negative CV indicates the project is over budget.",
+                "CV = EV - PV. A negative CV indicates the project is behind schedule.",
+                "CV = AC - EV. A negative CV indicates the project is under budget.",
+                "CV = PV - AC. A negative CV indicates the project is ahead of schedule."
+            ],
+            "answer": "CV = EV - AC. A negative CV indicates the project is over budget."
+        },
+        {
+            "type": "multiple-choice",
+            "question": "How is Schedule Variance (SV) calculated, and what does a negative value indicate?",
+            "options": [
+                "SV = AC - EV. A negative SV indicates the project is over budget.",
+                "SV = EV - PV. A negative SV indicates the project is behind schedule.",
+                "SV = PV - EV. A negative SV indicates the project is ahead of schedule.",
+                "SV = EV / PV. A negative SV indicates the project is on schedule."
+            ],
+            "answer": "SV = EV - PV. A negative SV indicates the project is behind schedule."
+        },
+        {
+            "type": "true-false",
+            "question": "A negative Schedule Variance (SV) indicates that the project is currently ahead of schedule.",
+            "answer": "false"
+        }
+    ]
+}
