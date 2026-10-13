@@ -1,0 +1,265 @@
+{
+    "id": "6",
+    "category": "Project Cost Management",
+    "title": "Chapter 6: Project Cost Management and Earned Value Management",
+    "timeLimit": 4800,
+    "questions": [
+        {
+            "type": "multiple-choice",
+            "question": "Which of the following combinations represents the most common reasons why IT projects suffer severe cost overruns?",
+            "options": [
+                "Detailed requirements exist before estimating, accounting professionals are solely responsible for estimates, and humans overestimate hidden costs.",
+                "Estimates are rushed before clear requirements exist, IT managers mistakenly think estimating is an accountant's job, and there is a human bias toward underestimating hidden costs like testing.",
+                "Estimates are overly detailed, project managers utilize bottom-up estimating too early, and software testing requires less time than anticipated.",
+                "Executive boards strictly focus on technical IT jargon, leading to misunderstandings of fixed versus variable costs."
+            ],
+            "answer": "Estimates are rushed before clear requirements exist, IT managers mistakenly think estimating is an accountant's job, and there is a human bias toward underestimating hidden costs like testing."
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Life Cycle Costing is a critical financial principle for project managers to communicate with executive boards. What does it primarily evaluate?",
+            "options": [
+                "Only the direct costs incurred during the execution phase of the project.",
+                "The Total Cost of Ownership, which includes both the initial development costs and the long-term support and maintenance costs.",
+                "The ratio of revenues to profits over a specific financial quarter.",
+                "The estimated annual cash flow compared strictly to sunk costs."
+            ],
+            "answer": "The Total Cost of Ownership, which includes both the initial development costs and the long-term support and maintenance costs."
+        },
+        {
+            "type": "multiple-choice",
+            "question": "An IT team rents testing equipment for exactly one month for $5,000, while paying external consultants an hourly rate based on the fluctuating amount of testing required. How would you classify these two costs respectively?",
+            "options": [
+                "Variable cost and Fixed cost",
+                "Direct cost and Indirect cost",
+                "Fixed cost and Variable cost",
+                "Sunk cost and Tangible cost"
+            ],
+            "answer": "Fixed cost and Variable cost"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "A project manager spent $50,000 on a marketing study for a software product that recent market shifts have rendered obsolete. Executive management wants to continue the project simply because $50,000 has already been spent. What financial principle dictates that they should halt the project?",
+            "options": [
+                "Profit Margin Theory",
+                "The Sunk Cost Rule",
+                "Learning Curve Theory",
+                "Cash Flow Analysis"
+            ],
+            "answer": "The Sunk Cost Rule"
+        },
+        {
+            "type": "true-false",
+            "question": "According to the Learning Curve Theory, when items are produced repetitively, the unit cost increases in a regular pattern because resources become exhausted and machines require more maintenance.",
+            "answer": "false"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which of the following correctly distinguishes 'Costing' from 'Pricing' in project management?",
+            "options": [
+                "Cost is a business decision determining what the customer pays, while Price is the quantitative value of how much it takes to provide the service.",
+                "Cost includes the profit margin, while Price is strictly the quantitative value of materials used.",
+                "Cost is the quantitative value of how much it takes to provide the project/service, while Price is a business decision determining what the customer pays.",
+                "There is no difference; Cost and Price are interchangeable terms in Project Management."
+            ],
+            "answer": "Cost is the quantitative value of how much it takes to provide the project/service, while Price is a business decision determining what the customer pays."
+        },
+        {
+            "type": "multiple-choice",
+            "question": "An organization knows it has a 20% IT staff turnover rate, so they budget extra funds for future recruiting and training. Furthermore, a project manager gets sick for two weeks unpredictably, requiring additional funds. Which types of financial reserves cover these two scenarios respectively?",
+            "options": [
+                "Management Reserves (for turnover) and Contingency Reserves (for illness)",
+                "Contingency Reserves (for turnover) and Management Reserves (for illness)",
+                "Sunk Reserves (for turnover) and Variable Reserves (for illness)",
+                "Tangible Reserves (for turnover) and Intangible Reserves (for illness)"
+            ],
+            "answer": "Contingency Reserves (for turnover) and Management Reserves (for illness)"
+        },
+        {
+            "type": "true-false",
+            "question": "Management Reserves are included in the baseline specifically for predictable risks, known as 'Known Unknowns'.",
+            "answer": "false"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "During the 'Plan Cost Management' process, the resulting Cost Management Plan establishes 'Control Thresholds'. What is the purpose of a control threshold?",
+            "options": [
+                "To define the exact mathematical model used for Parametric Estimating.",
+                "To specify the allowed variation in costs before corrective action is taken (e.g., a 10% budget variance limit).",
+                "To outline the rules for linking the WBS to the accounting system via Control Accounts.",
+                "To round cost estimates to the nearest $100."
+            ],
+            "answer": "To specify the allowed variation in costs before corrective action is taken (e.g., a 10% budget variance limit)."
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which of the following correctly pairs the type of Cost Estimate with its typical accuracy range and phase of execution?",
+            "options": [
+                "Definitive: -50% to +100%, done very early for project selection.",
+                "Budgetary: -5% to +10%, done before purchasing decisions.",
+                "Rough Order of Magnitude (ROM): -10% to +25%, done 1-2 years in advance.",
+                "Definitive: -5% to +10%, done just before purchasing decisions."
+            ],
+            "answer": "Definitive: -5% to +10%, done just before purchasing decisions."
+        },
+        {
+            "type": "multiple-choice",
+            "question": "A project manager is estimating costs by using a mathematical model based on project characteristics (e.g., calculating $50 per line of code). Which estimation tool and technique is being utilized?",
+            "options": [
+                "Analogous (Top-Down) Estimating",
+                "Bottom-Up Estimating",
+                "Parametric Modeling",
+                "Rough Order of Magnitude (ROM)"
+            ],
+            "answer": "Parametric Modeling"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which cost estimation technique is known for being highly accurate but is simultaneously the most time-consuming and expensive to produce?",
+            "options": [
+                "Analogous Estimating",
+                "Bottom-Up Estimating",
+                "Top-Down Estimating",
+                "Parametric Modeling"
+            ],
+            "answer": "Bottom-Up Estimating"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "The process of 'Determining the Budget' allocates the overall cost estimate to individual work items over time. What is the primary required input for this process, and what is its primary output?",
+            "options": [
+                "Input: Earned Value (EV) | Output: Cost Management Plan",
+                "Input: Control Thresholds | Output: Rough Order of Magnitude (ROM)",
+                "Input: Work Breakdown Structure (WBS) | Output: Cost Baseline",
+                "Input: Cost Baseline | Output: Work Breakdown Structure (WBS)"
+            ],
+            "answer": "Input: Work Breakdown Structure (WBS) | Output: Cost Baseline"
+        },
+        {
+            "type": "true-false",
+            "question": "A Cost Baseline is a time-phased budget that project managers use to measure and monitor cost performance.",
+            "answer": "true"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "In Earned Value Management (EVM), what does the term 'Earned Value' (EV) specifically represent?",
+            "options": [
+                "The approved budget planned to be spent on an activity by a given date.",
+                "The total direct and indirect costs actually spent on the project so far.",
+                "The forecasted time to complete the job based on current performance.",
+                "The quantitative value of the work that has actually been completed to date (EV = PV x RP)."
+            ],
+            "answer": "The quantitative value of the work that has actually been completed to date (EV = PV x RP)."
+        },
+        {
+            "type": "multiple-choice",
+            "question": "According to Earned Value Management (EVM) rules of thumb, if a project has negative variance numbers or index ratios under 1.0 (100%), what does this indicate?",
+            "options": [
+                "The project is performing extremely well, staying under budget and ahead of schedule.",
+                "The project is doing poorly, meaning it is either over budget, behind schedule, or both.",
+                "The project has perfectly aligned with the Cost Baseline.",
+                "The project requires no further Management Reserves."
+            ],
+            "answer": "The project is doing poorly, meaning it is either over budget, behind schedule, or both."
+        },
+        {
+            "type": "multiple-choice",
+            "question": "SCENARIO: You are managing a project to install 10 printer drivers in 10 weeks. The total budget (BAC) is $100,000 ($10,000 per printer). The plan is to install 1 printer per week. It is currently the end of Week 5. Based on this information, what is your Planned Value (PV)?",
+            "options": [
+                "$10,000",
+                "$40,000",
+                "$50,000",
+                "$100,000"
+            ],
+            "answer": "$50,000"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "SCENARIO CONTINUED: At the end of Week 5, your team has successfully finished installing 4 printers. What is the Earned Value (EV) of the project at this point?",
+            "options": [
+                "$40,000",
+                "$47,500",
+                "$50,000",
+                "$80,000"
+            ],
+            "answer": "$40,000"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "SCENARIO CONTINUED: At the end of Week 5, with 4 printers finished, the accounting department informs you that the Actual Cost (AC) spent so far is $47,500. Calculate the Cost Variance (CV) and determine the budget status.",
+            "options": [
+                "CV = +$2,500 (Under Budget)",
+                "CV = -$7,500 (Over Budget)",
+                "CV = -$10,000 (Over Budget)",
+                "CV = +$7,500 (Under Budget)"
+            ],
+            "answer": "CV = -$7,500 (Over Budget)"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "SCENARIO CONTINUED: Using the same data (PV = $50,000; EV = $40,000; AC = $47,500), calculate the Schedule Variance (SV) and determine the schedule status.",
+            "options": [
+                "SV = -$7,500 (Behind Schedule)",
+                "SV = -$10,000 (Behind Schedule)",
+                "SV = +$10,000 (Ahead of Schedule)",
+                "SV = -$2,500 (Behind Schedule)"
+            ],
+            "answer": "SV = -$10,000 (Behind Schedule)"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "SCENARIO CONTINUED: Based on the previously calculated EV ($40,000) and AC ($47,500), what is the Cost Performance Index (CPI), and what does it indicate?",
+            "options": [
+                "CPI = 1.18, indicating the project is performing well under budget.",
+                "CPI = 0.80, indicating the project is behind schedule.",
+                "CPI = 0.84, indicating the project is currently over budget.",
+                "CPI = 1.05, indicating the project is perfectly on budget."
+            ],
+            "answer": "CPI = 0.84, indicating the project is currently over budget."
+        },
+        {
+            "type": "multiple-choice",
+            "question": "SCENARIO CONTINUED: Based on the previously calculated EV ($40,000) and PV ($50,000), what is the Schedule Performance Index (SPI)?",
+            "options": [
+                "0.84",
+                "0.80",
+                "1.25",
+                "0.95"
+            ],
+            "answer": "0.80"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "SCENARIO CONTINUED: Using the CPI of 0.84 and the original Budget at Completion (BAC) of $100,000, calculate the Estimate at Completion (EAC). What is the new expected total cost of the project?",
+            "options": [
+                "$84,000",
+                "$100,000",
+                "$119,000",
+                "$125,000"
+            ],
+            "answer": "$119,000"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "SCENARIO CONTINUED: Using the SPI of 0.80 and the original time of 10 weeks, calculate the Estimate to Complete (ETC) time. What is the newly forecasted timeline to finish the job?",
+            "options": [
+                "8 weeks",
+                "10 weeks",
+                "11.5 weeks",
+                "12.5 weeks"
+            ],
+            "answer": "12.5 weeks"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "If a project currently has a CPI of 0.84 and an SPI of 0.80, which of the following statements comprehensively and accurately describes the project's health?",
+            "options": [
+                "For every dollar spent, the project is getting $1.18 in value, and it is progressing 20% faster than planned.",
+                "The project is under budget but behind schedule.",
+                "The project is currently costing more than planned (over budget) and is progressing slower than planned (behind schedule).",
+                "The project is ahead of schedule but over budget."
+            ],
+            "answer": "The project is currently costing more than planned (over budget) and is progressing slower than planned (behind schedule)."
+        }
+    ]
+}
