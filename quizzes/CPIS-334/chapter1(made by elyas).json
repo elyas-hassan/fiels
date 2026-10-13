@@ -1,0 +1,389 @@
+{
+    "id": "1",
+    "category": "Project Management",
+    "title": "Project Management: Fundamentals, Frameworks, and Roles",
+    "timeLimit": 3600,
+    "questions": [
+        {
+            "type": "multiple-choice",
+            "question": "Which of the following best defines a project?",
+            "options": [
+                "An ongoing operational process",
+                "A temporary endeavor undertaken to create a unique product, service, or result",
+                "A collection of programs managed strategically",
+                "A permanent business entity"
+            ],
+            "answer": "A temporary endeavor undertaken to create a unique product, service, or result"
+        },
+        {
+            "type": "true-false",
+            "question": "The term 'temporary' in a project means that the project itself and its resulting output will be short-lived.",
+            "answer": "false"
+        },
+        {
+            "type": "fill-in-the-blank",
+            "question": "Projects develop in incremental steps, starting broadly defined and becoming clearer over time. This key attribute is known as __________.",
+            "answer": "Progressive Elaboration"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Evaluating the user experience (UX) of a corporate website is considered which type of project output?",
+            "options": [
+                "Product (منتج)",
+                "Service (خدمة)",
+                "Result (نتيجة)",
+                "Program (برنامج)"
+            ],
+            "answer": "Result (نتيجة)"
+        },
+        {
+            "type": "fill-in-the-blank",
+            "question": "The person or group who provides direction and funding for the project is called the __________.",
+            "answer": "Sponsor"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which of the following constitutes the 'Triple Constraint' in project management?",
+            "options": [
+                "Scope, Time, Quality",
+                "Scope, Time, Cost",
+                "Time, Cost, Risk",
+                "Scope, Resources, Quality"
+            ],
+            "answer": "Scope, Time, Cost"
+        },
+        {
+            "type": "fill-in-the-blank",
+            "question": "The Quadruple Constraint adds __________ to the traditional Triple Constraint.",
+            "answer": "Quality"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "According to the 'Client Choice Rule', if a client wants a project to be 'Good' and 'Cheap', the result will inherently be:",
+            "options": [
+                "Expensive",
+                "Fast",
+                "Inferior Quality",
+                "Slow"
+            ],
+            "answer": "Slow"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "According to the 'Client Choice Rule', what is the outcome of a project that is 'Fast' and 'Cheap'?",
+            "options": [
+                "Expensive",
+                "High Quality",
+                "Inferior Quality",
+                "Slow"
+            ],
+            "answer": "Inferior Quality"
+        },
+        {
+            "type": "fill-in-the-blank",
+            "question": "A __________ is any restriction or blocker that limits a project team's options or creates trouble in reaching goals.",
+            "answer": "constraint"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "A group of related projects managed in a coordinated way to obtain benefits and control not available from managing them individually is defined as a:",
+            "options": [
+                "Portfolio",
+                "Program",
+                "Sponsor Group",
+                "Framework"
+            ],
+            "answer": "Program"
+        },
+        {
+            "type": "true-false",
+            "question": "Projects within a portfolio must be directly related to one another in order to be grouped together.",
+            "answer": "false"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which level of management focuses on 'Doing the right things' (Strategic alignment)?",
+            "options": [
+                "Project Management",
+                "Program Management",
+                "Portfolio Management",
+                "Resource Management"
+            ],
+            "answer": "Portfolio Management"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which level of management focuses on 'Doing things right' (Tactical execution)?",
+            "options": [
+                "Project Management",
+                "Portfolio Management",
+                "Strategic Management",
+                "Executive Management"
+            ],
+            "answer": "Project Management"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "What is the core focus (التركيز الأساسي) of Portfolio Management in Arabic terms?",
+            "options": [
+                "التكتيك (أداء الأعمال بطريقة صحيحة)",
+                "التنسيق (الربط بين مشاريع ذات صلة)",
+                "الاستراتيجية (اختيار الأفكار والمشاريع الصحيحة)",
+                "العمل المنفرد (لإنتاج شيء محدد)"
+            ],
+            "answer": "الاستراتيجية (اختيار الأفكار والمشاريع الصحيحة)"
+        },
+        {
+            "type": "fill-in-the-blank",
+            "question": "Anyone actively involved in or affected positively or negatively by the project execution is called a __________.",
+            "answer": "Stakeholder"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Stakeholders whose interests are negatively impacted by the project are formally known as:",
+            "options": [
+                "Sponsors",
+                "Opponents",
+                "Vendors",
+                "Admin Staff"
+            ],
+            "answer": "Opponents"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which of the 10 Project Management Knowledge Areas is the overarching function that ties all other areas together?",
+            "options": [
+                "Scope",
+                "Communication",
+                "Integration",
+                "Stakeholder"
+            ],
+            "answer": "Integration"
+        },
+        {
+            "type": "fill-in-the-blank",
+            "question": "The knowledge area that involves defining and controlling what is and is not included in the project is called Project __________ Management.",
+            "answer": "Scope"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "A Work Breakdown Structure (WBS) is a tool primarily associated with which Knowledge Area?",
+            "options": [
+                "Time",
+                "Cost",
+                "Scope",
+                "Quality"
+            ],
+            "answer": "Scope"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Gantt Charts and Network Diagrams are techniques used mostly in which Knowledge Area?",
+            "options": [
+                "Scope",
+                "Risk",
+                "Integration",
+                "Time (Schedule)"
+            ],
+            "answer": "Time (Schedule)"
+        },
+        {
+            "type": "fill-in-the-blank",
+            "question": "The knowledge area responsible for acquiring external goods, tools, or vendor services is called __________ Management.",
+            "answer": "Procurement"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which of the following is NOT typically a criterion for project success?",
+            "options": [
+                "Met scope, time, and cost goals",
+                "Satisfied the customer/sponsor",
+                "Eliminated all competitors in the market",
+                "Results achieved the primary objective (e.g., high ROI)"
+            ],
+            "answer": "Eliminated all competitors in the market"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which of the following is considered a key reason projects fail?",
+            "options": [
+                "Shorter development cycles",
+                "Lack of executive leadership support",
+                "Improved customer relations",
+                "Structured project management"
+            ],
+            "answer": "Lack of executive leadership support"
+        },
+        {
+            "type": "true-false",
+            "question": "One of the reasons projects fail is the inability to manage changing scope or requirements.",
+            "answer": "true"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "According to research, what percentage of successful projects are led by experienced project managers?",
+            "options": [
+                "50%",
+                "75%",
+                "89%",
+                "97%"
+            ],
+            "answer": "97%"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "While 'Management' deals with day-to-day operational execution, 'Leadership' focuses on:",
+            "options": [
+                "Budget tracking and Gantt charts",
+                "Long-term vision, big-picture goals, and inspiring people",
+                "Generating status and progress reports",
+                "Acquiring external vendor services"
+            ],
+            "answer": "Long-term vision, big-picture goals, and inspiring people"
+        },
+        {
+            "type": "fill-in-the-blank",
+            "question": "Building trust, active listening, and verbal communication fall under __________ skills.",
+            "answer": "Soft"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "According to the PMI Ethics Code Principles, project managers should only accept tasks that:",
+            "options": [
+                "Match their background, experience, and skills",
+                "Pay the highest financial reward",
+                "Can be completed within one month",
+                "Require no external vendors"
+            ],
+            "answer": "Match their background, experience, and skills"
+        },
+        {
+            "type": "true-false",
+            "question": "According to PMI Ethics, a Project Manager should resolve conflicts indirectly by involving upper management immediately, rather than directly with affected persons.",
+            "answer": "false"
+        },
+        {
+            "type": "fill-in-the-blank",
+            "question": "According to PMI Ethics, project managers must proactively disclose potential or real __________ of interest.",
+            "answer": "conflicts"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Microsoft Project is considered what category of Project Management Software Tool?",
+            "options": [
+                "Low-End Tool",
+                "Midrange Tool",
+                "High-End / Enterprise Tool",
+                "Free Open-Source Tool"
+            ],
+            "answer": "Midrange Tool"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Primavera is best classified as a:",
+            "options": [
+                "Low-End Tool",
+                "Midrange Tool",
+                "High-End / Enterprise Tool",
+                "Basic Communication Tool"
+            ],
+            "answer": "High-End / Enterprise Tool"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Jira, Asana, and Clarizen are examples of:",
+            "options": [
+                "Web-Based & Modern Cloud Tools",
+                "Outdated offline tools",
+                "Low-end local desktop tools",
+                "Accounting-specific software"
+            ],
+            "answer": "Web-Based & Modern Cloud Tools"
+        },
+        {
+            "type": "fill-in-the-blank",
+            "question": "The application of knowledge, skills, tools, and techniques to project activities to meet project requirements is the definition of __________.",
+            "answer": "Project Management"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ما هي معايير النجاح الأساسية للمشروع؟ (What are the basic success criteria for a project?)",
+            "options": [
+                "تحقيق الأهداف ضمن الوقت والميزانية المحددين فقط",
+                "رضا العميل وتحقيق العائد الاستثماري المتوقع",
+                "تحقيق الأهداف ضمن الوقت والميزانية + رضا العميل + تحقيق العائد الاستثماري",
+                "إكمال المشروع في أسرع وقت بغض النظر عن الجودة والميزانية"
+            ],
+            "answer": "تحقيق الأهداف ضمن الوقت والميزانية + رضا العميل + تحقيق العائد الاستثماري"
+        },
+        {
+            "type": "fill-in-the-blank",
+            "question": "The tool/technique known as 'Earned Value' is utilized within the Project __________ Knowledge Area.",
+            "answer": "Cost"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Generating, distributing, and storing project information falls under which Knowledge Area?",
+            "options": [
+                "Integration",
+                "Stakeholder",
+                "Communication",
+                "Human Resources"
+            ],
+            "answer": "Communication"
+        },
+        {
+            "type": "true-false",
+            "question": "A temporary project does not mean it is short-lived; building an airport takes years, but it still has a definitive end.",
+            "answer": "true"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Which of the following is an advantage of Structured Project Management?",
+            "options": [
+                "Longer development cycles",
+                "Higher costs",
+                "Lower profit margins",
+                "Better resource control (financial, human, physical)"
+            ],
+            "answer": "Better resource control (financial, human, physical)"
+        },
+        {
+            "type": "fill-in-the-blank",
+            "question": "The skill of negotiating terms and reaching consensus under pressure is called __________ Resolution.",
+            "answer": "Conflict"
+        },
+        {
+            "type": "fill-in-the-blank",
+            "question": "Problem-solving and balancing competing priorities are attributes of __________ Thinking.",
+            "answer": "Critical"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "If a project ends because the objectives cannot be met or the need no longer exists, this proves that the project was:",
+            "options": [
+                "Unique",
+                "Temporary",
+                "Progressively Elaborated",
+                "Unconstrained"
+            ],
+            "answer": "Temporary"
+        },
+        {
+            "type": "multiple-choice",
+            "question": "Identifying, analyzing, and responding to potential uncertainties is the primary function of which Knowledge Area?",
+            "options": [
+                "Quality",
+                "Integration",
+                "Risk",
+                "Procurement"
+            ],
+            "answer": "Risk"
+        },
+        {
+            "type": "fill-in-the-blank",
+            "question": "The PMI is an international organization founded in 1969. PMI stands for __________ Management Institute.",
+            "answer": "Project"
+        }
+    ]
+}
