@@ -191,11 +191,6 @@
             "answer": "2 to 4 weeks"
         },
         {
-            "type": "true-false",
-            "question": "The daily scrum meeting lasts for 24 hours.",
-            "answer": "false"
-        },
-        {
             "type": "multiple-choice",
             "question": "A series of actions directed toward a particular result, represented by 'Inputs → {Process {Tools & Techniques}} → Outputs', defines a:",
             "options": [
