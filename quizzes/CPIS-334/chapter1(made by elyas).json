@@ -21,9 +21,9 @@
             "answer": "false"
         },
         {
-            "type": "fill-in-the-blank",
-            "question": "Projects develop in incremental steps, starting broadly defined and becoming clearer over time. This key attribute is known as __________.",
-            "answer": "Progressive Elaboration"
+            "type": "true-false",
+            "question": "Projects develop in incremental steps, starting broadly defined and becoming clearer over time. This key attribute is known as Progressive Elaboration.",
+            "answer": "true"
         },
         {
             "type": "multiple-choice",
@@ -37,9 +37,9 @@
             "answer": "Result (نتيجة)"
         },
         {
-            "type": "fill-in-the-blank",
-            "question": "The person or group who provides direction and funding for the project is called the __________.",
-            "answer": "Sponsor"
+            "type": "true-false",
+            "question": "The person or group who provides direction and funding for the project is called the sponsor.",
+            "answer": "true"
         },
         {
             "type": "multiple-choice",
@@ -53,9 +53,9 @@
             "answer": "Scope, Time, Cost"
         },
         {
-            "type": "fill-in-the-blank",
-            "question": "The Quadruple Constraint adds __________ to the traditional Triple Constraint.",
-            "answer": "Quality"
+            "type": "true-false",
+            "question": "The Quadruple Constraint adds Quality to the traditional Triple Constraint.",
+            "answer": "true"
         },
         {
             "type": "multiple-choice",
@@ -80,9 +80,9 @@
             "answer": "Inferior Quality"
         },
         {
-            "type": "fill-in-the-blank",
-            "question": "A __________ is any restriction or blocker that limits a project team's options or creates trouble in reaching goals.",
-            "answer": "constraint"
+            "type": "true-false",
+            "question": "A constraint is any restriction or blocker that limits a project team's options or creates trouble in reaching goals.",
+            "answer": "true"
         },
         {
             "type": "multiple-choice",
@@ -134,9 +134,9 @@
             "answer": "الاستراتيجية (اختيار الأفكار والمشاريع الصحيحة)"
         },
         {
-            "type": "fill-in-the-blank",
-            "question": "Anyone actively involved in or affected positively or negatively by the project execution is called a __________.",
-            "answer": "Stakeholder"
+            "type": "true-false",
+            "question": "Anyone actively involved in or affected positively or negatively by the project execution is called a Stakeholder.",
+            "answer": "true"
         },
         {
             "type": "multiple-choice",
@@ -161,9 +161,9 @@
             "answer": "Integration"
         },
         {
-            "type": "fill-in-the-blank",
-            "question": "The knowledge area that involves defining and controlling what is and is not included in the project is called Project __________ Management.",
-            "answer": "Scope"
+            "type": "true-false",
+            "question": "The knowledge area that involves defining and controlling what is and is not included in the project is called Project Scope Management.",
+            "answer": "true"
         },
         {
             "type": "multiple-choice",
@@ -188,9 +188,9 @@
             "answer": "Time (Schedule)"
         },
         {
-            "type": "fill-in-the-blank",
-            "question": "The knowledge area responsible for acquiring external goods, tools, or vendor services is called __________ Management.",
-            "answer": "Procurement"
+            "type": "true-false",
+            "question": "The knowledge area responsible for acquiring external goods, tools, or vendor services is called Procurement Management.",
+            "answer": "true"
         },
         {
             "type": "multiple-choice",
@@ -242,9 +242,9 @@
             "answer": "Long-term vision, big-picture goals, and inspiring people"
         },
         {
-            "type": "fill-in-the-blank",
-            "question": "Building trust, active listening, and verbal communication fall under __________ skills.",
-            "answer": "Soft"
+            "type": "true-false",
+            "question": "Building trust, active listening, and verbal communication fall under Soft skills.",
+            "answer": "true"
         },
         {
             "type": "multiple-choice",
@@ -263,9 +263,9 @@
             "answer": "false"
         },
         {
-            "type": "fill-in-the-blank",
-            "question": "According to PMI Ethics, project managers must proactively disclose potential or real __________ of interest.",
-            "answer": "conflicts"
+            "type": "true-false",
+            "question": "According to PMI Ethics, project managers must proactively disclose potential or real conflicts of interest.",
+            "answer": "true"
         },
         {
             "type": "multiple-choice",
@@ -301,9 +301,9 @@
             "answer": "Web-Based & Modern Cloud Tools"
         },
         {
-            "type": "fill-in-the-blank",
-            "question": "The application of knowledge, skills, tools, and techniques to project activities to meet project requirements is the definition of __________.",
-            "answer": "Project Management"
+            "type": "true-false",
+            "question": "The application of knowledge, skills, tools, and techniques to project activities to meet project requirements is the definition of Project Management.",
+            "answer": "true"
         },
         {
             "type": "multiple-choice",
@@ -317,9 +317,9 @@
             "answer": "تحقيق الأهداف ضمن الوقت والميزانية + رضا العميل + تحقيق العائد الاستثماري"
         },
         {
-            "type": "fill-in-the-blank",
-            "question": "The tool/technique known as 'Earned Value' is utilized within the Project __________ Knowledge Area.",
-            "answer": "Cost"
+            "type": "true-false",
+            "question": "The tool/technique known as 'Earned Value' is utilized within the Project Cost Knowledge Area.",
+            "answer": "true"
         },
         {
             "type": "multiple-choice",
@@ -349,14 +349,14 @@
             "answer": "Better resource control (financial, human, physical)"
         },
         {
-            "type": "fill-in-the-blank",
-            "question": "The skill of negotiating terms and reaching consensus under pressure is called __________ Resolution.",
-            "answer": "Conflict"
+            "type": "true-false",
+            "question": "The skill of negotiating terms and reaching consensus under pressure is called Conflict Resolution.",
+            "answer": "true"
         },
         {
-            "type": "fill-in-the-blank",
-            "question": "Problem-solving and balancing competing priorities are attributes of __________ Thinking.",
-            "answer": "Critical"
+            "type": "true-false",
+            "question": "Problem-solving and balancing competing priorities are attributes of Critical Thinking.",
+            "answer": "true"
         },
         {
             "type": "multiple-choice",
@@ -381,9 +381,9 @@
             "answer": "Risk"
         },
         {
-            "type": "fill-in-the-blank",
-            "question": "The PMI is an international organization founded in 1969. PMI stands for __________ Management Institute.",
-            "answer": "Project"
+            "type": "true-false",
+            "question": "The PMI is an international organization founded in 1969. PMI stands for Project Management Institute.",
+            "answer": "true"
         }
     ]
 }
