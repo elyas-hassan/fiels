@@ -140,6 +140,665 @@
       "type": "event",
       "courseCode": "MONEY",
       "section": "ALL"
-    }
+    },
+     {
+    "id": "evt-227",
+    "title": "CPIS-334 Midterm Exam",
+    "description": "09:00 - 10:30",
+    "endTime": "2026-10-18T10:30:00",
+    "type": "exam",
+    "courseCode": "CPIS-334",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-228",
+    "title": "CPCS-302 Midterm Exam",
+    "description": "11:00 - 12:30",
+    "endTime": "2026-10-18T12:30:00",
+    "type": "exam",
+    "courseCode": "CPCS-302",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-229",
+    "title": "CPIS-357 Midterm Exam",
+    "description": "11:00 - 12:30",
+    "endTime": "2026-10-18T12:30:00",
+    "type": "exam",
+    "courseCode": "CPIS-357",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-230",
+    "title": "CPIT-260 Midterm Exam",
+    "description": "11:00 - 12:30",
+    "endTime": "2026-10-18T12:30:00",
+    "type": "exam",
+    "courseCode": "CPIT-260",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-231",
+    "title": "CPCS-223 Midterm Exam",
+    "description": "09:00 - 10:30",
+    "endTime": "2026-10-19T10:30:00",
+    "type": "exam",
+    "courseCode": "CPCS-223",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-232",
+    "title": "CPIS-428 Midterm Exam",
+    "description": "09:00 - 10:30",
+    "endTime": "2026-10-19T10:30:00",
+    "type": "exam",
+    "courseCode": "CPIS-428",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-233",
+    "title": "CPIT-220 Midterm Exam",
+    "description": "09:00 - 10:30",
+    "endTime": "2026-10-19T10:30:00",
+    "type": "exam",
+    "courseCode": "CPIT-220",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-234",
+    "title": "CPCS-212 Midterm Exam",
+    "description": "11:00 - 12:30",
+    "endTime": "2026-10-19T12:30:00",
+    "type": "exam",
+    "courseCode": "CPCS-212",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-235",
+    "title": "CPIS-220 Midterm Exam",
+    "description": "11:00 - 12:30",
+    "endTime": "2026-10-19T12:30:00",
+    "type": "exam",
+    "courseCode": "CPIS-220",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-236",
+    "title": "CPIT-280 Midterm Exam",
+    "description": "11:00 - 12:30",
+    "endTime": "2026-10-19T12:30:00",
+    "type": "exam",
+    "courseCode": "CPIT-280",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-237",
+    "title": "CPCS-391 Midterm Exam",
+    "description": "09:00 - 10:30",
+    "endTime": "2026-10-20T10:30:00",
+    "type": "exam",
+    "courseCode": "CPCS-391",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-238",
+    "title": "CPIT-201 Midterm Exam",
+    "description": "09:00 - 10:30",
+    "endTime": "2026-10-20T10:30:00",
+    "type": "exam",
+    "courseCode": "CPIT-201",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-239",
+    "title": "CPIT-455 Midterm Exam",
+    "description": "09:00 - 10:30",
+    "endTime": "2026-10-20T10:30:00",
+    "type": "exam",
+    "courseCode": "CPIT-455",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-240",
+    "title": "CPIS-351 Midterm Exam",
+    "description": "11:00 - 12:30",
+    "endTime": "2026-10-20T12:30:00",
+    "type": "exam",
+    "courseCode": "CPIS-351",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-241",
+    "title": "CPIS-380 Midterm Exam",
+    "description": "11:00 - 12:30",
+    "endTime": "2026-10-20T12:30:00",
+    "type": "exam",
+    "courseCode": "CPIS-380",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-242",
+    "title": "CPIT-252 Midterm Exam",
+    "description": "11:00 - 12:30",
+    "endTime": "2026-10-20T12:30:00",
+    "type": "exam",
+    "courseCode": "CPIT-252",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-243",
+    "title": "CPIT-456 Midterm Exam",
+    "description": "09:00 - 10:30",
+    "endTime": "2026-10-21T10:30:00",
+    "type": "exam",
+    "courseCode": "CPIT-456",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-244",
+    "title": "CPIS-222 Midterm Exam",
+    "description": "11:00 - 12:30",
+    "endTime": "2026-10-21T12:30:00",
+    "type": "exam",
+    "courseCode": "CPIS-222",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-245",
+    "title": "CPIS-320 Midterm Exam",
+    "description": "11:00 - 12:30",
+    "endTime": "2026-10-21T12:30:00",
+    "type": "exam",
+    "courseCode": "CPIS-320",
+    "section": "ALL"
+  },
+
+
+     {
+    "id": "evt-246",
+    "title": "CPCS-301 Midterm Exam",
+    "description": "09:00 - 10:30",
+    "endTime": "2026-10-22T10:30:00",
+    "type": "exam",
+    "courseCode": "CPCS-301",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-247",
+    "title": "CPCS-351 Midterm Exam",
+    "description": "09:00 - 10:30",
+    "endTime": "2026-10-22T10:30:00",
+    "type": "exam",
+    "courseCode": "CPCS-351",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-248",
+    "title": "CPCS-432 Midterm Exam",
+    "description": "09:00 - 10:30",
+    "endTime": "2026-10-22T10:30:00",
+    "type": "exam",
+    "courseCode": "CPCS-432",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-249",
+    "title": "CPIS-210 Midterm Exam",
+    "description": "09:00 - 10:30",
+    "endTime": "2026-10-22T10:30:00",
+    "type": "exam",
+    "courseCode": "CPIS-210",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-250",
+    "title": "CPIT-405 Midterm Exam",
+    "description": "09:00 - 10:30",
+    "endTime": "2026-10-22T10:30:00",
+    "type": "exam",
+    "courseCode": "CPIT-405",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-251",
+    "title": "CPCS-405 Midterm Exam",
+    "description": "11:00 - 12:30",
+    "endTime": "2026-10-22T12:30:00",
+    "type": "exam",
+    "courseCode": "CPCS-405",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-252",
+    "title": "CPIS-354 Midterm Exam",
+    "description": "11:00 - 12:30",
+    "endTime": "2026-10-22T12:30:00",
+    "type": "exam",
+    "courseCode": "CPIS-354",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-253",
+    "title": "CPIS-434 Midterm Exam",
+    "description": "11:00 - 12:30",
+    "endTime": "2026-10-22T12:30:00",
+    "type": "exam",
+    "courseCode": "CPIS-434",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-254",
+    "title": "CPIT-330 Midterm Exam",
+    "description": "11:00 - 12:30",
+    "endTime": "2026-10-22T12:30:00",
+    "type": "exam",
+    "courseCode": "CPIT-330",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-255",
+    "title": "CPIT-370 Midterm Exam",
+    "description": "11:00 - 12:30",
+    "endTime": "2026-10-22T12:30:00",
+    "type": "exam",
+    "courseCode": "CPIT-370",
+    "section": "ALL"
+  },
+
+
+
+     {
+    "id": "evt-256",
+    "title": "CPCS-211 Midterm Exam",
+    "description": "13:00 - 14:30",
+    "endTime": "2026-10-25T14:30:00",
+    "type": "exam",
+    "courseCode": "CPCS-211",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-257",
+    "title": "CPIS-250 Midterm Exam",
+    "description": "13:00 - 14:30",
+    "endTime": "2026-10-25T14:30:00",
+    "type": "exam",
+    "courseCode": "CPIS-250",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-258",
+    "title": "CPIS-420 Midterm Exam",
+    "description": "13:00 - 14:30",
+    "endTime": "2026-10-25T14:30:00",
+    "type": "exam",
+    "courseCode": "CPIS-420",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-259",
+    "title": "CPIT-250 Midterm Exam",
+    "description": "13:00 - 14:30",
+    "endTime": "2026-10-25T14:30:00",
+    "type": "exam",
+    "courseCode": "CPIT-250",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-260",
+    "title": "CPIT-345 Midterm Exam",
+    "description": "13:00 - 14:30",
+    "endTime": "2026-10-25T14:30:00",
+    "type": "exam",
+    "courseCode": "CPIT-345",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-261",
+    "title": "CPCS-361 Midterm Exam",
+    "description": "15:00 - 16:30",
+    "endTime": "2026-10-25T16:30:00",
+    "type": "exam",
+    "courseCode": "CPCS-361",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-262",
+    "title": "CPCS-403 Midterm Exam",
+    "description": "15:00 - 16:30",
+    "endTime": "2026-10-25T16:30:00",
+    "type": "exam",
+    "courseCode": "CPCS-403",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-263",
+    "title": "CPIS-352 Midterm Exam",
+    "description": "15:00 - 16:30",
+    "endTime": "2026-10-25T16:30:00",
+    "type": "exam",
+    "courseCode": "CPIS-352",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-264",
+    "title": "CPIS-490 Midterm Exam",
+    "description": "15:00 - 16:30",
+    "endTime": "2026-10-25T16:30:00",
+    "type": "exam",
+    "courseCode": "CPIS-490",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-265",
+    "title": "CPIT-251 Midterm Exam",
+    "description": "15:00 - 16:30",
+    "endTime": "2026-10-25T16:30:00",
+    "type": "exam",
+    "courseCode": "CPIT-251",
+    "section": "ALL"
+  },
+
+
+
+
+      {
+    "id": "evt-266",
+    "title": "CPCS-222 Midterm Exam",
+    "description": "13:00 - 14:30",
+    "endTime": "2026-10-26T14:30:00",
+    "type": "exam",
+    "courseCode": "CPCS-222",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-267",
+    "title": "CPIT-490 Midterm Exam",
+    "description": "13:00 - 14:30",
+    "endTime": "2026-10-26T14:30:00",
+    "type": "exam",
+    "courseCode": "CPIT-490",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-268",
+    "title": "CPCS-494 Midterm Exam",
+    "description": "15:00 - 16:30",
+    "endTime": "2026-10-26T16:30:00",
+    "type": "exam",
+    "courseCode": "CPCS-494",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-269",
+    "title": "CPIS-360 Midterm Exam",
+    "description": "15:00 - 16:30",
+    "endTime": "2026-10-26T16:30:00",
+    "type": "exam",
+    "courseCode": "CPIS-360",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-270",
+    "title": "CPIT-425 Midterm Exam",
+    "description": "15:00 - 16:30",
+    "endTime": "2026-10-26T16:30:00",
+    "type": "exam",
+    "courseCode": "CPIT-425",
+    "section": "ALL"
+  },
+
+
+
+      {
+    "id": "evt-271",
+    "title": "CPCS-241 Midterm Exam",
+    "description": "13:00 - 14:30",
+    "endTime": "2026-10-27T14:30:00",
+    "type": "exam",
+    "courseCode": "CPCS-241",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-272",
+    "title": "CPCS-331 Midterm Exam",
+    "description": "13:00 - 14:30",
+    "endTime": "2026-10-27T14:30:00",
+    "type": "exam",
+    "courseCode": "CPCS-331",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-273",
+    "title": "CPIT-285 Midterm Exam",
+    "description": "13:00 - 14:30",
+    "endTime": "2026-10-27T14:30:00",
+    "type": "exam",
+    "courseCode": "CPIT-285",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-274",
+    "title": "CPIT-435 Midterm Exam",
+    "description": "13:00 - 14:30",
+    "endTime": "2026-10-27T14:30:00",
+    "type": "exam",
+    "courseCode": "CPIT-435",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-275",
+    "title": "CPIS-240 Midterm Exam",
+    "description": "15:00 - 16:30",
+    "endTime": "2026-10-27T16:30:00",
+    "type": "exam",
+    "courseCode": "CPIS-240",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-276",
+    "title": "CPIS-312 Midterm Exam",
+    "description": "15:00 - 16:30",
+    "endTime": "2026-10-27T16:30:00",
+    "type": "exam",
+    "courseCode": "CPIS-312",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-277",
+    "title": "CPIS-363 Midterm Exam",
+    "description": "15:00 - 16:30",
+    "endTime": "2026-10-27T16:30:00",
+    "type": "exam",
+    "courseCode": "CPIS-363",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-278",
+    "title": "CPIT-210 Midterm Exam",
+    "description": "15:00 - 16:30",
+    "endTime": "2026-10-27T16:30:00",
+    "type": "exam",
+    "courseCode": "CPIT-210",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-279",
+    "title": "CPIT-440 Midterm Exam",
+    "description": "15:00 - 16:30",
+    "endTime": "2026-10-27T16:30:00",
+    "type": "exam",
+    "courseCode": "CPIT-440",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-280",
+    "title": "CPIT-475 Midterm Exam",
+    "description": "15:00 - 16:30",
+    "endTime": "2026-10-27T16:30:00",
+    "type": "exam",
+    "courseCode": "CPIT-475",
+    "section": "ALL"
+  },
+
+
+    {
+    "id": "evt-281",
+    "title": "CPIS-358 Midterm Exam",
+    "description": "13:00 - 14:30",
+    "endTime": "2026-10-28T14:30:00",
+    "type": "exam",
+    "courseCode": "CPIS-358",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-282",
+    "title": "CPCS-381 Midterm Exam",
+    "description": "15:00 - 16:30",
+    "endTime": "2026-10-28T16:30:00",
+    "type": "exam",
+    "courseCode": "CPCS-381",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-283",
+    "title": "CPIT-380 Midterm Exam",
+    "description": "15:00 - 16:30",
+    "endTime": "2026-10-28T16:30:00",
+    "type": "exam",
+    "courseCode": "CPIT-380",
+    "section": "ALL"
+  },
+
+
+
+
+    {
+    "id": "evt-284",
+    "title": "CPCS-202 Midterm Exam",
+    "description": "13:00 - 14:30",
+    "endTime": "2026-10-29T14:30:00",
+    "type": "exam",
+    "courseCode": "CPCS-202",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-285",
+    "title": "CPCS-214 Midterm Exam",
+    "description": "13:00 - 14:30",
+    "endTime": "2026-10-29T14:30:00",
+    "type": "exam",
+    "courseCode": "CPCS-214",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-286",
+    "title": "CPCS-425 Midterm Exam",
+    "description": "13:00 - 14:30",
+    "endTime": "2026-10-29T14:30:00",
+    "type": "exam",
+    "courseCode": "CPCS-425",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-287",
+    "title": "CPIS-342 Midterm Exam",
+    "description": "13:00 - 14:30",
+    "endTime": "2026-10-29T14:30:00",
+    "type": "exam",
+    "courseCode": "CPIS-342",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-288",
+    "title": "CPIS-370 Midterm Exam",
+    "description": "13:00 - 14:30",
+    "endTime": "2026-10-29T14:30:00",
+    "type": "exam",
+    "courseCode": "CPIS-370",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-289",
+    "title": "CPIT-470 Midterm Exam",
+    "description": "13:00 - 14:30",
+    "endTime": "2026-10-29T14:30:00",
+    "type": "exam",
+    "courseCode": "CPIT-470",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-290",
+    "title": "CPCS-203 Midterm Exam",
+    "description": "15:00 - 16:30",
+    "endTime": "2026-10-29T16:30:00",
+    "type": "exam",
+    "courseCode": "CPCS-203",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-291",
+    "title": "CPCS-204 Midterm Exam",
+    "description": "15:00 - 16:30",
+    "endTime": "2026-10-29T16:30:00",
+    "type": "exam",
+    "courseCode": "CPCS-204",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-292",
+    "title": "CPCS-371 Midterm Exam",
+    "description": "15:00 - 16:30",
+    "endTime": "2026-10-29T16:30:00",
+    "type": "exam",
+    "courseCode": "CPCS-371",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-293",
+    "title": "CPIT-240 Midterm Exam",
+    "description": "15:00 - 16:30",
+    "endTime": "2026-10-29T16:30:00",
+    "type": "exam",
+    "courseCode": "CPIT-240",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-294",
+    "title": "CPIT-340 Midterm Exam",
+    "description": "15:00 - 16:30",
+    "endTime": "2026-10-29T16:30:00",
+    "type": "exam",
+    "courseCode": "CPIT-340",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-295",
+    "title": "CPIT-375 Midterm Exam",
+    "description": "15:00 - 16:30",
+    "endTime": "2026-10-29T16:30:00",
+    "type": "exam",
+    "courseCode": "CPIT-375",
+    "section": "ALL"
+  },
+
+
+      {
+    "id": "evt-296",
+    "title": "CPCS-324 Midterm Exam",
+    "description": "13:00 - 14:30",
+    "endTime": "2026-11-01T14:30:00",
+    "type": "exam",
+    "courseCode": "CPCS-324",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-297",
+    "title": "CPIT-305 Midterm Exam",
+    "description": "15:00 - 16:30",
+    "endTime": "2026-11-01T16:30:00",
+    "type": "exam",
+    "courseCode": "CPIT-305",
+    "section": "ALL"
+  }
   ]
 }
