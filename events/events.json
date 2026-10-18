@@ -18,6 +18,15 @@
   "courseCode": "CPCS-351",
   "section": "CS1"
 },
+    {
+  "id": "evt-298",
+  "title": "CPCS-331 Assignment 2",
+  "description": "Assignment 2 is now available online. Deadline: Saturday, 14 November, at 11:59 PM.",
+  "endTime": "2026-11-14T23:59:00",
+  "type": "assignment",
+  "courseCode": "CPCS-331",
+  "section": "ALL"
+},
 {
   "id": "evt-222",
   "title": "CPCS351 – Lab 4 – Graded Lab",
@@ -141,42 +150,7 @@
       "courseCode": "MONEY",
       "section": "ALL"
     },
-     {
-    "id": "evt-227",
-    "title": "CPIS-334 Midterm Exam",
-    "description": "09:00 - 10:30",
-    "endTime": "2026-10-18T10:30:00",
-    "type": "exam",
-    "courseCode": "CPIS-334",
-    "section": "ALL"
-  },
-  {
-    "id": "evt-228",
-    "title": "CPCS-302 Midterm Exam",
-    "description": "11:00 - 12:30",
-    "endTime": "2026-10-18T12:30:00",
-    "type": "exam",
-    "courseCode": "CPCS-302",
-    "section": "ALL"
-  },
-  {
-    "id": "evt-229",
-    "title": "CPIS-357 Midterm Exam",
-    "description": "11:00 - 12:30",
-    "endTime": "2026-10-18T12:30:00",
-    "type": "exam",
-    "courseCode": "CPIS-357",
-    "section": "ALL"
-  },
-  {
-    "id": "evt-230",
-    "title": "CPIT-260 Midterm Exam",
-    "description": "11:00 - 12:30",
-    "endTime": "2026-10-18T12:30:00",
-    "type": "exam",
-    "courseCode": "CPIT-260",
-    "section": "ALL"
-  },
+
   {
     "id": "evt-231",
     "title": "CPCS-223 Midterm Exam",
