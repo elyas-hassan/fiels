@@ -40,24 +40,6 @@
   "section": "ALL"
 },
     {
-  "id": "evt-225",
-  "title": "CPCS371 – Lab 07",
-  "description": "Lab 07 | 8.2.1.4 Packet Tracer - Designing and Implementing a VLSM Addressing Scheme | 9.3.1.2 Packet Tracer Simulation - Exploration of TCP and UDP Communication | 11:59 PM",
-  "endTime": "2026-10-27T23:59:00",
-  "type": "assignment",
-  "courseCode": "CPCS-371",
-  "section": "CS1"
-},
-    {
-      "id": "evt-092",
-      "title": "October (جمادى الأولى)",
-      "description": "موعد المكافأة لشهر جمادى الأولى (مكافئة شهر أكتوبر)",
-      "endTime": "2026-10-26T23:59:59",
-      "type": "event",
-      "courseCode": "MONEY",
-      "section": "ALL"
-    },
-    {
       "id": "evt-093",
       "title": "November (جمادى الآخرة)",
       "description": "موعد المكافأة لشهر جمادى الآخرة (مكافئة شهر نوفمبر)",
@@ -128,15 +110,7 @@
     },
 
 
-  {
-    "id": "evt-299",
-    "title": "CPCS-361 Lab 6",
-    "description": "Lab 6",
-    "endTime": "2026-10-27T23:59:00",
-    "type": "assignment",
-    "courseCode": "CPCS-361",
-    "section": "CS1"
-  },
+
   {
     "id": "evt-300",
     "title": "CPCS-324 Assignment 2",
@@ -148,148 +122,6 @@
   },
 
 
-
-
-
-    {
-    "id": "evt-281",
-    "title": "CPIS-358 Midterm Exam",
-    "description": "13:00 - 14:30",
-    "endTime": "2026-10-28T14:30:00",
-    "type": "exam",
-    "courseCode": "CPIS-358",
-    "section": "ALL"
-  },
-  {
-    "id": "evt-282",
-    "title": "CPCS-381 Midterm Exam",
-    "description": "15:00 - 16:30",
-    "endTime": "2026-10-28T16:30:00",
-    "type": "exam",
-    "courseCode": "CPCS-381",
-    "section": "ALL"
-  },
-  {
-    "id": "evt-283",
-    "title": "CPIT-380 Midterm Exam",
-    "description": "15:00 - 16:30",
-    "endTime": "2026-10-28T16:30:00",
-    "type": "exam",
-    "courseCode": "CPIT-380",
-    "section": "ALL"
-  },
-
-
-
-
-    {
-    "id": "evt-284",
-    "title": "CPCS-202 Midterm Exam",
-    "description": "13:00 - 14:30",
-    "endTime": "2026-10-29T14:30:00",
-    "type": "exam",
-    "courseCode": "CPCS-202",
-    "section": "ALL"
-  },
-  {
-    "id": "evt-285",
-    "title": "CPCS-214 Midterm Exam",
-    "description": "13:00 - 14:30",
-    "endTime": "2026-10-29T14:30:00",
-    "type": "exam",
-    "courseCode": "CPCS-214",
-    "section": "ALL"
-  },
-  {
-    "id": "evt-286",
-    "title": "CPCS-425 Midterm Exam",
-    "description": "13:00 - 14:30",
-    "endTime": "2026-10-29T14:30:00",
-    "type": "exam",
-    "courseCode": "CPCS-425",
-    "section": "ALL"
-  },
-  {
-    "id": "evt-287",
-    "title": "CPIS-342 Midterm Exam",
-    "description": "13:00 - 14:30",
-    "endTime": "2026-10-29T14:30:00",
-    "type": "exam",
-    "courseCode": "CPIS-342",
-    "section": "ALL"
-  },
-  {
-    "id": "evt-288",
-    "title": "CPIS-370 Midterm Exam",
-    "description": "13:00 - 14:30",
-    "endTime": "2026-10-29T14:30:00",
-    "type": "exam",
-    "courseCode": "CPIS-370",
-    "section": "ALL"
-  },
-  {
-    "id": "evt-289",
-    "title": "CPIT-470 Midterm Exam",
-    "description": "13:00 - 14:30",
-    "endTime": "2026-10-29T14:30:00",
-    "type": "exam",
-    "courseCode": "CPIT-470",
-    "section": "ALL"
-  },
-  {
-    "id": "evt-290",
-    "title": "CPCS-203 Midterm Exam",
-    "description": "15:00 - 16:30",
-    "endTime": "2026-10-29T16:30:00",
-    "type": "exam",
-    "courseCode": "CPCS-203",
-    "section": "ALL"
-  },
-  {
-    "id": "evt-291",
-    "title": "CPCS-204 Midterm Exam",
-    "description": "15:00 - 16:30",
-    "endTime": "2026-10-29T16:30:00",
-    "type": "exam",
-    "courseCode": "CPCS-204",
-    "section": "ALL"
-  },
-  {
-    "id": "evt-292",
-    "title": "CPCS-371 Midterm Exam",
-    "description": "15:00 - 16:30",
-    "endTime": "2026-10-29T16:30:00",
-    "type": "exam",
-    "courseCode": "CPCS-371",
-    "section": "ALL"
-  },
-  {
-    "id": "evt-293",
-    "title": "CPIT-240 Midterm Exam",
-    "description": "15:00 - 16:30",
-    "endTime": "2026-10-29T16:30:00",
-    "type": "exam",
-    "courseCode": "CPIT-240",
-    "section": "ALL"
-  },
-  {
-    "id": "evt-294",
-    "title": "CPIT-340 Midterm Exam",
-    "description": "15:00 - 16:30",
-    "endTime": "2026-10-29T16:30:00",
-    "type": "exam",
-    "courseCode": "CPIT-340",
-    "section": "ALL"
-  },
-  {
-    "id": "evt-295",
-    "title": "CPIT-375 Midterm Exam",
-    "description": "15:00 - 16:30",
-    "endTime": "2026-10-29T16:30:00",
-    "type": "exam",
-    "courseCode": "CPIT-375",
-    "section": "ALL"
-  },
 
 
       {
