@@ -1,6 +1,14 @@
 {
   "events": [
-
+{
+  "id": "evt-306",
+  "title": "CPCS-351 Lab 3 – Assessment",
+  "description": "Lab 3 Assessment",
+  "endTime": "2026-11-08T23:59:00",
+  "type": "assignment",
+  "courseCode": "CPCS-351",
+  "section": "ALL"
+},
     {
   "id": "evt-298",
   "title": "CPCS-331 Assignment 2",
