@@ -1,15 +1,6 @@
 {
   "events": [
 
-{
-  "id": "evt-221",
-  "title": "CPCS351 – Lab 3 – Graded Lab",
-  "description": "Lab Assignment | Individual work | Due November 8, 2026 | 11:59 PM",
-  "endTime": "2026-11-08T23:59:00",
-  "type": "assignment",
-  "courseCode": "CPCS-351",
-  "section": "CS1"
-},
     {
   "id": "evt-298",
   "title": "CPCS-331 Assignment 2",
@@ -132,14 +123,40 @@
   {
     "id": "evt-300",
     "title": "CPCS-324 Assignment 2",
-    "description": "Assignment 2",
-    "endTime": "2026-11-05T23:59:00",
+    "description": "Assignment 2(it's not late submission) ",
+    "endTime": "2026-11-07T23:59:00",
     "type": "assignment",
     "courseCode": "CPCS-324",
     "section": "ALL"
   },
 
-
+{
+    "id": "evt-303",
+    "title": "CPCS-324 Group Project – Part I (10%)",
+    "description": "Group Project – Part I (10%)",
+    "endTime": "2026-11-15T23:59:00",
+    "type": "project",
+    "courseCode": "CPCS-324",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-304",
+    "title": "CPCS-371 Assignment",
+    "description": "Assignment",
+    "endTime": "2026-11-25T23:59:00",
+    "type": "assignment",
+    "courseCode": "CPCS-371",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-305",
+    "title": "CPCS-361 Lab 7",
+    "description": "Lab 7",
+    "endTime": "2026-11-10T23:59:00",
+    "type": "assignment",
+    "courseCode": "CPCS-361",
+    "section": "CS1"
+  },
 
 
       {
