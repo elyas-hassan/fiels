@@ -1,5 +1,14 @@
 {
   "events": [
+    {
+  "id": "evt-307",
+  "title": "CPCS-371 Online Quiz",
+  "description": "Blackboard online quiz. Available for 30 minutes, starting at 4:00 PM.",
+  "endTime": "2026-11-09T16:30:00",
+  "type": "quiz",
+  "courseCode": "CPCS-371",
+  "section": "ALL"
+},
 {
   "id": "evt-306",
   "title": "CPCS-351 Lab 3 – Assessment",
