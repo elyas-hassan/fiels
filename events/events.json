@@ -1,5 +1,32 @@
 {
   "events": [
+  {
+    "id": "evt-308",
+    "title": "CPCS-371 Assignment 1",
+    "description": "Assignment 1",
+    "endTime": "2026-11-16T23:59:00",
+    "type": "assignment",
+    "courseCode": "CPCS-371",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-309",
+    "title": "CPCS-361 Project – First Submission",
+    "description": "Project – First Submission",
+    "endTime": "2026-11-29T23:59:00",
+    "type": "project",
+    "courseCode": "CPCS-361",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-310",
+    "title": "CPCS-361 Project – Final Submission",
+    "description": "Project – Final Submission",
+    "endTime": "2026-12-05T23:59:00",
+    "type": "project",
+    "courseCode": "CPCS-361",
+    "section": "ALL"
+  },
     {
   "id": "evt-307",
   "title": "CPCS-371 Online Quiz",
