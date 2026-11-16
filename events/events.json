@@ -1,6 +1,33 @@
 {
   "events": [
   {
+    "id": "evt-312",
+    "title": "CPCS-371 Online Quiz",
+    "description": "Blackboard online quiz. Starts at 4:00 PM and ends at 4:30 PM (UTC+3).",
+    "endTime": "2026-11-17T16:30:00",
+    "type": "quiz",
+    "courseCode": "CPCS-371",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-313",
+    "title": "CPCS-324 Project - Part 2",
+    "description": "Project - Part 2",
+    "endTime": "2026-12-10T23:59:00",
+    "type": "project",
+    "courseCode": "CPCS-324",
+    "section": "ALL"
+  },
+  {
+    "id": "evt-314",
+    "title": "CPCS-331 Assignment 3",
+    "description": "Assignment 3",
+    "endTime": "2026-12-12T23:59:00",
+    "type": "assignment",
+    "courseCode": "CPCS-331",
+    "section": "ALL"
+  },
+  {
     "id": "evt-308",
     "title": "CPCS-371 Assignment 1",
     "description": "Assignment 1",
@@ -37,15 +64,7 @@
   "section": "CS1"
 },
 
-    {
-  "id": "evt-298",
-  "title": "CPCS-331 Assignment 2",
-  "description": "Assignment 2 is now available online. Deadline: Saturday, 14 November, at 11:59 PM.",
-  "endTime": "2026-11-14T23:59:00",
-  "type": "assignment",
-  "courseCode": "CPCS-331",
-  "section": "ALL"
-},
+
 {
   "id": "evt-222",
   "title": "CPCS351 – Lab 4 – Graded Lab",
@@ -141,15 +160,6 @@
 
 
 
-{
-    "id": "evt-303",
-    "title": "CPCS-324 Group Project – Part I (10%)",
-    "description": "Group Project – Part I (10%)",
-    "endTime": "2026-11-15T23:59:00",
-    "type": "project",
-    "courseCode": "CPCS-324",
-    "section": "ALL"
-  },
   {
     "id": "evt-304",
     "title": "CPCS-371 project",
