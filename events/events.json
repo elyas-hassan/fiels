@@ -3,8 +3,8 @@
   {
     "id": "evt-312",
     "title": "CPCS-371 Online Quiz",
-    "description": "Blackboard online quiz. Starts at 4:00 PM and ends at 4:30 PM (UTC+3).",
-    "endTime": "2026-11-17T16:30:00",
+    "description": "Blackboard online quiz. Starts at 7:00 PM and assuming that it ends at 7:30 PM.",
+    "endTime": "2026-11-17T19:00:00",
     "type": "quiz",
     "courseCode": "CPCS-371",
     "section": "ALL"
